@@ -13,8 +13,8 @@ Supports translating:
 - ~~Produce Card Stories~~
 -~~Support Card Stories~~
 - Home interactions (Office characters)
-- Lyrics
-- Most of the UI through [scsp-localify].
+- Romaji Lyrics
+- Most of the UI
 - Skills, names, missions, and other such "dynamic" texts.
 - Planned: images
 
@@ -24,21 +24,32 @@ Assets are edited only for the purpose of translation and it is *the maintainer'
 Nonetheless such edits are of course against the relevant TOS so **proceed at your own risk**!  
 No maintainer nor contributor will be responsible for any issues encountered as a result of use.
 
+### Progress
+
+
+| Files                                                       | Elements                                                         | Note           |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- |
+| `scsp_localify`/`local2.json`                                |                                                         | Requires daily text dumps               |
+| `scsp_localify`/`Lyrics.json`                                |                                                         | Requires daily text dumps               |
+| `scsp_localify`/`localify.json`                              | `mlMaintenance_TextFormatTile`<br>`mlMenu_Button`<br>`mlMenu_Header` | Fully translated |
+| `scsp_localify`/`scenario`/`s40`/`04040000`/`s40_04040000_01.json`<br>`scsp_localify`/`scenario`/`s40`/`04040000`/`s40_04040000_02.json` |                                                         | -              |
+
 
 # Setting up / Getting started
 
 ## Requirements (get these first!)
-1. Install Python 3.11 from the files at the bottom of [this page](https://www.python.org/downloads/release/python-3116/).
-    - The defaults should work fine. To customize; you need pip, the py launcher, and tcl/tk. *Do not* select "add to path".
-    - [Direct link to download](https://www.python.org/ftp/python/3.11.6/python-3.11.6-amd64.exe).
-1. Clone or [download a zip](https://github.com/noccu/umamusu-translate/archive/refs/heads/master.zip) (green "code" button) of this project and extract it.
-1. Make sure you opened and logged in to the game at least once before.
+1. 
 
-## Install (do this once)
+## Install
 1. 
 
 
-# Thanks to
+# Special Thanks to
+[scsp-localify]
+[Project Imas Wiki]
+[Shiny Colors ENG Translation project]
 
+[Project Imas Wiki]: https://project-imas.wiki/
 [scsp-localify]: https://github.com/chinosk6/scsp-localify
+[Shiny Colors ENG Patch project]: https://github.com/snowyivu/ShinyColors
 
