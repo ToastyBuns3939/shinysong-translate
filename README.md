@@ -1,9 +1,7 @@
-This project is a toolset to translate *Uma Musume Pretty Derby* to English. It includes a few scripts to patch the game using these tools.  
+This project is a toolset to translate *IDOLMASTER SHINY COLORS: Song For Prism* to English. It includes a few scripts to patch the game using these tools.  
 It accomplishes this by modifying the localization file and Unity assets, aided additionally with dll hijacking through [scsp-localify].
 
-[Current state](#current-state). Guides for install and use can be found [below](#setting-up--getting-started).
-Translation progress and credits are in [tl-progress].  
-If you encounter problems, check the troubleshooting section with each guide step first. Open an issue or ask in the Discord server if this doesn't solve it.
+Guides for install and use can be found [below](#setting-up--getting-started).
 
 This is based on the DMM version of the game and *should* work on linux and mac too, with some limitations.  
 
@@ -15,7 +13,6 @@ Supports translating:
 - ~~Produce Card Stories~~
 -~~Support Card Stories~~
 - Home interactions (Office characters)
-- Speech balloons (home screen, training, …) 
 - Lyrics
 - Most of the UI through [scsp-localify].
 - Skills, names, missions, and other such "dynamic" texts.
@@ -38,18 +35,10 @@ No maintainer nor contributor will be responsible for any issues encountered as 
 1. Make sure you opened and logged in to the game at least once before.
 
 ## Install (do this once)
-1. Open the (extracted) folder and double click `install.bat` 
-    - This downloads a few technical requirements and sets UmaTL up for use.
-1. (Optional, for dialogue) Download all game data [through the game menu](docs/guide_batch_download.jpg)
-    - The patch will only edit files existing in your game data. If you don't do this you can simply rerun the dialogue import step below for new content.
+1. 
 
 
 # Thanks to
 
-[scsp-localify][scsp-localify]  
-[The original umamusume-db-translate](https://github.com/FabulousCupcake/umamusume-db-translate)  
-[Umamusume Translation Discord](https://discord.gg/HpMRFNvsMv)  
-Various dataminers
-
-[scsp-localify]: [https://github.com/chinosk6/scsp-localify]
+[scsp-localify]: https://github.com/chinosk6/scsp-localify
 
