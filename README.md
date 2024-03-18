@@ -1,7 +1,3 @@
-[![Support me on Patreon](https://img.shields.io/badge/dynamic/json?color=%23ff424d&label=Patreon&query=data.attributes.patron_count&suffix=%20trainers&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F2559100&style=flat-square&logo=patreon&logoColor=%23ff424d)](https://patreon.com/noccu)
-[![Support me on Ko-fi](https://img.shields.io/badge/Ko--fi-Support-%2300aff1?logo=kofi&logoColor=%2300aff1)](https://ko-fi.com/noccyu)
-[![Discord](https://img.shields.io/discord/980222697151807488?logo=discord&logoColor=4bba35&label=Discord)](https://discord.gg/xBMgwh6hHY)
-
 This project is a toolset to translate *Uma Musume Pretty Derby* to English. It includes a few scripts to patch the game using these tools.  
 It accomplishes this by modifying the master.mdb file and Unity assets, aided additionally with dll hijacking through [TLG].
 
@@ -9,70 +5,30 @@ It accomplishes this by modifying the master.mdb file and Unity assets, aided ad
 Translation progress and credits are in [tl-progress].  
 If you encounter problems, check the troubleshooting section with each guide step first. Open an issue or ask in the Discord server if this doesn't solve it.
 
-This is based on the DMM version of the game and *should* work on linux anc mac too, with some limitations.  
+This is based on the DMM version of the game and *should* work on linux and mac too, with some limitations.  
 
 # Features
 Supports translating:
 - Tutorials
-- Character stories
-- Main & Event stories
-    - Race segments
-    - Event prologues
-- Special events
-- Training stories
-- Home interactions (lobby characters)
+- ~~Main & Event stories~~
+- ~~Special events~~
+- ~~Produce Card Stories~~
+-~~Support Card Stories~~
+- Home interactions (Office characters)
 - Speech balloons (home screen, training, …) 
 - Lyrics
 - Most of the UI through [tlg].
-- Skills, names, missions, and other such "dynamic" texts. (Same as the old *mdb patch*)
+- Skills, names, missions, and other such "dynamic" texts.
 - Planned: images
 
-Other:
-- Deepl/fairseq integration for automatic machine translation.  
-- Story editor for easy translating with audio support (or simply reading along without patching).
-- Support for syncing with arbitrary framerates 
-- Adjustable reading speed.
-- Basic file/asset management tools (wip)
-- Auto-updates
-
-Included translations & credits: [tl-progress]  
-Toolset info: [scripts](#script-info)
-
 # Disclaimer
-UmaTL is not affiliated with Cygames and is purely a fan-community effort.  
+ShinySongTL is not affiliated with Bandai Namco and is purely a fan-community effort.  
 Assets are edited only for the purpose of translation and it is *the maintainer's belief* this is harmless and unlikely to be an issue. [^1]  
 Nonetheless such edits are of course against the relevant TOS so **proceed at your own risk**!  
 No maintainer nor contributor will be responsible for any issues encountered as a result of use.
 
-[^1]: cygames has a relatively good track record in leaving non-cheating, non-damaging tools and users alone in my experience. Any possible crackdown is also likely to start with announcements and warnings before bans.
-
-# **Current state**
-This project has taken a lot of time and effort that I can't afford to keep providing freely.  
-Work is continued, to the degree affordable and with a focus on translations, through the help of monthly supporters. This work is available first to said supporters who make it possible, and later finds its way to the wider community.
-
-This includes:
-- New translations for various story contents
-- Keeping up with the latest game updates
-- (occasional) Patch improvements & QOL
-- (occasional) Lyrics translations
-
-Some extra work or benefits, when available, remain only for supporters:
-- Polls & requests
-- Additional content (pakatube tl, …)
-- Translation spotlights; a series of small writeups expanding upon some terms, culture, and translations
-- Priority tech support
-
-Finally, some things will continue to be simultaneously updated for everyone:
-- Critical bug fixes
-- Integration of community translations (when permitted or submitted by the relevant contributor)
-- Minor housekeeping
-- Community-wide translation progress
-
-All the work that has gone into since 2021 as well as the abilities it provides both to users and community contributors remain available.  
-If you'd like to contribute as a supporter, please check the links at the top of this readme or at the right of the page.
 
 # Setting up / Getting started
-~~[An alternative guide with images by CryDuringItAll](https://docs.google.com/document/d/1_Ze8oez90d3Ic1rJhbK4F3wWe7hAIB_j2vJFjmcHfkY)~~ Outdated and not recommended anymore but could still be useful for images or extra guides.
 
 ## Requirements (get these first!)
 1. Install Python 3.11 from the files at the bottom of [this page](https://www.python.org/downloads/release/python-3116/).
@@ -161,27 +117,7 @@ In general, check out the [scripts](#script-info). You probably also want to `pi
         - Should no longer be needed when using TLG.
 3. **Skills and other variable text**: Check the `-h` help for scripts under `src/mdb/`
 
-# Script info
 
-See [data-layout.md](docs/data-layout.md) for an overview of the game's data files and how this repo maps translation files to them.
-
-All scripts are made to be run from the root dir, i.e: `py src/script.py -arg val`  
-Target arguments should almost always be given, processing the smallest amount of files you need at a time. See [id-structure].  
-For detailed info and args, run a script with the `-h` arg.
-
-script | desc
----|---
-filecopy | Simply copies files from the game dir to the project dir for backup.
-restore | Restores original game files from earlier backup or cygames servers.
-extract | Reads game files and writes relevant data to a local folder, ready to be translated. Creates *Translation Files*.
-import | The reverse; loads *Translation Files* and writes them back to game assets for importing into the game.
-machinetl + deepl-translator.user.js | In tandem, provide a way to translate *Translation Files* with deepl or fairseq-compatible neural net models. See [details](docs/translating.md#mtl-using-deepl).
-names | Translates name/speaker fields in *Translation Files*.
-textprocess | Processes dialogue text in *Translation Files* in various ways. Main use is adjusting lengths of lines for game display.
-subtransfer | Convert between ASS, SRT or TXT subtitle files and *Translation Files*. A few conventions must be followed, see its help.
-edit_story | GUI for editing *Translation Files*, originally started by [KevinVG207](https://github.com/KevinVG207).
-manage | Small tool to manage TLG's translation data. Requires use of [tlg].
-common/helpers | Not scripts. Hold shared functions and data for other scripts.
 
 
 # Contribute
