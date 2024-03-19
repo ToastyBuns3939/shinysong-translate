@@ -36,20 +36,13 @@ No maintainer nor contributor will be responsible for any issues encountered as 
 
 
 ### Progress
-
-
-| Files                                                       | Elements                                                         | Note           |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- |
-| `scsp_localify`/`local2.json`                                |                                                         | Requires daily text dumps               |
-| `scsp_localify`/`Lyrics.json`                                |                                                         | Requires daily text dumps               |
-| `scsp_localify`/`localify.json`                              |                                                         | Fully translated |
-| `scsp_localify`/`scenario`/                                  |                                                         | -                |
-
+Translation progress can be seen [here](https://docs.google.com/spreadsheets/d/1-9RUhuyvV8UxiJggC0Y_s_hqDpIk2k6ZXCI7Rc2SmIw/edit?usp=sharing)
 
 # Setting up / Getting started
 
 ## Requirements (get these first!)
-1. 
+1. a copy of **version.dll** from the [scsp-localify] repository
+2. 
 
 ## Install
 1. 
