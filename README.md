@@ -1,7 +1,7 @@
 
 
 
-This project is a toolset to translate *IDOLMASTER SHINY COLORS: Song For Prism* to English.
+This is an english fan-translation project for *IDOLMASTER SHINY COLORS: Song For Prism*.
 It accomplishes this by modifying the localization file and Unity assets, aided additionally with dll hijacking through [scsp-localify].
 
 Guides for install and use can be found [below](#setting-up--getting-started).
