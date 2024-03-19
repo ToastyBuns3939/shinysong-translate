@@ -41,8 +41,8 @@ Translation progress can be seen [here](https://docs.google.com/spreadsheets/d/1
 # Setting up / Getting started
 
 ## Requirements (get these first!)
-1. a copy of **version.dll** from the [scsp-localify] repository
-2. 
+1.   A copy of **version.dll** from the [scsp-localify] repository
+2.   
 
 ## Install
 1. 
