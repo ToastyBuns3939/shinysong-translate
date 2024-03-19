@@ -30,7 +30,7 @@ Upcoming features:
 
 # Disclaimer
 ShinySongTL is not affiliated with Bandai Namco and is purely a fan-community effort.  
-Assets are edited only for the purpose of translation and it is *the maintainer's belief* this is harmless and unlikely to be an issue. [^1]  
+Assets are edited only for the purpose of translation and it is *the maintainer's belief* this is harmless and unlikely to be an issue.  
 Nonetheless such edits are of course against the relevant TOS so **proceed at your own risk**!  
 No maintainer nor contributor will be responsible for any issues encountered as a result of use.
 
