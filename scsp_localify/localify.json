@@ -42277,8 +42277,8 @@
         "8": "Announcement"
     },
     "mlPublicText_GameGuard": {
-        "0": "Fan-Translation Disclaimer",
-        "1": "The patch is currently a work-in-progress.\nThere may be minor mistakes as the patch progress continues.\n\nIf an official translation is ever released by the publisher, please support the game and The iDOLM@STER series as a whole by purchasing it.\n\nPlease keep the patch updated by downloading the newest version from the project GitHub page at:\\nnhttps://github.com/ToastyBuns3939/shinysong-translate."
+        "0": "Song For Prism ENG Patch",
+        "1": "The patch is currently a work-in-progress.\nThere may be minor mistakes as the patch progress continues.\n\nIf an official translation is ever released by the publisher, please support the game and The iDOLM@STER series as a whole by purchasing it.\n\nPlease keep the patch updated by downloading the newest version from the project GitHub page at:\nhttps://github.com/ToastyBuns3939/shinysong-translate.\n\n"
     },
     "mlPublicText_Header": {
         "0": "Rank",
@@ -52278,7 +52278,7 @@
     },
     "mlTitle_caution": {
         "0": "Caution",
-        "1": "This application is free to play, but some content are available for a fee.",
+        "1": "This application is free to play,\nbut some content are available for a fee.",
         "2": "For minors (under 18 years old)",
         "3": "Minors must obtain the consent of their legal guardians (parents, etc.) before purchasing paid content. Please decide how to play the game (time of use, etc.) after careful consultation with your parents or guardians.<line-height=66%>\n</line-height>\n<sprite=3><color=#ff3300>If you do not know what to do,\nplease show the screen to someone at home.</color>"
     },
