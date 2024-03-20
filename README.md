@@ -26,7 +26,6 @@ Upcoming features:
 - Produce Card Stories
 - Support Card Stories
 - Home interactions (Office characters)
-- Image Translations
 
 <b>Questions, Feedback, or want to Help with Translations?：[Join the Discord](https://discord.gg/qjrK3hu9Vy)</b>
 
