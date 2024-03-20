@@ -52,9 +52,9 @@ Translation progress can be seen [here](https://docs.google.com/spreadsheets/d/1
 
 
 # Special Thanks to
-[scsp-localify]
-[Project Imas Wiki]
-[Shiny Colors ENG Translation project]
+[scsp-localify]  <br />
+[Project Imas Wiki]  <br />
+[Shiny Colors ENG Patch project] <br />
 
 [Project Imas Wiki]: https://project-imas.wiki/
 [scsp-localify]: https://github.com/chinosk6/scsp-localify
