@@ -49,6 +49,8 @@ Translation progress can be seen [here](https://docs.google.com/spreadsheets/d/1
 **C:\Users\YOUR_NAME\SONGforPRISM**
 
 2. The **scsp_localify** folder and the **scsp-config.json** file to the same folder.
+   Your folder should look like this:
+   ![Image Alt text](/images/example.png "Example"))  
 
 3. The game should be patched now
 
