@@ -11,13 +11,13 @@ This is based on the DMM version of the game and *should* work on linux and mac 
 # Features
 Supports translating:
 - Tutorials
-- Romaji Lyrics
+- Romaji Lyrics (partial)
 - Most of the UI
 - Skills, names, missions, and other such "dynamic" texts.
 
 Upcoming features:
 - Main & Event stories
-- Special events
+- Special Events (ie birthdays, april fools, etc)
 - Produce Card Stories
 - Support Card Stories
 - Home interactions (Office characters)
@@ -41,7 +41,7 @@ Translation progress can be seen [here](https://docs.google.com/spreadsheets/d/1
 # Setting up / Getting started
 
 ## Requirements (get these first!)
-1.   A copy of **version.dll** from the [scsp-localify] repository
+1.   A latest copy of **version.dll** from [scsp-localify]
 2.   The **scsp_localify** folder and the **scsp-config.json** file from this github repository
 
 ## Install
@@ -49,6 +49,8 @@ Translation progress can be seen [here](https://docs.google.com/spreadsheets/d/1
 **C:\Users\YOUR_NAME\SONGforPRISM**
 
 2. The **scsp_localify** folder and the **scsp-config.json** file to the same folder.
+
+3. The game should be patched now
 
 
 # Special Thanks to
