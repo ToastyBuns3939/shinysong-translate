@@ -33628,7 +33628,7 @@
         "0": "S.Skills Inheritance Selection"
     },
     "mlProduce_GetLiveSkillText": {
-        "0": "Live Skill Acquired!"
+        "0": "Live Skills Acquired!"
     },
     "mlProduce_GetSupportSkillButton": {
         "0": "Acquire",
