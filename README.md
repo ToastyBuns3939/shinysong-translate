@@ -12,6 +12,10 @@ This is based on the DMM version of the game and *should* work on linux and mac 
 
 <img align="center" src=/Images/preview.png>
 
+<div align="center">
+   
+[![TEST](https://img.youtube.com/vi/FNHcQ-ovh8o/0.jpg)](https://www.youtube.com/watch?v=FNHcQ-ovh8o)
+</div>
 
 # Features
 Supports translating:
