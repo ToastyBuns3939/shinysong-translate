@@ -31157,8 +31157,8 @@
     },
     "mlMusicRanking_UserRanking": {
         "0": "---",
-        "1": "First place",
-        "2": "Out of range",
+        "1": "1st",
+        "2": "<size=13>Out of range",
         "3": "〜",
         "4": "Tallying"
     },
