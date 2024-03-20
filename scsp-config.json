@@ -4,9 +4,9 @@
     "maxFps": 60,
     "localifyBasePath": "scsp_localify",
     "hotKey": "",
-    "dumpUntransLyrics": true,
-    "dumpUntransLocal2": true,
-    "autoDumpAllJson": true,
+    "dumpUntransLyrics": false,
+    "dumpUntransLocal2": false,
+    "autoDumpAllJson": false,
     "extraAssetBundlePaths": [
         "scsp_localify/scsp-bundle"
     ],
