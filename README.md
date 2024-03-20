@@ -42,7 +42,7 @@ Translation progress can be seen [here](https://docs.google.com/spreadsheets/d/1
 
 ## Requirements (get these first!)
 1.   A latest copy of **version.dll** from [scsp-localify]
-2.   The **scsp_localify** folder and the **scsp-config.json** file from this github repository
+2.   The latest version of the **scsp_localify** folder and the **scsp-config.json** file from this github repository
 
 ## Install
 1. Copy the **version.dll** file to your song for prism instalation folder which should be at:
