@@ -29168,15 +29168,15 @@
         "0": "Call",
         "1": "Call",
         "2": "Idol order",
-        "3": "order of arrival",
+        "3": "Date",
         "4": "Play again",
         "5": "No history"
     },
     "mlMobile_Chain": {
         "0": "CHAIN",
-        "1": "chain",
+        "1": "Chain",
         "2": "Idol",
-        "3": "unit",
+        "3": "Unit",
         "4": "Etc",
         "5": "Profile",
         "6": "Member list",
