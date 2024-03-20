@@ -6,7 +6,7 @@ It accomplishes this by modifying the localization file and Unity assets, aided 
 
 Guides for install and use can be found [below](#setting-up--getting-started).
 
-This is based on the DMM version of the game and *should* work on linux and mac too, with some limitations.  
+This is based on the [DMM] version of the game and *should* work on linux and mac too, with some limitations.  
 
 # Previews
 
@@ -50,8 +50,9 @@ Translation progress can be seen [here](https://docs.google.com/spreadsheets/d/1
 # Setting up / Getting started
 
 ## Requirements (get these first!)
-1.   A latest copy of **version.dll** from [scsp-localify]
-2.   The latest version of the **scsp_localify** folder and the **scsp-config.json** file from this github repository
+1.   A PC [DMM] version of *IDOLMASTER SHINY COLORS: Song For Prism*
+2.   A latest copy of **version.dll** from [scsp-localify]
+3.   The latest version of the **scsp_localify** folder and the **scsp-config.json** file from this github repository
 
 ## Install
 1. Copy the **version.dll** file to your song for prism instalation folder which should be at:
@@ -73,4 +74,5 @@ Translation progress can be seen [here](https://docs.google.com/spreadsheets/d/1
 [Project Imas Wiki]: https://project-imas.wiki/
 [scsp-localify]: https://github.com/chinosk6/scsp-localify
 [Shiny Colors ENG Patch project]: https://github.com/snowyivu/ShinyColors
+[DMM]: https://dmg-shinycolors-song-for-prism.idolmaster-official.jp/
 
