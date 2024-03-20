@@ -48,7 +48,7 @@ Translation progress can be seen [here](https://docs.google.com/spreadsheets/d/1
 1. Copy the **version.dll** file to your song for prism instalation folder which should be at:
 **C:\Users\YOUR_NAME\SONGforPRISM**
 
-2. The **scsp_localify** folder and the **scsp-config.json** file to the same folder as.
+2. The **scsp_localify** folder and the **scsp-config.json** file to the same folder.
 
 
 # Special Thanks to
