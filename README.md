@@ -10,6 +10,9 @@ This is based on the DMM version of the game and *should* work on linux and mac 
 
 # Previews
 
+<img align="center" src=/Images/preview.png>
+
+
 # Features
 Supports translating:
 - Tutorials
