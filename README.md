@@ -1,4 +1,4 @@
- <p align="center">(/Images/logo.png)</p>
+<img align="center" src=/Images/logo.png>
 
 
 This is an english fan-translation project for *IDOLMASTER SHINY COLORS: Song For Prism*.
@@ -50,7 +50,8 @@ Translation progress can be seen [here](https://docs.google.com/spreadsheets/d/1
 
 2. The **scsp_localify** folder and the **scsp-config.json** file to the same folder.
    Your folder should look like this:
- <p align="center">(/Images/example.png)</p>
+<img align="center" src=/Images/example.png>
+
 
 4. The game should be patched now
 
