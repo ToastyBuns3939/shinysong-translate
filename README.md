@@ -8,6 +8,8 @@ Guides for install and use can be found [below](#setting-up--getting-started).
 
 This is based on the DMM version of the game and *should* work on linux and mac too, with some limitations.  
 
+# Previews
+
 # Features
 Supports translating:
 - Tutorials
@@ -23,9 +25,6 @@ Upcoming features:
 - Home interactions (Office characters)
 - Image Translations
 
-## Patch Install Instructions Below  
-
----
 <b>Questions, Feedback, or want to Help with Translations?：[Join the Discord](https://discord.gg/qjrK3hu9Vy)</b>
 
 # Disclaimer
@@ -37,6 +36,10 @@ No maintainer nor contributor will be responsible for any issues encountered as 
 
 ### Progress
 Translation progress can be seen [here](https://docs.google.com/spreadsheets/d/1-9RUhuyvV8UxiJggC0Y_s_hqDpIk2k6ZXCI7Rc2SmIw/edit?usp=sharing)
+
+## Patch Install Instructions Below  
+
+---
 
 # Setting up / Getting started
 
