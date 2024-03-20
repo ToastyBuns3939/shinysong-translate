@@ -12930,7 +12930,7 @@
         "26": "【Luca Ikaruga】 Birthday",
         "27": "【Hana Suzuki】 Birthday",
         "28": "【Haruki Ikuta】 Birthday",
-        "29": "【Nanakusa Hazuki】 Birthday"
+        "29": "【Hazuki Nanakusa】 Birthday"
     },
     "mlCharacterText_CV": {
         "1": "Sekine Hitomi",
@@ -13060,9 +13060,9 @@
         "26": "Luca Ikaruga",
         "27": "Hana Suzuki",
         "28": "Haruki Ikuta",
-        "90": "Nanakusa Hazuki",
+        "90": "Hazuki Nanakusa",
         "91": "Producer",
-        "93": "Tsutomu Amai"
+        "93": "Amai Tsutomu"
     },
     "mlChat_AddMember": {
         "1": "Added to group member"
@@ -13617,7 +13617,7 @@
         "728005": "Haruki Ikuta's jersey",
         "728006": "Haruki Ikuta's jersey",
         "728007": "Worn by 283PRO idols Navy Blue Jersey\nClear blue, leaping into the sky",
-        "790001": "Nanakusa Hazuki Office Clothes.",
+        "790001": "Hazuki Nanakusa Office Clothes.",
         "790002": "　",
         "790003": "　",
         "790004": "　"
@@ -14058,10 +14058,10 @@
         "728005": "【Jersey】 Haruki Ikuta's jersey",
         "728006": "【CB Jersey】 Haruki Ikuta's jersey",
         "728007": "【Navy Blue Jersey】 Haruki Ikuta",
-        "790001": "【Default Costume】 Nanakusa Hazuki",
-        "790002": "【Christmas Seasonal Costume】 Nanakusa Hazuki",
-        "790003": "【New Year's Seasonal Costume】 Nanakusa Hazuki",
-        "790004": "【Valentine Days's Seasonal Costume】 Nanakusa Hazuki"
+        "790001": "【Default Costume】 Hazuki Nanakusa",
+        "790002": "【Christmas Seasonal Costume】 Hazuki Nanakusa",
+        "790003": "【New Year's Seasonal Costume】 Hazuki Nanakusa",
+        "790004": "【Valentine Days's Seasonal Costume】 Hazuki Nanakusa"
     },
     "mlCostume_UnlockPremise": {
         "1001": "Obtained as a rank reward for Season 1's Seasonal Mission.",
@@ -15325,10 +15325,10 @@
         "728005": "【Jersey】 Haruki Ikuta's jersey",
         "728006": "【CB Jersey】 Haruki Ikuta's jersey",
         "728007": "【Navy Blue Jersey】 Haruki Ikuta",
-        "790001": "【Default Costume】 Nanakusa Hazuki",
-        "790002": "【Christmas Seasonal Costume】 Nanakusa Hazuki",
-        "790003": "【New Year's Seasonal Costume】 Nanakusa Hazuki",
-        "790004": "【Valentine Days's Seasonal Costume】 Nanakusa Hazuki"
+        "790001": "【Default Costume】 Hazuki Nanakusa",
+        "790002": "【Christmas Seasonal Costume】 Hazuki Nanakusa",
+        "790003": "【New Year's Seasonal Costume】 Hazuki Nanakusa",
+        "790004": "【Valentine Days's Seasonal Costume】 Hazuki Nanakusa"
     },
     "mlCostumeSet_UnlockPremise": {
         "1001": "Obtained as a rank reward for Season 1's Seasonal Mission.",
@@ -16264,7 +16264,7 @@
         "20006": "【After School Chalk】 Koito Fukumaru's Piece",
         "20007": "【Backstage】 Mikoto Aketa's Piece",
         "20008": "【1st heart】 Hana Suzuki's Piece",
-        "20009": "【Today's snack】 Nanakusa Hazuki's Piece",
+        "20009": "【Today's snack】 Hazuki Nanakusa's Piece",
         "20010": "【Gently and clearly shining 】 Mano Sakuragi's Piece",
         "20011": "【Single stroke of the pen】 Hiori Kazano's Piece",
         "20012": "【Happiness♡Connect】 Meguru Hachimiya's Piece",
@@ -17869,7 +17869,7 @@
         "627002": "Hana Suzuki's Nekomimi (White) Hairstyle",
         "628001": "Haruki Ikuta's Default Hairstyle",
         "628002": "Haruki Ikuta's Nekomimi (White) Hairstyle",
-        "690001": "Nanakusa Hazuki's Default Hairstyle",
+        "690001": "Hazuki Nanakusa's Default Hairstyle",
         "703001": "【Default Costume】 Meguru Hachimiya's Hairstyle",
         "703002": "【Costume 01】 Meguru Hachimiya's Hairstyle",
         "704001": "【Default Costume】 Kogane Tsukioka's Hairstyle",
@@ -17901,9 +17901,9 @@
         "727003": "【Costume 02】 Hana Suzuki's Hairstyle",
         "728001": "【Default Costume】 Haruki Ikuta's Hairstyle",
         "728003": "【Costume 02】 Haruki Ikuta's Hairstyle",
-        "790002": "【Christmas Seasonal Costume】 Nanakusa Hazuki's Hairstyle",
-        "790003": "【New Year's Seasonal Costume】 Nanakusa Hazuki's Hairstyle",
-        "790004": "【Valentine Days's Seasonal Costume】 Nanakusa Hazuki's Hairstyle"
+        "790002": "【Christmas Seasonal Costume】 Hazuki Nanakusa's Hairstyle",
+        "790003": "【New Year's Seasonal Costume】 Hazuki Nanakusa's Hairstyle",
+        "790004": "【Valentine Days's Seasonal Costume】 Hazuki Nanakusa's Hairstyle"
     },
     "mlHairstyle_UnlockPremise": {
         "1001": "Obtained as a rank reward for Season 1's Seasonal Mission.",
@@ -19859,7 +19859,7 @@
         "327001": "【1st heart】 Hana Suzuki's item used for master training.",
         "328002": "【An ordinary winter afternoon】 Haruki Ikuta's item used for master training.",
         "328003": "【Peach sweetness dances in Jutte】 Haruki Ikuta's item used for master training.",
-        "390001": "【Today's snack】 Nanakusa Hazuki's item used for master training."
+        "390001": "【Today's snack】 Hazuki Nanakusa's item used for master training."
     },
     "mlItem_ItemDesc016": {
         "8": "An item used for Idol Skill LvUp of Produce Idol.",
@@ -20360,7 +20360,7 @@
         "728005": "Haruki Ikuta's jersey",
         "728006": "Haruki Ikuta's jersey",
         "728007": "Worn by 283PRO idols Navy Blue Jersey\nClear blue, leaping into the sky",
-        "790001": "Nanakusa Hazuki Office Clothes.",
+        "790001": "Hazuki Nanakusa Office Clothes.",
         "790002": "　",
         "790003": "　",
         "790004": "　"
@@ -21770,7 +21770,7 @@
         "327001": "【1st heart】 Hana Suzuki's Piece",
         "328002": "【An ordinary winter afternoon】 Haruki Ikuta's Piece",
         "328003": "【Peach sweetness dances in Jutte】 Haruki Ikuta's Piece",
-        "390001": "【Today's snack】 Nanakusa Hazuki's Piece"
+        "390001": "【Today's snack】 Hazuki Nanakusa's Piece"
     },
     "mlItem_ItemName016": {
         "8": "Idol Skill LvUp Ticket Bronze",
@@ -22271,10 +22271,10 @@
         "728005": "【Jersey】 Haruki Ikuta's jersey",
         "728006": "【CB Jersey】 Haruki Ikuta's jersey",
         "728007": "【Navy Blue Jersey】 Haruki Ikuta",
-        "790001": "【Default Costume】 Nanakusa Hazuki",
-        "790002": "【Christmas Seasonal Costume】 Nanakusa Hazuki",
-        "790003": "【New Year's Seasonal Costume】 Nanakusa Hazuki",
-        "790004": "【Valentine Days's Seasonal Costume】 Nanakusa Hazuki"
+        "790001": "【Default Costume】 Hazuki Nanakusa",
+        "790002": "【Christmas Seasonal Costume】 Hazuki Nanakusa",
+        "790003": "【New Year's Seasonal Costume】 Hazuki Nanakusa",
+        "790004": "【Valentine Days's Seasonal Costume】 Hazuki Nanakusa"
     },
     "mlItem_ItemName025": {
         "1001": "【Flourish Bloom】 Mano Sakuragi's Hairstyle",
@@ -22555,7 +22555,7 @@
         "627002": "Hana Suzuki's Nekomimi (White) Hairstyle",
         "628001": "Haruki Ikuta's Default Hairstyle",
         "628002": "Haruki Ikuta's Nekomimi (White) Hairstyle",
-        "690001": "Nanakusa Hazuki's Default Hairstyle",
+        "690001": "Hazuki Nanakusa's Default Hairstyle",
         "703001": "【Default Costume】 Meguru Hachimiya's Hairstyle",
         "703002": "【Costume 01】 Meguru Hachimiya's Hairstyle",
         "704001": "【Default Costume】 Kogane Tsukioka's Hairstyle",
@@ -22587,9 +22587,9 @@
         "727003": "【Costume 02】 Hana Suzuki's Hairstyle",
         "728001": "【Default Costume】 Haruki Ikuta's Hairstyle",
         "728003": "【Costume 02】 Haruki Ikuta's Hairstyle",
-        "790002": "【Christmas Seasonal Costume】 Nanakusa Hazuki's Hairstyle",
-        "790003": "【New Year's Seasonal Costume】 Nanakusa Hazuki's Hairstyle",
-        "790004": "【Valentine Days's Seasonal Costume】 Nanakusa Hazuki's Hairstyle"
+        "790002": "【Christmas Seasonal Costume】 Hazuki Nanakusa's Hairstyle",
+        "790003": "【New Year's Seasonal Costume】 Hazuki Nanakusa's Hairstyle",
+        "790004": "【Valentine Days's Seasonal Costume】 Hazuki Nanakusa's Hairstyle"
     },
     "mlItem_ItemName026": {
         "5002": "【Birth of Wing】 Mamimi Tanaka's earrings",
