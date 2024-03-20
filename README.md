@@ -53,7 +53,7 @@ Translation progress can be seen [here](https://docs.google.com/spreadsheets/d/1
 <img align="center" src=/Images/example.png>
 
 
-4. The game should be patched now
+3. The game should be patched now
 
 
 # Special Thanks to
