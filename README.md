@@ -72,7 +72,7 @@ Translation progress can be seen [here](https://docs.google.com/spreadsheets/d/1
 [Shiny Colors ENG Patch project] <br />
 
 [Project Imas Wiki]: https://project-imas.wiki/
-[scsp-localify]: https://github.com/chinosk6/scsp-localify
+[scsp-localify]: https://github.com/chinosk6/scsp-localify/releases
 [Shiny Colors ENG Patch project]: https://github.com/snowyivu/ShinyColors
 [DMM]: https://dmg-shinycolors-song-for-prism.idolmaster-official.jp/
 
