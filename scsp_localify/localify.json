@@ -2641,9 +2641,9 @@
         "4": "Favourite"
     },
     "mlADV_ProduceTitle": {
-        "0": "{0} (Off-Time) ",
-        "1": "{0}(Advice)",
-        "2": "{0} Recommendation from({1})",
+        "0": "(Off-Time) {0}",
+        "1": "(Advice) {0}",
+        "2": "({1}) Recommendation from {0}",
         "3": "Support events {0}"
     },
     "mlADV_Recommended": {
@@ -32021,9 +32021,9 @@
         "0": "Edit Unit Name"
     },
     "mlProduce_ParameterText": {
-        "0": "<cspace=-0.03em>Unit status </cspace> ",
-        "1": "Target <cspace=-0.03em>Idol status </cspace> ",
-        "2": "Number of idolx {0}"
+        "0": "<cspace=-0.03em>Unit status</cspace> ",
+        "1": "Target <cspace=-0.03em>Idol status</cspace> ",
+        "2": "Idols x{0}"
     },
     "mlProduce_ProduceLogText": {
         "0": "Produce Log",
