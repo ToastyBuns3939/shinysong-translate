@@ -2364,9 +2364,9 @@
         "301": "Angel's voice",
         "302": "Angel's singing voice/Kiwami",
         "303": "Flying like a butterfly",
-        "304": "Flying like a butterfly - Extreme",
+        "304": "Flying like a butterfly・Extreme",
         "305": "A charming single flower",
-        "306": "Attractive, single flower, extreme",
+        "306": "Attractive, single flower・extreme",
         "307": "Starting Producer",
         "308": "Excellent Producer",
         "309": "Veteran Producer",
@@ -2395,7 +2395,7 @@
         "354": "Thank you for your hard work due to high fuel consumption",
         "356": "This is so good...!",
         "358": "Wow~♡Hinana, that's amazing~",
-        "360": "Too wide...Stage and sky",
+        "360": "So wide...Stage and sky",
         "362": "Let's go to the next stage",
         "364": "What the heck...",
         "366": "Hana Suzuki, I'll do my best",
@@ -2451,7 +2451,7 @@
         "417": "Further heights",
         "419": "A wholesome set list",
         "420": "Score specialist",
-        "421": "Professionals who lead the way",
+        "421": "PRO who lead the way",
         "422": "6thLIVE TOUR Come and Unite! Brilliant Blooms Commemoration",
         "423": "6thLIVE TOUR Come and Unite! Fantastic Fireworks Commemoration",
         "10001": "[Akaneiro Drawing]GRAND MASTER Chapter 1",
@@ -10697,7 +10697,7 @@
         "13": "OurSTREAM"
     },
     "mlAnnounce_IdEmpty": {
-        "0": "No announcements at  this time."
+        "0": "No announcements at this time."
     },
     "mlAnnounce_Title": {
         "0": "Notice"
