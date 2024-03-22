@@ -22170,7 +22170,7 @@
         "5": "If the remaining LB is less than the setting, the live will start at the playable ratio",
         "6": "LB consumption setting",
         "7": "{0}x",
-        "8": "UP to max x{0}",
+        "8": "UP to {0}x max",
         "9": "Maximum {0} consumption\nCampaign!",
         "10": "<size=20>Always max"
     },
