@@ -14943,7 +14943,7 @@
         "0": "Your ID."
     },
     "mlFriend_Sort": {
-        "0": "sort"
+        "0": "Sort"
     },
     "mlFriend_SortCategory": {
         "1": "Last Login",
@@ -14994,7 +14994,7 @@
         "1": "My Invitation Code"
     },
     "mlFriendInvitation_NoMission": {
-        "1": "There is no Mission."
+        "1": "There are no Mission."
     },
     "mlFriendInvitation_NotIssueCode": {
         "1": "Issue Invitation Code"
