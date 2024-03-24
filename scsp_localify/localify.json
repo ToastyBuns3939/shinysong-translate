@@ -22024,12 +22024,12 @@
         "1": "x{0}"
     },
     "mlLiveEvent_Status": {
-        "0": "開催前",
-        "1": "開催前",
-        "2": "開催中",
-        "3": "ランキング集計中",
-        "4": "結果発表",
-        "5": "イベントは終了しました"
+        "0": "Before the event",
+        "1": "Before the event",
+        "2": "in session",
+        "3": "Rankings are being compiled",
+        "4": "Announcement of results",
+        "5": "Event has ended"
     },
     "mlLiveEvent_StoryComplete": {
         "1": "STORY COMPLETE！"
@@ -22146,7 +22146,7 @@
         "0": "Voice"
     },
     "mlLiveUnitConfirmation_AutoLive": {
-        "0": "{0} more times",
+        "0": "{0}x left",
         "1": "End for today",
         "2": "Auto live condition",
         "3": "Can be used with LB of 1x or higher",
@@ -22192,7 +22192,7 @@
         "0": "Unit Confirmation"
     },
     "mlLiveUnitConfirmation_SkipLive": {
-        "0": "{0} more times",
+        "0": "{0}x left",
         "1": "End of today",
         "2": "Skip Live is available for songs and difficulty levels that have been cleared at least once.",
         "3": "Skip live LB shortage",
@@ -22219,7 +22219,7 @@
         "1": "Start at 0x"
     },
     "mlLiveUnitConfirmation_UseRecommendedUnitEditing": {
-        "0": "Recommended Unit"
+        "0": "Recommended"
     },
     "mlLiveUnitMemberChange_SceneTitle": {
         "0": "Member Change",

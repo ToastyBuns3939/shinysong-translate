@@ -1,9 +1,9 @@
 {
-    "enableConsole": true,
+    "enableConsole": false,
     "enableVSync": true,
     "maxFps": 60,
     "localifyBasePath": "scsp_localify",
-    "hotKey": "",
+    "hotKey": "u",
     "dumpUntransLyrics": false,
     "dumpUntransLocal2": false,
     "autoDumpAllJson": false,
@@ -11,8 +11,7 @@
         "scsp_localify/scsp-bundle"
     ],
     "customFontPath": "",
-    //assets/font/sbtphumminge-regular.ttf
-    "fontSizeOffset": 0,
+    "fontSizeOffset": -3,
     "blockOutOfFocus": true,
     "baseFreeCamera": {
         "enable": false,
