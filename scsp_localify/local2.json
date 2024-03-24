@@ -150,6 +150,9 @@
     "櫻木": "Sakuragi",
     "真乃": "Mano",
 
+    "以下のフェスユニットとフェスアイドルを移籍してよろしいですか？": "Transfer the following FES unit and FES idols?",
+    "フェスユニットとフェスアイドルを移籍して\n以下のアイテムを受け取りました。": "The following items were received after\ntransferring FES unit and FES idols",
+
     "メンバー変更": "Member Change",
     "その他絞り込み": "Other Filter",
     "お気に入り設定中キャラ": "Favorite character",
@@ -255,12 +258,13 @@
     "到達ランク": "Rank",
     "種類": "Kinds",
     "プロデュース開始時に\n選択します": "Select at the\nstart of produce",
+    "サポートスキル": "Support Skills",
 
     "エピソード名 / 難易度 / オート機能": "Episode Name / Difficulty / Auto Function",
     "プロデュースユニット": "Produce Unit",
     "継承フェスユニット": "Inherited Fes Unit",
     "未選択": "Unset",
-    "STを<color=#ff3705>{0}</color>消費してプロデュースを開始します。よろしいですか？": "Start producing by consuming <color=#ff3705>{0}</color> ST. Is it OK?",
+    "STを<color=#ff3705>20</color>消費してプロデュースを開始します。よろしいですか？": "Start producing by consuming <color=#ff3705>20</color> ST. Is it OK?",
     "フレンド\n": "Friend\n",
     "ST不足": "ST shortage",
     "  編成": "  Unit",
