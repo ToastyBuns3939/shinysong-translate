@@ -22,7 +22,7 @@ This is based on the [DMM] version of the game and *should* work on linux and ma
 # Features
 Supports translating:
 - Tutorials
-- Romaji Lyrics (partial)
+- Romaji Lyrics
 - Most of the UI
 - Skills, names, missions, and other such "dynamic" texts.
 
