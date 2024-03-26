@@ -218,6 +218,7 @@
     "再開": "Resume",
     "全画面": "Full frame",
     "ライブ設定": "<size=23>Live Setting",
+        "<size=28><sprite=3><color=#ff3300>最大まで育てた場合のステータスです。</color>": "<size=28><sprite=3><color=#ff3300>This is the status when raised to the maximum.</color>",
 
     "ALL GREAT回数": "ALL GREATS",
     "ALL GREAT曲数": "ALL GREAT SONGS",
