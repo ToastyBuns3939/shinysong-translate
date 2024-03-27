@@ -10380,7 +10380,7 @@
         "3": "かわいいにおくびょう"
     },
     "mlADVInfo_Title_s41_07000000": {
-        "1": "しょんぼりパフォーマンス",
+        "1": "Depressing performance",
         "2": "不意にやめてよ",
         "3": "気遣いミルフィーユ"
     },
@@ -40623,7 +40623,7 @@
     },
     "mlPublicText_GameGuard": {
         "0": "Song For Prism ENG Patch",
-        "1": "The patch is currently a work-in-progress.\nThere may be minor mistakes as the patch progress continues.\n\nIf an official translation is ever released by the publisher, please support the game and The iDOLM@STER series as a whole by purchasing it.\n\nPlease keep the patch updated by downloading the newest version from the project GitHub page at:\n\nhttps://github.com/ToastyBuns3939/shinysong-translate.\n\n"
+        "1": "<size=20>The patch is currently a work-in-progress.\nThere may be minor mistakes as the patch progress continues.\n\nIf an official translation is ever released by the publisher, please support the game and The iDOLM@STER series as a whole by purchasing it.\n\nPlease keep the patch updated by downloading the newest version from the project GitHub page at:\n\nhttps://github.com/ToastyBuns3939/shinysong-translate.\n\n"
     },
     "mlPublicText_Header": {
         "0": "Rank",
