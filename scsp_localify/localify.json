@@ -32104,7 +32104,7 @@
         "0": "ST setting",
         "1": "x{0}",
         "2": "x{0}",
-        "3": "Always max"
+        "3": "<size=20>Always max"
     },
     "mlProduce_StartText": {
         "0": "Start\nProduce"
@@ -41083,7 +41083,7 @@
          "2": "LB",
          "3": "Max",
          "4": "Recovery",
-         "5": "Cannot recover because {0} is maximum.",
+         "5": "Cannot recover because {0} is at maximum.",
          "6": "Item expiration date has expired",
          "7": "\n{0} could not be recovered because it contained an item whose expiration date had expired.",
          "8": "Fully recovered",
