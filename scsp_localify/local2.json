@@ -217,6 +217,8 @@
     "終了": "End",
     "再開": "Resume",
     "全画面": "Full frame",
+    "ガシャ結果": "Gacha Results",
+    "交換ポイント": "Exchange Pts",
     "ライブ設定": "<size=23>Live Setting",
     "<size=28><sprite=3><color=#ff3300>最大まで育てた場合のステータスです。</color>": "<size=23><sprite=3><color=#ff3300>This is the status when raised to the maximum.</color>",
 
