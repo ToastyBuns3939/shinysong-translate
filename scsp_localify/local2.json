@@ -54,6 +54,8 @@
     "絞り込み：OFF": "Filter：OFF",
     "アイドル選択": "Idol Selection",
     "ホーム設定": "Home Setup",
+    "サポートキャラ": "Support Chara",
+    "選択した内容でサポートキャラを自動編成します。": "Support characters are automatically organized based on your selection.",
     "デスクの左前に登場するアイドルを選んでください。\n複数のアイドルを選択した場合は、その中からランダムで登場します。": "Select an idol to appear in front of the left side of the desk.\nIf you select multiple idols, they will appear randomly among them.",
 
     "この作品はフィクションです。\n実在の人物、団体、事件などには関係ありません。\n\nこのアプリは音声が再生されます。\n音量にご注意ください。": "This is a work of fiction.\nIt is not related to any real person, organization, or incident.\n\nThis application plays sound.\nPlease be mindful of the volume.",
@@ -321,7 +323,8 @@
     "優先するステータス": "Status Priority",
     "ユニット": "Unit",
     "メインユニットに合わせて最適なサポートメンバーが自動編成されます": "<size=26>The most suitable support members are automatically organized according to the main unit",
-    "おまかせ": "",
+    "おまかせ": "Auto",
+    "チュートリアル開始": "Start Tutorial",
 
     "表示切替": "Display",
     " 表示切替": "Display",
@@ -369,6 +372,7 @@
     "あと365日": "365 days left.",
     "あと3日と34時間": "3days and 34 hours to go.",
     "あとn回": "And n times.",
+    "おまかせ編成": "<size=25>Recommended",
     "おまかせ編成": "<size=25>Recommended",
     "お問い合わせ": "Contact Us",
     "お気に入り": "Favourite",
@@ -427,7 +431,7 @@
     "クリア報酬": "Clear rewards",
     "プロデュースアイドル選択": "P.Idol Selection",
 
-    "編成":"Unit",
+    "編成":"Set",
     "継承":"<size=11>Inheritance",
     "歌い分け":"Utaiwake",
     "ユニットステータス": "Unit Status",
@@ -445,7 +449,7 @@
     "コンボ表示": "Combo Display",
     "サウンド": "Audio",
     "サウンド設定を全て初期化します。": "Initialise all audio settings.",
-    "サポートキャラ": "Support character",
+
     "サポートキャラのトレーニングに用いるアイテム。": "Items used for training support characters.",
     "サポートメンバー": "<size=25>Support member",
     "システム設定": "System Setup",
@@ -539,6 +543,8 @@
     "ミッション": "Mission",
     "判定の表示位置を\n変更できます。": "The display position of\nthe judgment can be changed.",
     "表示の高さを\n変更できます。": "The display height can be changed.",
+
+    "<size=28><sprite=3><color=#ff3300>個人情報や公序良俗に反する内容は入力しないでください。</color>": "<size=28><sprite=3><color=#ff3300>Please do not enter any personal information or content offensive to public order and morals. </color>",
     "異なったタイミン\nグでノーツを叩い\nたときに表示され\nる補助表示の有無\nを変更できます。": "You can change the presence or absence of auxiliary indications that appear when you hit the notes at different times.",
 
 
