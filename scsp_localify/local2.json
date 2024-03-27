@@ -221,6 +221,8 @@
     "交換ポイント": "Exchange Pts",
     "ライブ設定": "<size=23>Live Setting",
     "<size=28><sprite=3><color=#ff3300>最大まで育てた場合のステータスです。</color>": "<size=23><sprite=3><color=#ff3300>This is the status when raised to the maximum.</color>",
+        "PERFECTコンボエフェクト表示": "PERFECT combo effect display",
+    "PERFECTでコンボ継続中にGREAT以下が出るまで\nコンボ表示にエフェクトがかかります。": "Effects are applied to the combo display until GREAT or less is obtained while the combo continues on PERFECT.",
 
     "ALL GREAT回数": "ALL GREATS",
     "ALL GREAT曲数": "ALL GREAT SONGS",
