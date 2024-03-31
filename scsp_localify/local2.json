@@ -670,7 +670,7 @@
     "高": "High",
     "中": "Med",
     "有効期間": "Term of validity",
-    "期間終了": "End of period",
+    "期間終了": "<size=25>End of period",
     "未所持": "Not owned",
     "未読のみ": "<size=18>Show unread",
     "本日分終了": "It ends today",
