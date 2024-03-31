@@ -238,7 +238,10 @@
     "レッスン（Vo)": "Lesson (Vo)",
     "汎用カード": "Generic Cards",
     "チャレンジミッション": "Challenge Mission",
-    "トラブル率": "Trouble rate",
+    "トラブル率": "<size=20><cspace=-5>Trouble Rate",
+    "進行中のプロデュース内容を終了します。": "Terminates the contents of the ongoing production.",
+    "<sprite=3>進行中のデータは失われます。\n   消費したSTは返却されません。": "<sprite=3>Data in progress will be lost.\n Consumed ST will not be returned.",
+    "現在のプロデュース内容を保存して\nホームへ戻りますか？": "Do you want to save the current produce content\nand return to Home?",
     "開始する": "Start",
 
     "<size=28><sprite=3><color=#ff3300>最大まで育てた場合のステータスです。</color>": "<size=23><sprite=3><color=#ff3300>This is the status when raised to the maximum.</color>",
