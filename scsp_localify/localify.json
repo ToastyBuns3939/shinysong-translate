@@ -42190,9 +42190,9 @@
         "2": "Read Chapter {0}",
         "3": "Read the Chapter {0} Story",
         "4": "{0}'s bond at Lv{1}",
-        "5": "{0} read",
+        "5": "Read {0}",
         "6": "Event pt reaches {0}",
-        "7": "{0} released"
+        "7": "{0} Unlocked"
     },
     "mlStory_LockPU": {
         "1": "Story unlock condition",
