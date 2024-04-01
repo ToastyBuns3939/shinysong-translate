@@ -20023,7 +20023,7 @@
         "3": "Season 3[On the Mystery to Unravel]Premium rewards can be purchased at any time during Season 3, and premium rewards for already achieved levels can be earned instantly.",
         "4": "Season 4[Now Shooting]Premium rewards can be purchased at any time during Season 4, and premium rewards for already achieved levels can be earned instantly.",
         "5": "Season 5[Ready to put on glasses]Premium rewards can be purchased at any time during Season 5, and premium rewards for already achieved levels can be earned instantly.",
-        "6": "Season 5[Mana☆Mana☆Selection]のプレイ報酬にて獲得できる、プレミアム報酬が解放されます。Season 5の期間中ならいつでも購入可能で、すでに達成済みのレベルのプレミアム報酬は即座に獲得可能です。"
+        "6": "Season 6[Mana☆Mana☆Selection]のプレイ報酬にて獲得できる、プレミアム報酬が解放されます。Season 5の期間中ならいつでも購入可能で、すでに達成済みのレベルのプレミアム報酬は即座に獲得可能です。"
     },
     "mlItem_ItemDesc033": {
         "1": "■Item Details\n Prism Jewel ×2500pcs\n (100 pcs per day x 25 days)\n\n■Term of validity\n Up to 30 days including the date of purchase\n (If 2500pcs Prism Jewel is acquired within 30 days from the date of purchase, the effect will be lost at that time.)\n\nYou can receive 100 Prism Jewel once a day when you log in. You can receive 100 Prism Jewel once a day when you log in."
@@ -20357,7 +20357,7 @@
         "3": "Season 3[On the Mystery to Unravel]'s EXP",
         "4": "Season 4[Now Shooting]'s EXP",
         "5": "Season 5[Ready to put on glasses]'s EXP",
-        "6": "Season 5[Mana☆Mana☆Selection]の経験値"
+        "6": "Season 6[Mana☆Mana☆Selection]の経験値"
     },
     "mlItem_ItemDesc039": {
         "2": "-",
@@ -22019,7 +22019,7 @@
         "3": "Season Pass：Season 3[On the Mystery to Unravel]",
         "4": "Season Pass：Season 4[Now Shooting]",
         "5": "Season Pass：Season 5[Ready to put on glasses]",
-        "6": "シーズンパス：Season 5[Mana☆Mana☆Selection]"
+        "6": "Season Pass：Season 6[Mana☆Mana☆Selection]"
     },
     "mlItem_ItemName033": {
         "1": "Login Bonus Pass"
@@ -22353,7 +22353,7 @@
         "3": "Season 3[On the Mystery to Unravel]",
         "4": "Season 4[Now Shooting]",
         "5": "Season 5[Ready to put on glasses]",
-        "6": "Season 5[Mana☆Mana☆Selection]"
+        "6": "Season 6[Mana☆Mana☆Selection]"
     },
     "mlItem_ItemName040": {
         "1": "Release Commemoration P-idol Selection Tickets"
@@ -25854,7 +25854,7 @@
         "3": "Season 3[On the Mystery to Unravel]",
         "4": "Season 4[Now Shooting]",
         "5": "Season 5[Ready to put on glasses]",
-        "6": "Season 5[Mana☆Mana☆Selection]"
+        "6": "Season 6[Mana☆Mana☆Selection]"
     },
     "mlMission_SpecialMissionMissionName": {
         "1": "Play live (Auto/Skip available)",
@@ -42968,7 +42968,7 @@
         "38": "・Even if you have purchased a Season Pass, you will not be able to receive the Premium Rewards for any Season Rank that you have not yet attained.\n・Season Pass can be purchased until 23:59, 02/28/2024, but the Season Pass effect will last until 23:59, 02/29/2024\n・The Season Pass effect will be inherited even if the model is changed to another OS.\n・The Season Pass effect is inherited when playing multi-session play with other devices.\n・Season Pass is not available for payment at shop from the time of purchase until the payment is completed.\n・Season Pass cannot be returned or exchanged at any time.\n・Sales period and contents are subject to change without notice.",
         "39": "・This product may be purchased up to one time.\n・If you already own any of the costumes, hairstyles or accessories included in this product, you will not be able to acquire those costumes, hairstyles or accessories.\n・【Costume 02】 Nichika Nanakusa may be obtained at a later date at a different location. Please understand this in advance.",
         "40": "・Even if you have purchased a Season Pass, you will not be able to receive the Premium Rewards for any Season Rank that you have not yet attained.\n・Season Pass can be purchased until 23:59, 03/28/2024, but the Season Pass effect will last until 23:59, 03/31/2024.\n・The Season Pass effect will be inherited even if the model is changed to another OS.\n・The Season Pass effect is inherited when playing multi-session play with other devices.\n・Season Pass is not available for payment at shop from the time of purchase until the payment is completed.\n・Season Pass cannot be returned or exchanged at any time.\n・Sales period and contents are subject to change without notice.",
-        "41": "・シーズンパスを購入している場合でも、未達成のシーズンランクのプレミアム\n　報酬は受け取る事ができません。\n・シーズンパスの購入可能期間は2024/04/28 23:59までですが、\n　シーズンパスの効果は2024/04/30 23:59まで持続します。\n・他OSへの機種変更を行った場合にも、シーズンパスの効果は引き継がれます。\n・他デバイスとマルチセッションプレイを行う場合にも、シーズンパスの効果は\n　引き継がれます。\n・コンビニ決済では、商品を購入してから決済が完了するまでの間は、\n　シーズンパスの効果を得ることはできません。\n・シーズンパスの返品・交換は一切お受けできません。\n・販売期間および内容は予告なく変更する場合がございます。",
+        "41": "・Season Passを購入している場合でも、未達成のシーズンランクのプレミアム\n　報酬は受け取る事ができません。\n・Season Passの購入可能期間は2024/04/28 23:59までですが、\n　Season Passの効果は2024/04/30 23:59まで持続します。\n・他OSへの機種変更を行った場合にも、Season Passの効果は引き継がれます。\n・他デバイスとマルチセッションプレイを行う場合にも、Season Passの効果は\n　引き継がれます。\n・コンビニ決済では、商品を購入してから決済が完了するまでの間は、\n　Season Passの効果を得ることはできません。\n・Season Passの返品・交換は一切お受けできません。\n・販売期間および内容は予告なく変更する場合がございます。",
         "49": "・This product may be purchased up to one time.\n・Sales period and contents are subject to change without notice.",
         "50": "・This product may be purchased up to one time.\n・Sales period and contents are subject to change without notice.",
         "51": "・This product may be purchased up to one time.\n・Sales period and contents are subject to change without notice.",
@@ -43011,7 +43011,7 @@
         "38": "Season 4[Now Shooting] Premium rewards will be released for the rewards of playing the game.\nSeason 4 premium rewards for levels already achieved can be purchased at any time during the Season Mission playable period.",
         "39": "Nichika Nanakusa's Costume set [【Costume 02】 Nichika Nanakusa],\n1 Platinum P-idol gacha ticket and 1 Platinum S Character Gacha ticket product.",
         "40": "Season 5[Ready to put on glasses] Premium rewards will be released for the rewards of playing the game.\nSeason 5 premium rewards for levels already achieved can be purchased at any time during the Season Mission playable period.",
-        "41": "Season 5[Mana☆Mana☆Selection]のプレイ報酬にて獲得できる\nプレミアム報酬が解放されます。\nSeason 5のシーズンミッションがプレイ可能な期間中ならいつでも購入可能で、\nすでに達成済みのレベルのプレミアム報酬は即座に獲得可能です。",
+        "41": "Season 6[Mana☆Mana☆Selection]のプレイ報酬にて獲得できる\nプレミアム報酬が解放されます。\nSeason 5のシーズンミッションがプレイ可能な期間中ならいつでも購入可能で、\nすでに達成済みのレベルのプレミアム報酬は即座に獲得可能です。",
         "49": "Prism Jewel for use in the game.",
         "50": "Prism Jewel for use in the game.",
         "51": "Prism Jewel for use in the game.",
@@ -43054,7 +43054,7 @@
         "38": "Season Pass：Season 4[Now Shooting]",
         "39": "【Costume 02】 Nichika Nanakusa",
         "40": "Season Pass：Season 5[Ready to put on glasses]",
-        "41": "シーズンパス：Season 5[Mana☆Mana☆Selection]",
+        "41": "Season Pass：Season 6[Mana☆Mana☆Selection]",
         "49": "One Time Only! Prism Jewel 1100pcs",
         "50": "One Time Only! Prism Jewel 3700pcs",
         "51": "One Time Only! Prism Jewel 6300pcs",
