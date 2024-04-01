@@ -65,7 +65,7 @@ Translation progress can be seen [here](https://docs.google.com/spreadsheets/d/1
 <img align="center" src=/Images/example.png>
 
 
-3. The game should be patched now
+3. The game should be patched now. Keep the translation files updated by periodically downloading the **scsp_localify** folder from this github repository
 
 
 # Special Thanks to
