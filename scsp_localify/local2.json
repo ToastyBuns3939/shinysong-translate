@@ -231,6 +231,11 @@
     "再開する": "Resume",
     "プロデュース再開": "Resume Produce",
     "最終ステータス": "Final Status",
+    "未達成 / 達成": "Not Achieved / Achieved",
+    "未達成": "Not achieved",
+    "達成": "Achieved",
+    "カテゴリー": "Category",
+    "ジュエル": "Jewel",
 
     "シナリオタイトル": "Scenario Title",
     "<cspace=-1>サブシーズン": "Subseason",
