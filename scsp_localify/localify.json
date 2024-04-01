@@ -20023,7 +20023,7 @@
         "3": "Season 3[On the Mystery to Unravel]Premium rewards can be purchased at any time during Season 3, and premium rewards for already achieved levels can be earned instantly.",
         "4": "Season 4[Now Shooting]Premium rewards can be purchased at any time during Season 4, and premium rewards for already achieved levels can be earned instantly.",
         "5": "Season 5[Ready to put on glasses]Premium rewards can be purchased at any time during Season 5, and premium rewards for already achieved levels can be earned instantly.",
-        "6": "シーズン6[Mana☆Mana☆Selection]のプレイ報酬にて獲得できる、プレミアム報酬が解放されます。シーズン6の期間中ならいつでも購入可能で、すでに達成済みのレベルのプレミアム報酬は即座に獲得可能です。"
+        "6": "Season 5[Mana☆Mana☆Selection]のプレイ報酬にて獲得できる、プレミアム報酬が解放されます。Season 5の期間中ならいつでも購入可能で、すでに達成済みのレベルのプレミアム報酬は即座に獲得可能です。"
     },
     "mlItem_ItemDesc033": {
         "1": "■Item Details\n Prism Jewel ×2500pcs\n (100 pcs per day x 25 days)\n\n■Term of validity\n Up to 30 days including the date of purchase\n (If 2500pcs Prism Jewel is acquired within 30 days from the date of purchase, the effect will be lost at that time.)\n\nYou can receive 100 Prism Jewel once a day when you log in. You can receive 100 Prism Jewel once a day when you log in."
@@ -20357,7 +20357,7 @@
         "3": "Season 3[On the Mystery to Unravel]'s EXP",
         "4": "Season 4[Now Shooting]'s EXP",
         "5": "Season 5[Ready to put on glasses]'s EXP",
-        "6": "シーズン6[Mana☆Mana☆Selection]の経験値"
+        "6": "Season 5[Mana☆Mana☆Selection]の経験値"
     },
     "mlItem_ItemDesc039": {
         "2": "-",
@@ -20408,7 +20408,7 @@
         "3": "New Event Song [GOOD BYE FLOWER]'s Event pt. of the Event, which is collected at the end of the Event.",
         "4": "New Event Song [Aozorani Yokotawarite]'s Event pt. of the Event, which is collected at the end of the Event.",
         "5": "New Event Song [MAYBE LOVE OCTAVE]'s Event pt. of the Event, which is collected at the end of the Event.",
-        "6": "新曲イベント[The Depressing Window of the Train, The Road Ahead Together]のイベントptです。イベント終了時に回収されます。"
+        "6": "新曲イベント[The Depressing Window of the Train, The Road Ahead Together]のEvent ptです。イベント終了時に回収されます。"
     },
     "mlItem_ItemDesc042": {
         "1": "New Event Song [Akaneiro Drawing] The medals can be used in the medal Gacha of the Excess medals will be collected at the end of the Medal Gacha.",
@@ -22019,7 +22019,7 @@
         "3": "Season Pass：Season 3[On the Mystery to Unravel]",
         "4": "Season Pass：Season 4[Now Shooting]",
         "5": "Season Pass：Season 5[Ready to put on glasses]",
-        "6": "シーズンパス：シーズン6[Mana☆Mana☆Selection]"
+        "6": "シーズンパス：Season 5[Mana☆Mana☆Selection]"
     },
     "mlItem_ItemName033": {
         "1": "Login Bonus Pass"
@@ -22353,7 +22353,7 @@
         "3": "Season 3[On the Mystery to Unravel]",
         "4": "Season 4[Now Shooting]",
         "5": "Season 5[Ready to put on glasses]",
-        "6": "シーズン6[Mana☆Mana☆Selection]"
+        "6": "Season 5[Mana☆Mana☆Selection]"
     },
     "mlItem_ItemName040": {
         "1": "Release Commemoration P-idol Selection Tickets"
@@ -22364,7 +22364,7 @@
         "3": "Event pt",
         "4": "Event pt",
         "5": "Event pt",
-        "6": "イベントpt"
+        "6": "Event pt"
     },
     "mlItem_ItemName042": {
         "1": "Bear Medal",
@@ -22372,7 +22372,7 @@
         "3": "Bear Medal",
         "4": "Bear Medal",
         "5": "Bear Medal",
-        "6": "くまさんメダル"
+        "6": "Bear Medal"
     },
     "mlItem_ItemName043": {
         "1": "Animation Release Commemorative Tickets",
@@ -25854,7 +25854,7 @@
         "3": "Season 3[On the Mystery to Unravel]",
         "4": "Season 4[Now Shooting]",
         "5": "Season 5[Ready to put on glasses]",
-        "6": "シーズン6[Mana☆Mana☆Selection]"
+        "6": "Season 5[Mana☆Mana☆Selection]"
     },
     "mlMission_SpecialMissionMissionName": {
         "1": "Play live (Auto/Skip available)",
@@ -43011,7 +43011,7 @@
         "38": "Season 4[Now Shooting] Premium rewards will be released for the rewards of playing the game.\nSeason 4 premium rewards for levels already achieved can be purchased at any time during the Season Mission playable period.",
         "39": "Nichika Nanakusa's Costume set [【Costume 02】 Nichika Nanakusa],\n1 Platinum P-idol gacha ticket and 1 Platinum S Character Gacha ticket product.",
         "40": "Season 5[Ready to put on glasses] Premium rewards will be released for the rewards of playing the game.\nSeason 5 premium rewards for levels already achieved can be purchased at any time during the Season Mission playable period.",
-        "41": "シーズン6[Mana☆Mana☆Selection]のプレイ報酬にて獲得できる\nプレミアム報酬が解放されます。\nシーズン6のシーズンミッションがプレイ可能な期間中ならいつでも購入可能で、\nすでに達成済みのレベルのプレミアム報酬は即座に獲得可能です。",
+        "41": "Season 5[Mana☆Mana☆Selection]のプレイ報酬にて獲得できる\nプレミアム報酬が解放されます。\nSeason 5のシーズンミッションがプレイ可能な期間中ならいつでも購入可能で、\nすでに達成済みのレベルのプレミアム報酬は即座に獲得可能です。",
         "49": "Prism Jewel for use in the game.",
         "50": "Prism Jewel for use in the game.",
         "51": "Prism Jewel for use in the game.",
@@ -43054,7 +43054,7 @@
         "38": "Season Pass：Season 4[Now Shooting]",
         "39": "【Costume 02】 Nichika Nanakusa",
         "40": "Season Pass：Season 5[Ready to put on glasses]",
-        "41": "シーズンパス：シーズン6[Mana☆Mana☆Selection]",
+        "41": "シーズンパス：Season 5[Mana☆Mana☆Selection]",
         "49": "One Time Only! Prism Jewel 1100pcs",
         "50": "One Time Only! Prism Jewel 3700pcs",
         "51": "One Time Only! Prism Jewel 6300pcs",
