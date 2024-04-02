@@ -22725,7 +22725,7 @@
         "1": "Up to {0}"
     },
     "mlLiveEvent_MedalGashaWarn": {
-        "1": "<color=#f0455d>The rewards remain.</color><br>You can move on to the next box whenever you like, but you cannot return to the previous box.",
+        "1": "<color=#f0455d>There are rewards left</color><br>You can move on to the next box whenever you like, but you cannot return to the previous box.",
         "2": "<color=#69db7e>All rewards were obtained!</color><br>You can move on to the next box whenever you like, but you cannot return to the previous box."
     },
     "mlLiveEvent_RankingCategory": {
