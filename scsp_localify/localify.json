@@ -7849,10 +7849,10 @@
         "4": "他愛のない日常、キッチンには美味しいおやつの香り。\nはづきはALSTROEMERIAの面々と、ドーナツを\nいただきながら穏やかなひと時を過ごす。"
     },
     "mlADVInfo_Summary_s40_01010000": {
-        "1": "まだ空に太陽はなく薄暗い。\n真乃はベッドで寝ているようだ。\n布団が呼吸の速度で上下している。\n起床のアラームが鳴るまであと少し──",
-        "2": "ロケの途中の休憩時間。\nillumination STARSの３人は、\nもそもそとロケ弁を食べている。",
-        "3": "夕方の事務所。\n静かな室内にはプロデューサーひとり。\nノートパソコンを開き、カタカタと事務作業中。",
-        "4": "お風呂上がりのめぐる。\nテレビに映っているのは\n真乃が出演したグルメ番組。"
+        "1": "There is no sun in the sky yet and it is dark.\nMano seems to be sleeping on the bed.\nThe futon is moving up and down with the speed of her breathing.\nIt's a little while until the alarm to wake up goes off─ ─",
+        "2": "A break during the filming.\nThe three members of \nillumination STARS are eating on-location bento.",
+        "3": "Office in the evening.\nThe producer is alone in the quiet room.\nHis laptop is open and he is rattling about office work.",
+        "4": "Meguru has just finished taking a bath.\nWhat's on TV is a gourmet program that Mano appeared on."
     },
     "mlADVInfo_Summary_s40_02020000": {
         "1": "駅での一幕。\n仕事に向かうため集まるL'Antica。\n異なる五つの個性を乗せ、動き出す電車。\n一緒に目的地まで向かえることに喜びを感じる一同。",
@@ -10601,28 +10601,28 @@
         "4": "おやつタイム"
     },
     "mlADVInfo_Title_s40_01010000": {
-        "1": "雲と光のラプソディア",
-        "2": "昼のシーン",
-        "3": "夕のシーン",
-        "4": "夜のシーン"
+        "1": "Rhapsodia of Clouds and Light",
+        "2": "Daytime scene",
+        "3": "Evening scene",
+        "4": "Night scene"
     },
     "mlADVInfo_Title_s40_02020000": {
-        "1": "発車ベル、進行開始",
-        "2": "巡る巡る、針と時と",
-        "3": "アラーム、朝の一幕",
-        "4": "おやつ時、お腹の時計"
+        "1": "Departure bell, progress begins",
+        "2": "Round and round, hands and time",
+        "3": "Alarm, morning scene",
+        "4": "Snack time, stomach clock"
     },
     "mlADVInfo_Title_s40_03030000": {
-        "1": "放クラミーティング",
-        "2": "段差歩き勝負！",
-        "3": "ヒソヒソ！かくれんぼ",
-        "4": "よりみちショッピング"
+        "1": "Houkura Meeting",
+        "2": "Step-walking game!",
+        "3": "Whispers! Hide and seek!",
+        "4": "Going on a shopping spree"
     },
     "mlADVInfo_Title_s40_04040000": {
-        "1": "野の花",
-        "2": "大輪の花",
-        "3": "香る花",
-        "4": "夢桜"
+        "1": "Wild flowers",
+        "2": "Big flowers",
+        "3": "Fragrant flowers",
+        "4": "Dreamlike sakura"
     },
     "mlADVInfo_Title_s40_05050000": {
         "1": "OVERTURN",
@@ -10631,19 +10631,19 @@
         "4": "MIDDLE"
     },
     "mlADVInfo_Title_s40_06060000": {
-        "1": "醤油とバター",
-        "2": "目薬をさしたいのに",
-        "3": "最後は誰か"
+        "1": "Soy Sauce and Butter",
+        "2": "Using some eye drops",
+        "3": "Who is the last one?"
     },
     "mlADVInfo_Title_s40_07070000": {
-        "1": "着火",
-        "2": "沈黙がとける頃に",
-        "3": "大したことない話"
+        "1": "Ignited",
+        "2": "When the silence is lifted",
+        "3": "Trivial matter"
     },
     "mlADVInfo_Title_s40_08080000": {
-        "1": "やっぱりこれ",
-        "2": "crows",
-        "3": "その黒の中に"
+        "1": "As i thought",
+        "2": "Crows",
+        "3": "In that blackness"
     },
     "mlADVInfo_Title_s41_01000000": {
         "1": "ひたむき",
@@ -10819,16 +10819,16 @@
         "99": "約束コンプリート"
     },
     "mlADVInfo_Title_s42_01070100": {
-        "0": "new song",
-        "1": "バイエル",
-        "2": "それは恋バナ？",
-        "3": "あの音色",
-        "4": "この世にはびこる恋の歌",
-        "5": "楽しい、気持ちで？",
-        "6": "あの子が言っていたこと",
-        "7": "少し、昔の話",
-        "8": "くすんだメモリー",
-        "99": "もう、次の舞台"
+        "0": "New song",
+        "1": "Bayer",
+        "2": "Is it a love story?",
+        "3": "That tone",
+        "4": "Infectious love song",
+        "5": "Fun, with feeling?",
+        "6": "What the girl said",
+        "7": "A little old story",
+        "8": "Dull memory",
+        "99": "The next stage, already"
     },
     "mlADVInfo_Title_s42_01080100": {
         "0": "A GIRL",
@@ -11805,7 +11805,7 @@
         "4": "Create"
     },
     "mlChat_PUText": {
-        "1": "You have left {1}\n.",
+        "1": "You have {1} left\n.",
         "2": "Chat will be closed due to an unexpected error."
     },
     "mlChat_PUTitle": {
@@ -23218,8 +23218,8 @@
         "4": "Spend a total of 5 LB",
         "5": "Play Produce Mode (auto available) ",
         "6": "Consume a total of 20 ST",
-        "7": "Let's awaken Produce Idol!",
-        "8": "Let's LvUp Produce Idol's Skill!",
+        "7": "Let's awaken a Produce Idol!",
+        "8": "Let's LvUp a Produce Idol's Skill!",
         "9": "Let's try Account Link!",
         "10": "Let's log in for a cumulative 5 days!",
         "11": "Let's log in for a cumulative 15 days!",
