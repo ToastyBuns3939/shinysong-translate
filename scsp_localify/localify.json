@@ -42620,11 +42620,11 @@
         "5": "Total Free Prism Jewel Held",
         "6": "※Free Jewels will be consumed first.",
         "7": "{0}",
-        "8": "Purchase History"
+        "8": "History"
     },
     "mlShop_PurchaseHistory": {
         "1": "No purchases are eligible within one week of purchase.",
-        "2": "Number of items purchased"
+        "2": "Purchased"
     },
     "mlShop_ReceiveBonus": {
         "1": "Received A Bonus",
