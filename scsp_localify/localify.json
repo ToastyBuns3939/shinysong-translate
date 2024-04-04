@@ -22946,7 +22946,7 @@
         "1": "Start at 0x"
     },
     "mlLiveUnitConfirmation_UseRecommendedUnitEditing": {
-        "0": "Recommended Unit"
+        "0": "Recommended"
     },
     "mlLiveUnitMemberChange_SceneTitle": {
         "0": "Member Change",
@@ -54365,7 +54365,7 @@
         "1": "Status",
         "2": "Costumes",
         "3": "Display",
-        "4": "Total Stats"
+        "4": "<size=33>Total Stats"
     },
     "mlUICharacter_MasterTrainingExecutionConfirmedPU": {
         "1": "Master Training Confirmation",
