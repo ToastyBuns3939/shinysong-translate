@@ -53,7 +53,8 @@ Translation progress can be seen [here](https://docs.google.com/spreadsheets/d/1
 
 ## Requirements (get these first!)
 1.   A PC [DMM] version of *IDOLMASTER SHINY COLORS: Song For Prism*
-2.   A latest copy of **version.dll** from [scsp-localify]
+2.   A latest copy of **version.dll** from [scsp-localify]. <br />
+     [Here's an english guide made by the creator themselves if you need a more in-depth details](https://github.com/chinosk6/scsp-localify/blob/main/readme_EN.md)
 3.   The latest version of the **scsp_localify** folder and the **scsp-config.json** file from this github repository
 
 ## Install
