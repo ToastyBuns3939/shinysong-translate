@@ -8094,12 +8094,12 @@
         "99": "仕事のため、街中を移動中の羽那。\nプロデューサーへ報告の電話を入れ、\n友人から送られてきた同窓会の写真を眺めていると──"
     },
     "mlADVInfo_Summary_s43_01010000": {
-        "1": "アイドルにより多くの可能性を与えたい──\n社長の要求に対してプロデューサーが出したのは\nリアルタイム配信の提案だった。",
-        "2": "はづきとプロデューサーは配信の準備を進める。\nアイドルのためにベストを尽くす２人。",
-        "3": "動画配信の一番手に選ばれた真乃。\nプロデューサーが語る狙いを聞いた真乃は\n前向きな想いを見せる。"
+        "1": "We want to give idols more possibilities. In response to the president's request, the producer proposed real-time streaming.",
+        "2": "Hazuki and the producer are preparing for distribution. They are doing their best for the idol.",
+        "3": "Mano was chosen to be the first to distribute the video. After hearing the producer's aim, Mano shows her positive thoughts."
     },
     "mlADVInfo_Summary_s43_04010000": {
-        "1": "桜舞う季節。\nあと一歩が踏み出せずにいる少女に、\n差し伸べられる手があった。"
+        "1": "The season of dancing cherry blossoms. A hand is extended to a girl who is unable to take one more step."
     },
     "mlADVInfo_Summary_s61_10101001": {
         "0": ""
@@ -10854,7 +10854,7 @@
         "3": "The first step is"
     },
     "mlADVInfo_Title_s43_04010000": {
-        "1": "春の星、それはまだ薄く"
+        "1": "The spring star, is still faint"
     },
     "mlADVInfo_Title_s61_10101001": {
         "0": ""
@@ -43280,7 +43280,7 @@
     "mlStory_ExtraStoryCategoryTitle": {
         "1": "Other",
         "2": "Birthday",
-        "3": "TVアニメ放送記念"
+        "3": "TV Anime Commemoration"
     },
     "mlStory_ExtraStoryEpisode": {
         "1": "1",
@@ -43309,7 +43309,7 @@
         "2": "Character's Birthday①",
         "3": "Producer's Birthday①",
         "4": "A new feather in the sky",
-        "5": "アニメ「アイドルマスター シャイニーカラーズ」"
+        "5": "Anime 「IDOLM@STER SHINY COLORS」"
     },
     "mlStory_ExtraStoryTitle": {
         "1": "Tutorial 1",
@@ -43331,7 +43331,7 @@
         "33": "Livestream Introduction Story①",
         "34": "Livestream Introduction Story➁",
         "35": "Livestream Introduction Story③",
-        "36": "アニメ連動ストーリー①"
+        "36": "Anime tie-in story ①"
     },
     "mlStory_Favorite": {
         "1": "Favorite",
