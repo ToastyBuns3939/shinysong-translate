@@ -63,6 +63,9 @@
     "アイドル選択": "Idol Selection",
     "ホーム設定": "Home Setup",
     "サポートキャラ": "Support Chara",
+    "素材を消費してトレーニングを行いますか？": "Do you want to consume materials to train?",
+    "必要素材": "Required Materials",
+    "Lv上限解放": "Lv Limit Uncap",
     "プロデュース進行度": "Produce Progress",
     "アピールカードはお仕事、お出かけなどで獲得することが出来ます。バランスよくデッキを編成することでレッスン、オーディションを突破しやすくなります。": "Appeal cards can be acquired through work and outings. A well-balanced deck makes it easier to get through lessons and auditions.",
     "選択した内容でサポートキャラを自動編成します。": "Support characters are automatically organized based on your selection.",
@@ -72,6 +75,7 @@
     "チャレンジツアー": "Challenge Tour",
     "LBを消費して楽曲クリア＆報酬をGETできます。": "You can spend LB to clear songs & get rewards.",
     "毎日0時にリセット！": "<size=18>Reset at midnight every day!",
+    "獲得サポート効果": "Earned Support Effects",
     
 
     "楽曲購入 <sprite=16>": "Buy Music <sprite=16>",
