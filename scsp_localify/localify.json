@@ -44664,7 +44664,11 @@
         "60201": "Can't participate in Regional sales",
         "60202": "Joint training camps are not available",
         "70101": "Can't join camps",
-        "80101": "Can't join camps"
+        "70201": "Can't participate in Regional sales",
+        "70202": "Joint training camps are not available",
+        "80101": "Can't join camps",
+        "80201": "Can't participate in Regional sales",
+        "80202": "Joint training camps are not available"
     },
     "mlSubSeason_ScheduleLeftTitle": {
         "10101": "Training Camp",
@@ -44738,10 +44742,14 @@
         "50201": "State",
         "50202": "State",
         "60101": "State",
-        "60201": "発生状況",
-        "60202": "発生状況",
+        "60201": "State",
+        "60202": "State",
         "70101": "State",
-        "80101": "State"
+        "70201": "State",
+        "70202": "State",
+        "80101": "State",
+        "80201": "State",
+        "80202": "State"
     },
     "mlSubSeason_TimeUnit": {
         "1": "Week",
