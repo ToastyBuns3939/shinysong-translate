@@ -676,6 +676,8 @@
     "全員": "All Members",
     "再生": "Play",
     "再生なし": "No Voice",
+    "入手": "Get",
+    "所持しているサポートスキルはありません。": "No support skills possessed.",
     "初期設定に戻す": "Reset to default",
     "判定の表示位置\nを変更できます。": "Changing the judgement\ndisplay position",
     "判定表示": "Judgement display",
