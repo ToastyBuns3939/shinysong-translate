@@ -268,7 +268,7 @@
     "レッスン（Vo)": "Lesson (Vo)",
     "汎用カード": "Generic Cards",
     "チャレンジミッション": "Challenge Mission",
-    "トラブル率": "<size=17>Trouble Rate",
+    "トラブル率": "<line-height=75%><size=19>Trouble Rate",
     "スケジュールLvアップ": "Schedule Lv up",
     "<cspace=-0.03em>ユニットステータス</cspace> ": "Unit Status",
     "進行中のプロデュース内容を終了します。": "Terminates the contents of the ongoing production.",
