@@ -16,7 +16,7 @@ This is based on the [DMM] version of the game and *should* work on linux and ma
 
 # Romaji Lyrics Video Preview
    
-[![TEST](https://img.youtube.com/vi/FNHcQ-ovh8o/0.jpg)](https://www.youtube.com/watch?v=FNHcQ-ovh8o)
+[![TEST](https://img.youtube.com/vi/ncYDIzfnt4Y/0.jpg)](https://www.youtube.com/watch?v=ncYDIzfnt4Y)
 </div>
 
 # Features
