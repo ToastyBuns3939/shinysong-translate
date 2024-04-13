@@ -55571,7 +55571,7 @@
         "8": "Schedule specialty",
         "9": "Effect value Lv",
         "10": "Train",
-        "11": "<sprite=3>最大まで育成した場合のステータスです。"
+        "11": "<sprite=3> Stats when trained to the maximum."
     },
     "mlUICharacter_SCTrainingCompletedPU": {
         "1": "Training Completed",
