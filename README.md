@@ -25,13 +25,13 @@ Supports translating:
 - English Lyrics
 - Most of the UI
 - Skills, names, missions, and other such "dynamic" texts.
-
-Upcoming features:
-- Main & Event stories
+- Home interactions (Office characters)
 - Special Events (ie birthdays, april fools, etc)
+
+Work in progress features:
+- Main & Event stories
 - Produce Card Stories
 - Support Card Stories
-- Home interactions (Office characters)
 
 <b>Questions, Feedback, or want to Help with Translations?：[Join the Discord](https://discord.gg/qjrK3hu9Vy)</b>
 
