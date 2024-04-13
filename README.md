@@ -29,9 +29,10 @@ Supports translating:
 - Special Events (ie birthdays, april fools, etc)
 
 Work in progress features:
-- Main & Event stories
+- Main & Event Stories
 - Produce Card Stories
 - Support Card Stories
+- Event Stories
 
 <b>Questions, Feedback, or want to Help with Translations?：[Join the Discord](https://discord.gg/qjrK3hu9Vy)</b>
 
