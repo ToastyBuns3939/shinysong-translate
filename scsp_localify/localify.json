@@ -34137,7 +34137,7 @@
     "mlProduce_GiveUpText": {
         "0": "Terminates the produce session in progress.",
         "1": "<sprite=3>Data in progress will be lost.\n Consumed ST will not be returned.",
-        "2": "<line-height=40>進行中のプロデュース内容を終了します。\n\n<sprite=3><color=#FF3300>進行中のデータは失われます。\n   消費したSTは返却されません。"
+        "2": "<line-height=40>Give Up on the current produce run.\n\n<sprite=3><color=#FF3300>Progress will be lost.\n   Consumed ST won't be returned."
     },
     "mlProduce_InGameFinishPopup": {
         "0": "Lesson Completed"
