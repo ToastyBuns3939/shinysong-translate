@@ -34248,7 +34248,7 @@
     "mlProduceAuto_RankUpBalanceTypeName": {
         "1": "Aggressively rank up",
         "2": "Balanced rank up",
-        "3": "Not ranked up"
+        "3": "Don't rank up"
     },
     "mlProduceAuto_RecoveryTimingTypeName": {
         "1": "60 or less",
