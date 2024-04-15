@@ -80,6 +80,7 @@
         "707002": " ",
         "711003": " ",
         "713002": " ",
+        "714003": "　",
         "716002": " ",
         "716003": " ",
         "717003": " ",
@@ -457,6 +458,7 @@
         "707002": "【Costume 01】 Yuika Mitsumine's Glasses",
         "711003": "【Costume 02】 Juri Saijo's earrings",
         "713002": "【Costume 01】 Natsuha Arisugawa's earrings",
+        "714003": "【Costume 02】 Amana Osaki's earrings",
         "716002": "【Costume 01】 Chiyuki Kuwayama's earrings",
         "716003": "【Costume 02】 Chiyuki Kuwayama's earrings",
         "717003": "【Costume 02】 Asahi Serizawa's earrings",
@@ -834,6 +836,7 @@
         "707002": "Yuika Mitsumine's bond at lv4",
         "711003": "Buy at store",
         "713002": "Natsuha Arisugawa's bond at lv4",
+        "714003": "Buy at store",
         "716002": "Chiyuki Kuwayama's bond at lv4",
         "716003": "Buy at store",
         "717003": "Buy at store",
@@ -879,7 +882,7 @@
         "803011": "Obtain at the exchange using event stickers",
         "804001": "None",
         "804002": "Kogane Tsukioka's bond at Lv5",
-        "804003": "Limited mission[L'antica] Obtained as an achievement reward for the addition of Episode 2",
+        "804003": "Limited mission [L'antica] Obtained as an achievement reward for the addition of Episode 2",
         "804004": "Buy at store",
         "804006": "Kogane Tsukioka's bond at Lv3",
         "804007": "Kogane Tsukioka's bond at Lv8",
@@ -889,7 +892,7 @@
         "804011": "Obtain at the exchange using event stickers",
         "805001": "None",
         "805002": "Mamimi Tanaka's bond at Lv5",
-        "805003": "Limited mission[L'antica] Obtained as an achievement reward for the addition of Episode 2",
+        "805003": "Limited mission [L'antica] Obtained as an achievement reward for the addition of Episode 2",
         "805004": "None",
         "805005": "Buy at store",
         "805007": "Mamimi Tanaka's bond at Lv3",
@@ -900,7 +903,7 @@
         "805012": "Obtain at the exchange using event stickers",
         "806001": "None",
         "806002": "Sakuya Shirase's bond at Lv5",
-        "806003": "Limited mission[L'antica] Obtained as an achievement reward for the addition of Episode 2",
+        "806003": "Limited mission [L'antica] Obtained as an achievement reward for the addition of Episode 2",
         "806004": "None",
         "806005": "None",
         "806006": "Buy at store",
@@ -912,7 +915,7 @@
         "806013": "Obtain at the exchange using event stickers",
         "807001": "None",
         "807002": "Yuika Mitsumine's bond at Lv5",
-        "807003": "Limited mission[L'antica] Obtained as an achievement reward for the addition of Episode 2",
+        "807003": "Limited mission [L'antica] Obtained as an achievement reward for the addition of Episode 2",
         "807004": "None",
         "807005": "None",
         "807006": "Buy at store",
@@ -924,7 +927,7 @@
         "807013": "Obtain at the exchange using event stickers",
         "808001": "None",
         "808002": "Kiriko Yukoku's bond at Lv5",
-        "808003": "Limited mission[L'antica] Obtained as an achievement reward for the addition of Episode 2",
+        "808003": "Limited mission [L'antica] Obtained as an achievement reward for the addition of Episode 2",
         "808004": "None",
         "808005": "Buy at store",
         "808007": "Kiriko Yukoku's bond at Lv3",
@@ -935,7 +938,7 @@
         "808012": "Obtain at the exchange using event stickers",
         "809001": "None",
         "809002": "Kaho Komiya's bond at Lv5",
-        "809003": "Limited mission[HO-KA-GO CLIMAX GIRLS] Obtained as an achievement reward for the addition of Episode 2",
+        "809003": "Limited mission [HO-KA-GO CLIMAX GIRLS] Obtained as an achievement reward for the addition of Episode 2",
         "809004": "Buy at store",
         "809006": "Kaho Komiya's bond at Lv3",
         "809007": "Kaho Komiya's bond at Lv8",
@@ -944,7 +947,7 @@
         "809010": "Use the [Cat Impersonation Ticket] bought from exchange",
         "810001": "None",
         "810002": "Chiyoko Sonoda's bond at Lv5",
-        "810003": "Limited mission[HO-KA-GO CLIMAX GIRLS] Obtained as an achievement reward for the addition of Episode 2",
+        "810003": "Limited mission [HO-KA-GO CLIMAX GIRLS] Obtained as an achievement reward for the addition of Episode 2",
         "810004": "Buy at store",
         "810006": "Chiyoko Sonoda's bond at Lv3",
         "810007": "Chiyoko Sonoda's bond at Lv8",
@@ -953,7 +956,7 @@
         "810010": "Use the [Cat Impersonation Ticket] bought from exchange",
         "811001": "None",
         "811002": "Juri Saijo's bond at Lv5",
-        "811003": "Limited mission[HO-KA-GO CLIMAX GIRLS] Obtained as an achievement reward for the addition of Episode 2",
+        "811003": "Limited mission [HO-KA-GO CLIMAX GIRLS] Obtained as an achievement reward for the addition of Episode 2",
         "811004": "None",
         "811005": "Buy at store",
         "811007": "Juri Saijo's bond at Lv3",
@@ -963,7 +966,7 @@
         "811011": "Use the [Cat Impersonation Ticket] bought from exchange",
         "812001": "None",
         "812002": "Rinze Morino's bond at Lv5",
-        "812003": "Limited mission[HO-KA-GO CLIMAX GIRLS] Obtained as an achievement reward for the addition of Episode 2",
+        "812003": "Limited mission [HO-KA-GO CLIMAX GIRLS] Obtained as an achievement reward for the addition of Episode 2",
         "812004": "Buy at store",
         "812006": "Rinze Morino's bond at Lv3",
         "812007": "Rinze Morino's bond at Lv8",
@@ -975,7 +978,7 @@
         "812015": "Obtain it through rank rewards for Season 6 Seasonal Missions.",
         "813001": "None",
         "813002": "Natsuha Arisugawa's bond at Lv5",
-        "813003": "Limited mission[HO-KA-GO CLIMAX GIRLS] Obtained as an achievement reward for the addition of Episode 2",
+        "813003": "Limited mission [HO-KA-GO CLIMAX GIRLS] Obtained as an achievement reward for the addition of Episode 2",
         "813004": "None",
         "813005": "Buy at store",
         "813007": "Natsuha Arisugawa's bond at Lv3",
@@ -985,7 +988,7 @@
         "813011": "Use the [Cat Impersonation Ticket] bought from exchange",
         "814001": "None",
         "814002": "Amana Osaki's bond at Lv5",
-        "814003": "Limited mission[ALSTROEMERIA] Obtained as an achievement reward for the addition of Episode 2",
+        "814003": "Limited mission [ALSTROEMERIA] Obtained as an achievement reward for the addition of Episode 2",
         "814004": "Buy at store",
         "814006": "Amana Osaki's bond at Lv3",
         "814007": "Amana Osaki's bond at Lv8",
@@ -994,7 +997,7 @@
         "814010": "Use the [Cat Impersonation Ticket] bought from exchange",
         "815001": "None",
         "815002": "Tenka Osaki's bond at Lv5",
-        "815003": "Limited mission[ALSTROEMERIA] Obtained as an achievement reward for the addition of Episode 2",
+        "815003": "Limited mission [ALSTROEMERIA] Obtained as an achievement reward for the addition of Episode 2",
         "815004": "Buy at store",
         "815006": "Tenka Osaki's bond at Lv3",
         "815007": "Tenka Osaki's bond at Lv8",
@@ -1003,7 +1006,7 @@
         "815010": "Use the [Cat Impersonation Ticket] bought from exchange",
         "816001": "None",
         "816002": "Chiyuki Kuwayama's bond at Lv5",
-        "816003": "Limited mission[ALSTROEMERIA] Obtained as an achievement reward for the addition of Episode 2",
+        "816003": "Limited mission [ALSTROEMERIA] Obtained as an achievement reward for the addition of Episode 2",
         "816004": "Buy at store",
         "816006": "Chiyuki Kuwayama's bond at Lv3",
         "816007": "Chiyuki Kuwayama's bond at Lv8",
@@ -5379,7 +5382,8 @@
     "mlADVInfo_IrregularSubTitle_s40_06060000": {
         "1": "",
         "2": "",
-        "3": ""
+        "3": "",
+        "4": ""
     },
     "mlADVInfo_IrregularSubTitle_s40_07070000": {
         "1": "",
@@ -5458,7 +5462,8 @@
     },
     "mlADVInfo_IrregularSubTitle_s41_14000000": {
         "1": "",
-        "2": ""
+        "2": "",
+        "3": ""
     },
     "mlADVInfo_IrregularSubTitle_s41_15000000": {
         "1": "",
@@ -5619,6 +5624,9 @@
         "0": ""
     },
     "mlADVInfo_IrregularSubTitle_s61_10215001": {
+        "0": ""
+    },
+    "mlADVInfo_IrregularSubTitle_s61_10216001": {
         "0": ""
     },
     "mlADVInfo_IrregularSubTitle_s61_10217001": {
@@ -8175,7 +8183,8 @@
     "mlADVInfo_Summary_s40_06060000": {
         "1": "透の部屋で過ごす４人。\nつけっぱなしのテレビから流れてきた\n『潮干狩り』というワードに透が反応すると\n彼女たちの会話は思わぬ方向へ転がっていく。",
         "2": "学校の屋上に集った４人。\n小糸は透に目薬をさそうとするが\n寸前で透が目をつぶってしまい、うまくいかない。\nすると、狙いを外れた目薬が耳の方まで流れていき──",
-        "3": "事務所の冷蔵庫にあった麦茶。\n最後まで飲んだ者がストック補充しなければならない。\n残りは少なく、全員が飲めば中身が無くなるのは必至。\n果たして、補充するのは誰か──"
+        "3": "事務所の冷蔵庫にあった麦茶。\n最後まで飲んだ者がストック補充しなければならない。\n残りは少なく、全員が飲めば中身が無くなるのは必至。\n果たして、補充するのは誰か──",
+        "4": "その日の撮影でカメラマンが何度も口にしていたのは\n一風変わったフレーズだった。\n撮影の場では相手の言葉に合わせていた４人だが、\nその後、撮影が終わると──"
     },
     "mlADVInfo_Summary_s40_07070000": {
         "1": "うたた寝していたにちかにチェインが届く。\nその送り主を見たにちかは、\nまるでネズミ捕りのように跳ね起きて──",
@@ -8254,7 +8263,8 @@
     },
     "mlADVInfo_Summary_s41_14000000": {
         "1": "ALSTROEMERIAのライブ映像を見ながら\n自分の反省点をまとめている甘奈。\nプロデューサーがその様子を感心して見ていると\nなにやら甜花のこともメモしているようで──",
-        "2": "トークショーの出演が控えている甘奈は\nあることで悩んでいた。\n『みんなが喜んでくれそうなコーデは？』\n意見を聞くため、プロデューサーに相談すると──"
+        "2": "トークショーの出演が控えている甘奈は\nあることで悩んでいた。\n『みんなが喜んでくれそうなコーデは？』\n意見を聞くため、プロデューサーに相談すると──",
+        "3": "仕事が立て込み、多忙を極めるプロデューサー。\n食生活もそれにあわせて雑になっている。\nプロデューサーを心配して\n何かをしてあげたいと思う甘奈は──"
     },
     "mlADVInfo_Summary_s41_15000000": {
         "1": "とある撮影で、失敗をしてしまった甜花。\n[甜花には、アイドル……向いてない、よ……]と\n落ち込んでいる甜花を、プロデューサーは\nありのままの言葉で励ます。",
@@ -8499,6 +8509,9 @@
         "0": ""
     },
     "mlADVInfo_Summary_s61_10215001": {
+        "0": ""
+    },
+    "mlADVInfo_Summary_s61_10216001": {
         "0": ""
     },
     "mlADVInfo_Summary_s61_10217001": {
@@ -9067,7 +9080,7 @@
     "mlADVInfo_Title_s03_03100000": {
         "0": "Are you studying?"
     },
-        "mlADVInfo_Title_s03_04010000": {
+    "mlADVInfo_Title_s03_04010000": {
         "0": "Which is the best...?"
     },
     "mlADVInfo_Title_s03_04020000": {
@@ -9297,1405 +9310,1406 @@
         "0": "Beginning of CoMETIK Training Camp",
         "99": "End of CoMETIK Training Camp"
     },
-  "mlADVInfo_Title_s09_01010100": {
-    "1": "Mano Sakuragi Slowly",
-    "2": "Mano Sakuragi Without Haste",
-    "3": "Mano Sakuragi Gazing into the Distance"
-  },
-  "mlADVInfo_Title_s09_01010200": {
-    "1": "Hiori Kazano As High as I Look Up",
-    "2": "Hiori Kazano What I See Is Far Ahead",
-    "3": "Hiori Kazano More Important Than Looking Back"
-  },
-  "mlADVInfo_Title_s09_01010300": {
-    "1": "Meguru Hachimiya Bursting Light",
-    "2": "Meguru Hachimiya Light and Shadow in the Morning Mist",
-    "3": "Meguru Hachimiya Melting into Coffee Color"
-  },
-  "mlADVInfo_Title_s09_01010400": {
-    "1": "Kogane Tsukioka Aim for the World~!",
-    "2": "Kogane Tsukioka Full-Speed Sprint~!",
-    "3": "Kogane Tsukioka Straddling the World~!"
-  },
-  "mlADVInfo_Title_s09_01010500": {
-    "1": "Mamimi Tanaka Still Sleepy",
-    "2": "Mamimi Tanaka Just on Time Bed",
-    "3": "Mamimi Tanaka Its Potential"
-  },
-  "mlADVInfo_Title_s09_01010600": {
-    "1": "Sakuya Shirase From This Distant Place",
-    "2": "Sakuya Shirase To Those Waiting to Return",
-    "3": "Sakuya Shirase The Best Gift"
-  },
-  "mlADVInfo_Title_s09_01010700": {
-    "1": "Yuika Mitsumine Lack of Sleuthing Skills",
-    "2": "Yuika Mitsumine Attempted, Cultivated Dramatics",
-    "3": "Yuika Mitsumine 'Yoseyai'"
-  },
-  "mlADVInfo_Title_s09_01010800": {
-    "1": "Kiriko Yukoku Passed On",
-    "2": "Kiriko Yukoku Received",
-    "3": "Kiriko Yukoku Whispered"
-  },
-  "mlADVInfo_Title_s09_01010900": {
-    "1": "Kaho Komiya Encounter!? That Unknown Guy",
-    "2": "Kaho Komiya Study!? Where Teachers Are Students and Students Are Teachers",
-    "3": "Kaho Komiya Growth!! For the Future Someday"
-  },
-  "mlADVInfo_Title_s09_01011000": {
-    "1": "Chiyoko Sonoda Plenty Sweet",
-    "2": "Chiyoko Sonoda Cocoa of Fight",
-    "3": "Chiyoko Sonoda Firmly, Chiyo Right"
-  },
-  "mlADVInfo_Title_s09_01011100": {
-    "1": "Juri Saijo Sweet Offering",
-    "2": "Juri Saijo Surprise Cool Down",
-    "3": "Juri Saijo Cheers!"
-  },
-  "mlADVInfo_Title_s09_01011200": {
-    "1": "Rinzei Morino Quietly Feel",
-    "2": "Rinzei Morino Call",
-    "3": "Rinzei Morino Shine Light"
-  },
-  "mlADVInfo_Title_s09_01011300": {
-    "1": "Natsuha Arisugawa One Lap Roadwork",
-    "2": "Natsuha Arisugawa Line Extending to the Horizon",
-    "3": "Natsuha Arisugawa Step by Step"
-  },
-  "mlADVInfo_Title_s09_01011400": {
-    "1": "Amana Osaki Shiny Shoes☆",
-    "2": "Amana Osaki The Power of Shoes?",
-    "3": "Amana Osaki Until They're Worn Out"
-  },
-  "mlADVInfo_Title_s09_01011500": {
-    "1": "Tenka Osaki Challenge Start",
-    "2": "Tenka Osaki Emergency",
-    "3": "Tenka Osaki Complete!"
-  },
-  "mlADVInfo_Title_s09_01011600": {
-    "1": "Chiyuki Kuwayama Inconvenient Guest",
-    "2": "Chiyuki Kuwayama Empty Stroll",
-    "3": "Chiyuki Kuwayama Surprise Gift"
-  },
-  "mlADVInfo_Title_s09_01011700": {
-    "1": "Asahi Serizawa Electricity Goes Anywhere",
-    "2": "Asahi Serizawa Want to Confirm!",
-    "3": "Asahi Serizawa Always Exploration!"
-  },
-  "mlADVInfo_Title_s09_01011800": {
-    "1": "Fuyuko Mayuzumi Momentarily Away",
-    "2": "Fuyuko Mayuzumi Admire the Handiwork",
-    "3": "Fuyuko Mayuzumi Time to Return"
-  },
-  "mlADVInfo_Title_s09_01011900": {
-    "1": "Izumi Mei Oh No~!",
-    "2": "Izumi Mei I Dunno~!!",
-    "3": "Izumi Mei It's Alright!!"
-  },
-  "mlADVInfo_Title_s09_01012000": {
-    "1": "Toru Asakura Adding Alarms",
-    "2": "Toru Asakura It's Time",
-    "3": "Toru Asakura Repeating"
-  },
-  "mlADVInfo_Title_s09_01012100": {
-    "1": "Madoka Higuchi Break Time",
-    "2": "Madoka Higuchi Free Time",
-    "3": "Madoka Higuchi Evacuation Preparation"
-  },
-  "mlADVInfo_Title_s09_01012200": {
-    "1": "Koito Fukumaru Keeping Records",
-    "2": "Koito Fukumaru Beyond the Open Page",
-    "3": "Koito Fukumaru Write Everything Down"
-  },
-  "mlADVInfo_Title_s09_01012300": {
-    "1": "Hinana Ichikawa FeelDown↓",
-    "2": "Hinana Ichikawa Quest/ion",
-    "3": "Hinana Ichikawa Cheer!"
-  },
-  "mlADVInfo_Title_s09_01012400": {
-    "1": "Nichika Nanakusa Maintain Appearance Please",
-    "2": "Nichika Nanakusa Don't Say Careless Things",
-    "3": "Nichika Nanakusa If Worried, Please Speak Up"
-  },
-  "mlADVInfo_Title_s09_01012500": {
-    "1": "Mikoto Aketa Dry",
-    "2": "Mikoto Aketa Repair",
-    "3": "Mikoto Aketa Refresh"
-  },
-  "mlADVInfo_Title_s09_01012600": {
-    "1": "Luca Ikaruga Waste of Time",
-    "2": "Luca Ikaruga To a Stroll",
-    "3": "Luca Ikaruga Effects of Training Camp"
-  },
-  "mlADVInfo_Title_s09_01012700": {
-    "1": "Hana Suzuki Start",
-    "2": "Hana Suzuki on the Morning",
-    "3": "Hana Suzuki End"
-  },
-  "mlADVInfo_Title_s09_01012800": {
-    "1": "Ikuta Haruki Lesson Notes: Assignments",
-    "2": "Ikuta Haruki Lesson Notes: Review",
-    "3": "Ikuta Haruki Lesson Notes: Extra Edition"
-  },
-  "mlADVInfo_Title_s09_02010100": {
-    "1": "Mano Sakuragi First Time Place",
-    "2": "Mano Sakuragi Wanted to Ask",
-    "3": "Mano Sakuragi Courage to Decide"
-  },
-  "mlADVInfo_Title_s09_02010200": {
-    "1": "Hiori Kazano Acclaim Taste",
-    "2": "Hiori Kazano Might Be Heavy Load",
-    "3": "Hiori Kazano Method to Convey"
-  },
-  "mlADVInfo_Title_s09_02010300": {
-    "1": "Meguru Hachimiya Want to Plan!",
-    "2": "Meguru Hachimiya Want to Make Memories!",
-    "3": "Meguru Hachimiya Let's Go, Fireworks!"
-  },
-  "mlADVInfo_Title_s09_02010400": {
-    "1": "Kogane Tsukioka Emergency?",
-    "2": "Kogane Tsukioka Love Bell Diner, Temporarily Open",
-    "3": "Kogane Tsukioka Plates Full of Dreams"
-  },
-  "mlADVInfo_Title_s09_02010500": {
-    "1": "Mamimi Tanaka What Kind of Stimulus?",
-    "2": "Mamimi Tanaka Not This Kind",
-    "3": "Mamimi Tanaka But, Still"
-  },
-  "mlADVInfo_Title_s09_02010600": {
-    "1": "Sakuya Shirase You're Just Like",
-    "2": "Sakuya Shirase Lively Break",
-    "3": "Sakuya Shirase Endless Journey"
-  },
-  "mlADVInfo_Title_s09_02010700": {
-    "1": "Yuika Mitsumine Type to Earn with Feet",
-    "2": "Yuika Mitsumine Rarely Happens",
-    "3": "Yuika Mitsumine Due to Excess Supply"
-  },
-  "mlADVInfo_Title_s09_02010800": {
-    "1": "Kiriko Yukoku Hello",
-    "2": "Kiriko Yukoku Goodbye",
-    "3": "Kiriko Yukoku Where?"
-  },
-  "mlADVInfo_Title_s09_02010900": {
-    "1": "Kaho Komiya Adventure! Unknown City",
-    "2": "Kaho Komiya Discovery! Amazing Mechanism",
-    "3": "Kaho Komiya Gratitude! To Those Always Protecting"
-  },
-  "mlADVInfo_Title_s09_02011000": {
-    "1": "Chiyoko Sonoda Going to Meet You!",
-    "2": "Chiyoko Sonoda Let's Meet Again!",
-    "3": "Chiyoko Sonoda Anywhere, Anytime!"
-  },
-  "mlADVInfo_Title_s09_02011100": {
-    "1": "Juri Saijo Given Power from Everyone",
-    "2": "Juri Saijo Laundry as Usual",
-    "3": "Juri Saijo Whose Thanks?"
-  },
-  "mlADVInfo_Title_s09_02011200": {
-    "1": "Rinzei Morino Beside",
-    "2": "Rinzei Morino Together",
-    "3": "Rinzei Morino Learning"
-  },
-  "mlADVInfo_Title_s09_02011300": {
-    "1": "Natsuha Arisugawa Not Even a Second",
-    "2": "Natsuha Arisugawa Switch On!",
-    "3": "Natsuha Arisugawa Everyone Has Their Own Pace"
-  },
-  "mlADVInfo_Title_s09_02011400": {
-    "1": "Amana Osaki Share?",
-    "2": "Amana Osaki Slumber Party☆",
-    "3": "Amana Osaki Sleepy..."
-  },
-  "mlADVInfo_Title_s09_02011500": {
-    "1": "Tenka Osaki Nap Time is the Best",
-    "2": "Tenka Osaki Not Bad",
-    "3": "Tenka Osaki Last Night at Least"
-  },
-  "mlADVInfo_Title_s09_02011600": {
-    "1": "Chiyuki Kuwayama Seeking First Time Experience",
-    "2": "Chiyuki Kuwayama I've Learned♪",
-    "3": "Chiyuki Kuwayama Favorites, Take Home"
-  },
-  "mlADVInfo_Title_s09_02011700": {
-    "1": "Asahi Serizawa Practice Over Theory",
-    "2": "Asahi Serizawa Received Gratitude",
-    "3": "Asahi Serizawa Materialize"
-  },
-  "mlADVInfo_Title_s09_02011800": {
-    "1": "Fuyuko Mayuzumi Straight Concentration",
-    "2": "Fuyuko Mayuzumi Does the Sunlight Invite?",
-    "3": "Fuyuko Mayuzumi That's Also There"
-  },
-  "mlADVInfo_Title_s09_02011900": {
-    "1": "Izumi Mei Burst of Energy~!",
-    "2": "Izumi Mei Don't End It~",
-    "3": "Izumi Mei Meguru-chan♪"
-  },
-  "mlADVInfo_Title_s09_02012000": {
-    "1": "Toru Asakura Crying",
-    "2": "Toru Asakura Laughing",
-    "3": "Toru Asakura Won't Cry"
-  },
-  "mlADVInfo_Title_s09_02012100": {
-    "1": "Madoka Higuchi Vending Machine",
-    "2": "Madoka Higuchi Lesson Place",
-    "3": "Madoka Higuchi Misunderstanding"
-  },
-  "mlADVInfo_Title_s09_02012200": {
-    "1": "Koito Fukumaru Almost There, But",
-    "2": "Koito Fukumaru From Now On, About This Much",
-    "3": "Koito Fukumaru First In Line"
-  },
-  "mlADVInfo_Title_s09_02012300": {
-    "1": "Hinana Ichikawa My→Way",
-    "2": "Hinana Ichikawa All R!ght",
-    "3": "Hinana Ichikawa Buzz?"
-  },
-  "mlADVInfo_Title_s10_10100100": {
-    "1": "That's Very",
-    "2": "That's Just Like",
-    "3": "With the Sky"
-  },
-  "mlADVInfo_Title_s10_10100200": {
-    "1": "One, Again",
-    "2": "Running with Feelings",
-    "3": "Melting with Lights"
-  },
-  "mlADVInfo_Title_s10_10200100": {
-    "1": "Things I Can't Do",
-    "2": "Things I Might Do",
-    "3": "Things I've Done"
-  },
-  "mlADVInfo_Title_s10_10200200": {
-    "1": "Reflecting,",
-    "2": "With Determination,",
-    "3": "Sharing, White"
-  },
-  "mlADVInfo_Title_s10_10300100": {
-    "1": "Wearing the Sky, Towards the Sky",
-    "2": "When Hearts Click Shutters Together",
-    "3": "Let's Watch Together Someday"
-  },
-  "mlADVInfo_Title_s10_10300200": {
-    "1": "Leave it to Meguru",
-    "2": "Let's Watch Out for Each Other",
-    "3": "Together, We're Perfect!"
-  },
-  "mlADVInfo_Title_s10_10400100": {
-    "1": "Hurry Up!!",
-    "2": "Try Wearing It!!",
-    "3": "Deliver!!"
-  },
-  "mlADVInfo_Title_s10_10400200": {
-    "1": "Dream → Reality",
-    "2": "Reality → Rest",
-    "3": "Home → Idol"
-  },
-  "mlADVInfo_Title_s10_10500100": {
-    "1": "Swallow",
-    "2": "Attempt",
-    "3": "Feeding"
-  },
-  "mlADVInfo_Title_s10_10500200": {
-    "1": "Casually",
-    "2": "Maybe Casual",
-    "3": "Might Be Casual"
-  },
-  "mlADVInfo_Title_s10_10600100": {
-    "1": "A Little Gloom",
-    "2": "With a Straight Gaze",
-    "3": "Anxiety Dissolves"
-  },
-  "mlADVInfo_Title_s10_10600200": {
-    "1": "Tell Me, I'll Respond to Everything",
-    "2": "A Gentle Wish",
-    "3": "Connected in Many Ways, Me"
-  },
-  "mlADVInfo_Title_s10_10700100": {
-    "1": "For the Sake of Flying",
-    "2": "Those Eyes That Stare",
-    "3": "The View Through the Lens, Again"
-  },
-  "mlADVInfo_Title_s10_10700200": {
-    "1": "Joke (1)",
-    "2": "Joke (2)",
-    "3": "Serious"
-  },
-  "mlADVInfo_Title_s10_10800100": {
-    "1": "What I Envisioned in My Heart",
-    "2": "Taking Shape",
-    "3": "From Here"
-  },
-  "mlADVInfo_Title_s10_10800200": {
-    "1": "Imagination",
-    "2": "Reality",
-    "3": "Everyone"
-  },
-  "mlADVInfo_Title_s10_10900100": {
-    "1": "The Chick Dreams of the Sky",
-    "2": "The Chick Aims for the Sky",
-    "3": "Fly, Towards the Sky"
-  },
-  "mlADVInfo_Title_s10_10900200": {
-    "1": "Matching Power",
-    "2": "Fluttering Power",
-    "3": "Butterfly Power"
-  },
-  "mlADVInfo_Title_s10_11000100": {
-    "1": "To Be Chosen by Me",
-    "2": "To Someone (You)!",
-    "3": "Today is Hanamaru"
-  },
-  "mlADVInfo_Title_s10_11000200": {
-    "1": "Focused on One Point",
-    "2": "So We Don't Get Buried",
-    "3": "Running Up Together"
-  },
-  "mlADVInfo_Title_s10_11100100": {
-    "1": "Wait a Moment",
-    "2": "What's Needed to Fly",
-    "3": "Fun Premonition"
-  },
-  "mlADVInfo_Title_s10_11100200": {
-    "1": "Casually Serious",
-    "2": "Towards You",
-    "3": "Seemingly Difficult, Yet Easy"
-  },
-  "mlADVInfo_Title_s10_11200100": {
-    "1": "Matching Outfits",
-    "2": "Are They Beautiful?",
-    "3": "Next Time for Sure"
-  },
-  "mlADVInfo_Title_s10_11200200": {
-    "1": "Lovely Outfits",
-    "2": "Beautiful Indeed",
-    "3": "Reveal"
-  },
-  "mlADVInfo_Title_s10_11300100": {
-    "1": "My Ideal",
-    "2": "Stoic",
-    "3": "Soaring High"
-  },
-  "mlADVInfo_Title_s10_11300200": {
-    "1": "Positive",
-    "2": "Don't Overlook",
-    "3": "Something That Makes Me Shine"
-  },
-  "mlADVInfo_Title_s10_11400100": {
-    "1": "What do I see?",
-    "2": "Look up at the sky",
-    "3": "believe in myself"
-  },
-  "mlADVInfo_Title_s10_11400200": {
-    "1": "Anna's Routine Part 1☆",
-    "2": "Anna's Routine Part 2☆",
-    "3": "Anna's Routine Part 3☆"
-  },
-  "mlADVInfo_Title_s10_11500100": {
-    "1": "Fit",
-    "2": "Fitting?",
-    "3": "Swallow"
-  },
-  "mlADVInfo_Title_s10_11500200": {
-    "1": "Deep...!",
-    "2": "Getting Restless Soon",
-    "3": "Fluttering and Glittering"
-  },
-  "mlADVInfo_Title_s10_11600100": {
-    "1": "Admiration",
-    "2": "Someday",
-    "3": "Beyond That"
-  },
-  "mlADVInfo_Title_s10_11600200": {
-    "1": "Lovely Job",
-    "2": "Casting a Spell",
-    "3": "Idling Now"
-  },
-  "mlADVInfo_Title_s10_11700100": {
-    "1": "Focused Steps",
-    "2": "Like Being Above the Clouds",
-    "3": "Jumping Like a Spring"
-  },
-  "mlADVInfo_Title_s10_11700200": {
-    "1": "Fun Preview",
-    "2": "Nap Dress",
-    "3": "Scenery Only on Stage"
-  },
-  "mlADVInfo_Title_s10_11800100": {
-    "1": "That Day, Still",
-    "2": "Making it Seem Like a Beautiful Swan",
-    "3": "Seems Like a Foolish Question"
-  },
-  "mlADVInfo_Title_s10_11800200": {
-    "1": "Model Answer Isn't Correct",
-    "2": "Pass, and More",
-    "3": "From That Day Until Now"
-  },
-  "mlADVInfo_Title_s10_11900100": {
-    "1": "This is It!",
-    "2": "Wow!",
-    "3": "Looking Good~♪"
-  },
-  "mlADVInfo_Title_s10_11900200": {
-    "1": "Brand New♪",
-    "2": "Pose!",
-    "3": "Even More Yay!"
-  },
-  "mlADVInfo_Title_s10_12000100": {
-    "1": "Commemoration",
-    "2": "Getting Used to",
-    "3": "Important"
-  },
-  "mlADVInfo_Title_s10_12000200": {
-    "1": "There Are Many",
-    "2": "Write the Names",
-    "3": "Starting to Forget"
-  },
-  "mlADVInfo_Title_s10_12100100": {
-    "1": "Zapping",
-    "2": "Fitting",
-    "3": "Smiling"
-  },
-  "mlADVInfo_Title_s10_12100200": {
-    "1": "Magazine",
-    "2": "Costume",
-    "3": "※Mark"
-  },
-  "mlADVInfo_Title_s10_12200100": {
-    "1": "Nervous About Trying On",
-    "2": "Mental Preparation",
-    "3": "One of 283 Pro"
-  },
-  "mlADVInfo_Title_s10_12200200": {
-    "1": "Leave it to Me",
-    "2": "It's Totally Easy",
-    "3": "Perfectly Done"
-  },
-  "mlADVInfo_Title_s10_12300100": {
-    "1": "Whose?",
-    "2": "When Will it Be Revealed?",
-    "3": "Looks Good!"
-  },
-  "mlADVInfo_Title_s10_12300200": {
-    "1": "Sticky",
-    "2": "No Need to Hurry",
-    "3": "Perfect"
-  },
-  "mlADVInfo_Title_s10_12400100": {
-    "1": "Bad Face",
-    "2": "Good Face",
-    "3": "Just the Outfit"
-  },
-  "mlADVInfo_Title_s10_12400200": {
-    "1": "I'll Wear It Though",
-    "2": "I Really Don't Understand",
-    "3": "Because I'm an Idol"
-  },
-  "mlADVInfo_Title_s10_12500100": {
-    "1": "Preparation",
-    "2": "Fresh",
-    "3": "Realization"
-  },
-  "mlADVInfo_Title_s10_12500200": {
-    "1": "Adjustment",
-    "2": "What's Wrong?",
-    "3": "Got Too Much"
-  },
-  "mlADVInfo_Title_s10_12600100": {
-    "1": "Becoming Friends",
-    "2": "On the Scene",
-    "3": "On the Web"
-  },
-  "mlADVInfo_Title_s10_12600200": {
-    "1": "Old Fireworks",
-    "2": "Someone's",
-    "3": "Mine is Even More"
-  },
-  "mlADVInfo_Title_s10_12700100": {
-    "1": "Anything Else?",
-    "2": "Weak Point?",
-    "3": "Strength?"
-  },
-  "mlADVInfo_Title_s10_12700200": {
-    "1": "Video",
-    "2": "Meal",
-    "3": "Everyone"
-  },
-  "mlADVInfo_Title_s10_12800100": {
-    "1": "Lots to Learn from Now On",
-    "2": "Pure",
-    "3": "Because You're There"
-  },
-  "mlADVInfo_Title_s10_12800200": {
-    "1": "Aurora Sky",
-    "2": "Hello, Hello",
-    "3": "Warm Feathers"
-  },
-  "mlADVInfo_Title_s10_20100100": {
-    "1": "When Nervous",
-    "2": "Effect of Kindness",
-    "3": "As a Member of the Unit"
-  },
-  "mlADVInfo_Title_s10_20100200": {
-    "1": "What's Important",
-    "2": "Just as it is",
-    "3": "A Smile in the Heart"
-  },
-  "mlADVInfo_Title_s10_20100300": {
-    "1": "Let's Do Our Best",
-    "2": "Early Morning Location Shoot",
-    "3": "I'll Do My Best"
-  },
-  "mlADVInfo_Title_s10_20200100": {
-    "1": "Because it's Unfamiliar",
-    "2": "Because I'm Serious",
-    "3": "Because I'm a Pro"
-  },
-  "mlADVInfo_Title_s10_20200200": {
-    "1": "A Kind of Rite of Passage",
-    "2": "It'll Take a While to Get Used to",
-    "3": "An Idol Up to the Costume"
-  },
-  "mlADVInfo_Title_s10_20200300": {
-    "1": "Lost Things",
-    "2": "Unknown Feelings",
-    "3": "Just Didn't Realize"
-  },
-  "mlADVInfo_Title_s10_20300100": {
-    "1": "Feelings, Sparkle",
-    "2": "Better, Right?",
-    "3": "Do Your Best!"
-  },
-  "mlADVInfo_Title_s10_20300200": {
-    "1": "Each Person",
-    "2": "First Time Excitement",
-    "3": "Talent for Enjoyment"
-  },
-  "mlADVInfo_Title_s10_20300300": {
-    "1": "If We Attended the Same School",
-    "2": "I Hope We're in the Same Club!",
-    "3": "Encounters Upon Encounters Upon Encounters"
-  },
-  "mlADVInfo_Title_s10_20400100": {
-    "1": "Cool?",
-    "2": "Cool~~~!!",
-    "3": "Smile!!"
-  },
-  "mlADVInfo_Title_s10_20400200": {
-    "1": "To Make it Shine",
-    "2": "Because it Happens",
-    "3": "Hide and Seek"
-  },
-  "mlADVInfo_Title_s10_20500100": {
-    "1": "Putting on Sleeves, and",
-    "2": "Like Magic",
-    "3": "Temperature and Such Things"
-  },
-  "mlADVInfo_Title_s10_20500200": {
-    "1": "At That Time, At That Time",
-    "2": "Killing Time",
-    "3": "As it Is"
-  },
-  "mlADVInfo_Title_s10_20600100": {
-    "1": "Gears",
-    "2": "What Awaits",
-    "3": "Turn Beautifully"
-  },
-  "mlADVInfo_Title_s10_20600200": {
-    "1": "Smart",
-    "2": "Cool/Cute",
-    "3": "Thief"
-  },
-  "mlADVInfo_Title_s10_20700100": {
-    "1": "Because Not Everything Visible is Everything",
-    "2": "Weave in Expectations",
-    "3": "Refusal of Receipt is Not Allowed"
-  },
-  "mlADVInfo_Title_s10_20700200": {
-    "1": "Like a Dream",
-    "2": "Whose Dream is it?",
-    "3": "The Person Who Made a Dream Not a Dream"
-  },
-  "mlADVInfo_Title_s10_20800100": {
-    "1": "Speaking, Words",
-    "2": "Conveying, Words",
-    "3": "Laughter"
-  },
-  "mlADVInfo_Title_s10_20800200": {
-    "1": "Red Color",
-    "2": "Everyone",
-    "3": "Sound of Hitting"
-  },
-  "mlADVInfo_Title_s10_20900100": {
-    "1": "The Discovered Hero...?",
-    "2": "Transforming into a Hero Idol!",
-    "3": "First, Let's Gather Comrades!"
-  },
-  "mlADVInfo_Title_s10_20900200": {
-    "1": "Komiya Kasumi, 1st Year High School Student!",
-    "2": "Being a High School Student!",
-    "3": "What Do High School Students Do?"
-  },
-  "mlADVInfo_Title_s10_20900300": {
-    "1": "New Equipment Has Arrived",
-    "2": "Just Getting Wet is Fun",
-    "3": "Fun is Meant to be Shared with Others"
-  },
-  "mlADVInfo_Title_s10_21000100": {
-    "1": "First Pink",
-    "2": "Peach-Colored Charm",
-    "3": "Light Orange"
-  },
-  "mlADVInfo_Title_s10_21000200": {
-    "1": "Fight!",
-    "2": "Pre-Show Hunger Situation",
-    "3": "Fight!!"
-  },
-  "mlADVInfo_Title_s10_21000300": {
-    "1": "Exciting Tension",
-    "2": "Can't Leave 'myo'",
-    "3": "Extended Work Drive"
-  },
-  "mlADVInfo_Title_s10_21100100": {
-    "1": "Perfect Blouson",
-    "2": "Warm-Up Before Appearance",
-    "3": "Power Charge Suit!"
-  },
-  "mlADVInfo_Title_s10_21100200": {
-    "1": "Please Don't Mind",
-    "2": "Feels Like I've Seen Somewhere Before",
-    "3": "Even if You're Not Used to It"
-  },
-  "mlADVInfo_Title_s10_21100300": {
-    "1": "Testing the Water Gun",
-    "2": "Beyond the Splash",
-    "3": "The Other Side of the Door is Untouchable"
-  },
-  "mlADVInfo_Title_s10_21200100": {
-    "1": "Reasons to Look Forward",
-    "2": "It's Okay to Take It Slow",
-    "3": "From Now On"
-  },
-  "mlADVInfo_Title_s10_21200200": {
-    "1": "Exciting",
-    "2": "Looking Forward",
-    "3": "After School"
-  },
-  "mlADVInfo_Title_s10_21200300": {
-    "1": "Until It's Full",
-    "2": "Childhood Heart",
-    "3": "Even if I Don't Return"
-  },
-  "mlADVInfo_Title_s10_21300100": {
-    "1": "In My Own Words",
-    "2": "Everyone",
-    "3": "True Beginning"
-  },
-  "mlADVInfo_Title_s10_21300200": {
-    "1": "If I Had Been Going to the Same School",
-    "2": "Perfect Me",
-    "3": "Perfect from the Beginning"
-  },
-  "mlADVInfo_Title_s10_21300300": {
-    "1": "Polishing Every Day",
-    "2": "Today's Report",
-    "3": "Super Lovely"
-  },
-  "mlADVInfo_Title_s10_21400100": {
-    "1": "Like the Flower",
-    "2": "Effort Flower",
-    "3": "Beautiful Flower"
-  },
-  "mlADVInfo_Title_s10_21400200": {
-    "1": "Bang☆",
-    "2": "Side ...?",
-    "3": "Sweet Dreams"
-  },
-  "mlADVInfo_Title_s10_21400300": {
-    "1": "Rare Fashion",
-    "2": "Select Point ☆",
-    "3": "Teacher A"
-  },
-  "mlADVInfo_Title_s10_21500100": {
-    "1": "Step 1",
-    "2": "Step 2",
-    "3": "Step 3"
-  },
-  "mlADVInfo_Title_s10_21500200": {
-    "1": "Matching Cakes",
-    "2": "More Matching",
-    "3": "Producer is Also Matching"
-  },
-  "mlADVInfo_Title_s10_21500300": {
-    "1": "Becoming a Fairy",
-    "2": "With Three People",
-    "3": "Tenka's Clothes"
-  },
-  "mlADVInfo_Title_s10_21600100": {
-    "1": "Because I Want to Try My Best",
-    "2": "Because I'll Try My Best",
-    "3": "Because I Tried My Best"
-  },
-  "mlADVInfo_Title_s10_21600200": {
-    "1": "Custom Made",
-    "2": "Miracle",
-    "3": "From On Stage"
-  },
-  "mlADVInfo_Title_s10_21600300": {
-    "1": "Wrapped in Sweetness",
-    "2": "Relay of Happiness",
-    "3": "Three, Plus One"
-  },
-  "mlADVInfo_Title_s10_21700100": {
-    "1": "Jingle-Jangle, Tangled",
-    "2": "Can't Take Eyes Off",
-    "3": "Whirling and Stirring"
-  },
-  "mlADVInfo_Title_s10_21700200": {
-    "1": "Already at the Limit",
-    "2": "Important Piece",
-    "3": "A Piece That Needs Nothing Else"
-  },
-  "mlADVInfo_Title_s10_21800100": {
-    "1": "Cat Tune-Up",
-    "2": "Challenge",
-    "3": "All Green"
-  },
-  "mlADVInfo_Title_s10_21800200": {
-    "1": "Insufficient Research",
-    "2": "Which Do You Prefer?",
-    "3": "The Chosen Answer is..."
-  },
-  "mlADVInfo_Title_s10_21900100": {
-    "1": "Are You Ready?",
-    "2": "Cocoa, Nice",
-    "3": "Working Hard for That"
-  },
-  "mlADVInfo_Title_s10_21900200": {
-    "1": "Mask~!",
-    "2": "The Person with a Fierce Look...",
-    "3": "Together with the Person with a Fierce Look"
-  },
-  "mlADVInfo_Title_s10_22000100": {
-    "1": "Unboxing",
-    "2": "Don't Chill",
-    "3": "Hot"
-  },
-  "mlADVInfo_Title_s10_22000200": {
-    "1": "Pushed Aside",
-    "2": "Thrown at",
-    "3": "Can Get Used to It"
-  },
-  "mlADVInfo_Title_s10_22000300": {
-    "1": "Cute",
-    "2": "Little",
-    "3": "Up"
-  },
-  "mlADVInfo_Title_s10_22100100": {
-    "1": "If It Becomes",
-    "2": "When It Becomes",
-    "3": "If It Doesn't Become"
-  },
-  "mlADVInfo_Title_s10_22100200": {
-    "1": "Eye Contact, 1",
-    "2": "Eye Contact, 2",
-    "3": "Eye Contact, 3"
-  },
-  "mlADVInfo_Title_s10_22100300": {
-    "1": "Adorning the Idol",
-    "2": "Diver",
-    "3": "Partner"
-  },
-  "mlADVInfo_Title_s10_22200100": {
-    "1": "Ribbons",
-    "2": "Can't Tie Nicely",
-    "3": "Just for Us"
-  },
-  "mlADVInfo_Title_s10_22200200": {
-    "1": "A Little Mistake",
-    "2": "Something Approaching",
-    "3": "Even Higher"
-  },
-  "mlADVInfo_Title_s10_22200300": {
-    "1": "My Normal",
-    "2": "Until I Can",
-    "3": "Surely, I Can"
-  },
-  "mlADVInfo_Title_s10_22300100": {
-    "1": "Unit Costume",
-    "2": "Design",
-    "3": "Noctchill's Costume"
-  },
-  "mlADVInfo_Title_s10_22300200": {
-    "1": "Chill♡Out",
-    "2": "Yum!",
-    "3": "Fun☆"
-  },
-  "mlADVInfo_Title_s10_22300300": {
-    "1": "Dark Sea",
-    "2": "Bright Sea",
-    "3": "Unending Sound"
-  },
-  "mlADVInfo_Title_s10_22400100": {
-    "1": "Longing, or Rather",
-    "2": "This is Totally Fine",
-    "3": "Please Do It Later"
-  },
-  "mlADVInfo_Title_s10_22400200": {
-    "1": "Clothing",
-    "2": "Peach",
-    "3": "Peach (Fruit)"
-  },
-  "mlADVInfo_Title_s10_22500100": {
-    "1": "First Costume",
-    "2": "First Song",
-    "3": "First Stage"
-  },
-  "mlADVInfo_Title_s10_22500200": {
-    "1": "Study of the Moment",
-    "2": "Stimulus is Inspiration",
-    "3": "Current Stage"
-  },
-  "mlADVInfo_Title_s10_22600100": {
-    "1": "Worrywart and ①",
-    "2": "Worrywart and ②",
-    "3": "Worrywart and ③"
-  },
-  "mlADVInfo_Title_s10_22600200": {
-    "1": "Passing Each Other",
-    "2": "On One's Own",
-    "3": "Recorded Together with Everyone"
-  },
-  "mlADVInfo_Title_s10_22700100": {
-    "1": "Fantastic",
-    "2": "Romantic",
-    "3": "Automatic"
-  },
-  "mlADVInfo_Title_s10_22700200": {
-    "1": "Friend Talk",
-    "2": "Rest Talk",
-    "3": "Recording Talk"
-  },
-  "mlADVInfo_Title_s10_22800100": {
-    "1": "Fluffy Ingredient",
-    "2": "Very Strong Item",
-    "3": "My Ally"
-  },
-  "mlADVInfo_Title_s10_22800200": {
-    "1": "Wanting to Face",
-    "2": "Unsettled Heart",
-    "3": "Resonance"
-  },
-  "mlADVInfo_Title_s10_30100100": {
-    "1": "Tightly",
-    "2": "Dryness and Splashing",
-    "3": "Sprinkling, Floating"
-  },
-  "mlADVInfo_Title_s10_30200100": {
-    "1": "Made-to-Order",
-    "2": "'Usual'",
-    "3": "Not the Usual"
-  },
-  "mlADVInfo_Title_s10_30300100": {
-    "1": "My Usual Self",
-    "2": "Suitable Self",
-    "3": "Myself on Stage"
-  },
-  "mlADVInfo_Title_s10_30400100": {
-    "1": "Favorite!",
-    "2": "Boing~!",
-    "3": "After the Live"
-  },
-  "mlADVInfo_Title_s10_30500100": {
-    "1": "Mamimi's Recommendation",
-    "2": "Okay Even if Not a Hobby",
-    "3": "Expecting a Return Gift"
-  },
-  "mlADVInfo_Title_s10_30600100": {
-    "1": "Whispering, Laughing",
-    "2": "I'll Escort You",
-    "3": "Lady as Desired"
-  },
-  "mlADVInfo_Title_s10_30700100": {
-    "1": "Killing Time Rude!",
-    "2": "Fussiness",
-    "3": "Pretending to be an Artistic Teacher"
-  },
-  "mlADVInfo_Title_s10_30700200": {
-    "1": "THE",
-    "2": "Subtle",
-    "3": "Isn't It Too Much to See with Clear Eyes?"
-  },
-  "mlADVInfo_Title_s10_30800200": {
-    "1": "Blossom・Blossom",
-    "2": "Flower・Smile",
-    "3": "Spring・Connection"
-  },
-  "mlADVInfo_Title_s10_30900100": {
-    "1": "Special Reward!",
-    "2": "Clairvoyance!",
-    "3": "Battle Outfit!?"
-  },
-  "mlADVInfo_Title_s10_30900200": {
-    "1": "Being Straightforward is Important",
-    "2": "Honesty is Important",
-    "3": "Communication is Important"
-  },
-  "mlADVInfo_Title_s10_31000100": {
-    "1": "What is a Winter Fairy?",
-    "2": "Fluffy Fairy",
-    "3": "In Charge of Warming Hearts"
-  },
-  "mlADVInfo_Title_s10_31100100": {
-    "1": "Pass Ball",
-    "2": "Cute・Cool",
-    "3": "Clear・Heart"
-  },
-  "mlADVInfo_Title_s10_31100200": {
-    "1": "Who Walks Behind?",
-    "2": "Being Cuddled by You",
-    "3": "Let's Go Home...?"
-  },
-  "mlADVInfo_Title_s10_31200100": {
-    "1": "Sound of Silence",
-    "2": "Reflecting Time",
-    "3": "Unending"
-  },
-  "mlADVInfo_Title_s10_31300100": {
-    "1": "Unexpected...",
-    "2": "Partner",
-    "3": "In the Middle of the Party Hall"
-  },
-  "mlADVInfo_Title_s10_31400100": {
-    "1": "Refresh Time ☆",
-    "2": "Be Relaxed",
-    "3": "Angel ?"
-  },
-  "mlADVInfo_Title_s10_31400200": {
-    "1": "Don't Just Be Sweet",
-    "2": "Sweet + ?",
-    "3": "A Little Bitter"
-  },
-  "mlADVInfo_Title_s10_31500200": {
-    "1": "Relaxing, Sakura",
-    "2": "Dreaming of Round Pink",
-    "3": "Even the Lord Comes"
-  },
-  "mlADVInfo_Title_s10_31600100": {
-    "1": "Purely, Righteously, Beautifully",
-    "2": "Sometimes, Bad Girl",
-    "3": "Multifaceted Me"
-  },
-  "mlADVInfo_Title_s10_31700100": {
-    "1": "Everything and Anything",
-    "2": "COPY STEP",
-    "3": "Reason for Being Late"
-  },
-  "mlADVInfo_Title_s10_31800100": {
-    "1": "What to Admire",
-    "2": "Different Expression",
-    "3": "Not Just Being Understood"
-  },
-  "mlADVInfo_Title_s10_31900100": {
-    "1": "Where Are the Good Kids~?",
-    "2": "Is it Decided~?",
-    "3": "Cheers♪"
-  },
-  "mlADVInfo_Title_s10_32000100": {
-    "1": "Growth",
-    "2": "Stretching",
-    "3": "Becoming Big"
-  },
-  "mlADVInfo_Title_s10_32100100": {
-    "1": "Intruder",
-    "2": "Proposal",
-    "3": "Digression"
-  },
-  "mlADVInfo_Title_s10_32100200": {
-    "1": "Powder Pink",
-    "2": "I/Make-believe",
-    "3": "Non-conformity"
-  },
-  "mlADVInfo_Title_s10_32200100": {
-    "1": "Wrapped in Warmth",
-    "2": "Distant Dozing",
-    "3": "In Warm Hands"
-  },
-  "mlADVInfo_Title_s10_32300100": {
-    "1": "Click☆",
-    "2": "Search♡",
-    "3": "Looks Good"
-  },
-  "mlADVInfo_Title_s10_32400100": {
-    "1": "Doing Idol Stuff",
-    "2": "Nothing in Particular",
-    "3": "Have to Go"
-  },
-  "mlADVInfo_Title_s10_32400200": {
-    "1": "Not Showing",
-    "2": "As Usual",
-    "3": "For a Single Grain"
-  },
-  "mlADVInfo_Title_s10_32500100": {
-    "1": "Cloud-like Wall",
-    "2": "Enchanted Flash",
-    "3": "Creating the Stage"
-  },
-  "mlADVInfo_Title_s10_32500200": {
-    "1": "Nostalgic Sound",
-    "2": "Monotone Memories",
-    "3": "Once Was, Still Breathing"
-  },
-  "mlADVInfo_Title_s10_32600100": {
-    "1": "Whose Property",
-    "2": "Intention",
-    "3": "Live"
-  },
-  "mlADVInfo_Title_s10_32600200": {
-    "1": "Troublesome",
-    "2": "Sudden",
-    "3": "Talent"
-  },
-  "mlADVInfo_Title_s10_32700100": {
-    "1": "St. Christmas",
-    "2": "St. Dress",
-    "3": "St. Snow"
-  },
-  "mlADVInfo_Title_s10_32800100": {
-    "1": "Praised Sheep Jump Well",
-    "2": "Fluffy Sheep Sleep Well",
-    "3": "Colorful Sheep Have Their Own Preferences"
-  },
-  "mlADVInfo_Title_s20_10100100": {
-    "1": "Restless Rustling",
-    "2": "Just, Enjoyably",
-    "11": "Restless Rustling",
-    "12": "Just, Enjoyably"
-  },
-  "mlADVInfo_Title_s20_10200100": {
-    "1": "Still Don't Know (But Someday)",
-    "2": "Thinking the Same Thing Now",
-    "11": "Still Don't Know (But Someday)",
-    "12": "Thinking the Same Thing Now"
-  },
-  "mlADVInfo_Title_s20_10300100": {
-    "1": "Just a Little More",
-    "2": "Further Ahead"
-  },
-  "mlADVInfo_Title_s20_10400100": {
-    "1": "Pshu~",
-    "2": "Popo~"
-  },
-  "mlADVInfo_Title_s20_10500100": {
-    "1": "Exaggerated",
-    "2": "Reacting Back"
-  },
-  "mlADVInfo_Title_s20_10600100": {
-    "1": "Inviting",
-    "2": "Conveyed"
-  },
-  "mlADVInfo_Title_s20_10700100": {
-    "1": "Gap (1)",
-    "2": "Gap (2)"
-  },
-  "mlADVInfo_Title_s20_10800100": {
-    "1": "See You Later",
-    "2": "Dream"
-  },
-  "mlADVInfo_Title_s20_10900100": {
-    "1": "Let's Do Homework Right Away",
-    "2": "Cycling Go! Go!"
-  },
-  "mlADVInfo_Title_s20_11000100": {
-    "1": "Just an Ordinary High School Girl??",
-    "2": "About Me, from Everyone"
-  },
-  "mlADVInfo_Title_s20_11100100": {
-    "1": "Hundred Times the Power!",
-    "2": "Off-Field Match!"
-  },
-  "mlADVInfo_Title_s20_11200100": {
-    "1": "Expression",
-    "2": "Same Interests"
-  },
-  "mlADVInfo_Title_s20_11300100": {
-    "1": "The Other Side of the Sky",
-    "2": "Why Are You"
-  },
-  "mlADVInfo_Title_s20_11400100": {
-    "1": "Sisters' Self-Study",
-    "2": "Sleeping Face"
-  },
-  "mlADVInfo_Title_s20_11500100": {
-    "1": "Like a Demon",
-    "2": "Like You"
-  },
-  "mlADVInfo_Title_s20_11600100": {
-    "1": "Nice to Meet You, Me",
-    "2": "Skipping on the Way Home"
-  },
-  "mlADVInfo_Title_s20_11700100": {
-    "1": "Pushing Through the Darkness",
-    "2": "Come Over Here"
-  },
-  "mlADVInfo_Title_s20_11800100": {
-    "1": "Sharp",
-    "2": "Abnormal? Exception?"
-  },
-  "mlADVInfo_Title_s20_11900100": {
-    "1": "What Could It Be~...",
-    "2": "Let's Do It~!"
-  },
-  "mlADVInfo_Title_s20_12000100": {
-    "1": "Speed",
-    "2": "Need a Ball"
-  },
-  "mlADVInfo_Title_s20_12100100": {
-    "1": "Just a Little",
-    "2": "Forever"
-  },
-  "mlADVInfo_Title_s20_12200100": {
-    "1": "If You Don't Say It Quickly",
-    "2": "First Act of Rebellion"
-  },
-  "mlADVInfo_Title_s20_12300100": {
-    "1": "Could It Be...",
-    "2": "Actually That Kind of Thing"
-  },
-  "mlADVInfo_Title_s20_12400100": {
-    "1": "About Ten Levels",
-    "2": "10th Floor"
-  },
-  "mlADVInfo_Title_s20_12500100": {
-    "1": "Shaved Ice",
-    "2": "Cicada"
-  },
-  "mlADVInfo_Title_s20_12600100": {
-    "1": "Let's Go See It!",
-    "2": "That Sweetness"
-  },
-  "mlADVInfo_Title_s20_12700100": {
-    "1": "Pure White Area (1)",
-    "2": "Pure White Area (2)"
-  },
-  "mlADVInfo_Title_s20_12800100": {
-    "1": "Everything I Have",
-    "2": "Can't Go Back Like This"
-  },
-  "mlADVInfo_Title_s20_20100100": {
-    "1": "Morning Curl",
-    "2": "Blush of Dawn",
-    "3": "Evening Curl",
-    "11": "Morning Curl"
-  },
-  "mlADVInfo_Title_s20_20200100": {
-    "1": "Rehearsal",
-    "2": "Now the Real Thing",
-    "3": "Finished, Take a Breath",
-    "11": "Rehearsal"
-  },
-  "mlADVInfo_Title_s20_20300100": {
-    "1": "French Toast",
-    "2": "With Jam and Scone",
-    "3": "Sweet Present"
-  },
-  "mlADVInfo_Title_s20_20400100": {
-    "1": "Next Day Off...",
-    "2": "Welcome!",
-    "3": "Heartfelt Hand-Rolled Sushi"
-  },
-  "mlADVInfo_Title_s20_20500100": {
-    "1": "Sleepiness",
-    "2": "Sleepiness x2",
-    "3": "Sleepiness x3"
-  },
-  "mlADVInfo_Title_s20_20600100": {
-    "1": "That's Right, Just Like",
-    "2": "Everything Visible",
-    "3": "Important Person"
-  },
-  "mlADVInfo_Title_s20_20700100": {
-    "1": "Cat",
-    "2": "Cat and Dog",
-    "3": "Cat, Dog, and Blushing Older Brother"
-  },
-  "mlADVInfo_Title_s20_20800100": {
-    "1": "Looking at a Plant Guidebook",
-    "2": "Blooming",
-    "3": "Hello Kiriko"
-  },
-  "mlADVInfo_Title_s20_20900100": {
-    "1": "Covered in Catteleya, Covered in Mamemaru",
-    "2": "Playing a Lot, Resting a Lot",
-    "3": "Two and Two Isn't Always Four"
-  },
-  "mlADVInfo_Title_s20_21000100": {
-    "1": "Names of Sweets You'd Be Happy to Have for Snacks at Home",
-    "2": "(Good) Chocolate",
-    "3": "Donuts or Dorayaki"
-  },
-  "mlADVInfo_Title_s20_21100100": {
-    "1": "Invitation to the Sauna",
-    "2": "To Get Ready",
-    "3": "Of Course Once You're Warmed Up?"
-  },
-  "mlADVInfo_Title_s20_21200100": {
-    "1": "Dear",
-    "2": "Everyone",
-    "3": "Sincerely"
-  },
-  "mlADVInfo_Title_s20_21300100": {
-    "1": "Shall We Chat Together?",
-    "2": "Brand",
-    "3": "Together Again"
-  },
-  "mlADVInfo_Title_s20_21400100": {
-    "1": "Shall We Talk?",
-    "2": "Touch... and See...!",
-    "3": "Because I Want to Eat"
-  },
-  "mlADVInfo_Title_s20_21500100": {
-    "1": "OH Rest",
-    "2": "OH Laundry",
-    "3": "OH Weather"
-  },
-  "mlADVInfo_Title_s20_21600100": {
-    "1": "Beauty Concealed Reveals Itself as a Flower",
-    "2": "Cute and Fluffy",
-    "3": "Listening to the Sound of Bells"
-  },
-  "mlADVInfo_Title_s20_21700100": {
-    "1": "Serious May Shower Style",
-    "2": "No Run-Up for Jumps",
-    "3": "Warm Wind"
-  },
-  "mlADVInfo_Title_s20_21800100": {
-    "1": "Fuyu-chan",
-    "2": "Straylight's Fuyu-chan",
-    "3": "Fuyu-chan (Fuyuko)"
-  },
-  "mlADVInfo_Title_s20_21900100": {
-    "1": "Fuyuko-chan's Recommendation!",
-    "2": "Oops!?",
-    "3": "Kashipa♪"
-  },
-  "mlADVInfo_Title_s20_22000100": {
-    "1": "Going for Lunchtime Shopping",
-    "2": "On the Way for Lunchtime Shopping",
-    "3": "Back from Lunchtime Shopping"
-  },
-  "mlADVInfo_Title_s20_22100100": {
-    "1": "Report",
-    "2": "Vague",
-    "3": "Night Road"
-  },
-  "mlADVInfo_Title_s20_22200100": {
-    "1": "You Can Make It If You Run",
-    "2": "Until the Next Train",
-    "3": "If Only I Had 10 More Yen"
-  },
-  "mlADVInfo_Title_s20_22300100": {
-    "1": "So Your Stomach Doesn't Growl",
-    "2": "Mental Preparation?",
-    "3": "I'm Glad"
-  },
-  "mlADVInfo_Title_s20_22400100": {
-    "1": "Practice!",
-    "2": "As Many Times as Needed",
-    "3": "Beautiful"
-  },
-  "mlADVInfo_Title_s20_22500100": {
-    "1": "Unit Photoshoot",
-    "2": "Athletics",
-    "3": "Unusual Photoshoot"
-  },
-  "mlADVInfo_Title_s20_22600100": {
-    "1": "Waste",
-    "2": "Throat",
-    "3": "Reasons or Something"
-  },
-  "mlADVInfo_Title_s20_22700100": {
-    "1": "Lesson [Before]",
-    "2": "Lesson [After]",
-    "3": "Lesson [After] Family Restaurant Edition"
-  },
-  "mlADVInfo_Title_s20_22800100": {
-    "1": "We Matched",
-    "2": "Understood Each Other",
-    "3": "We Totally Understood Each Other"
-  },
-  "mlADVInfo_Title_s20_30100100": {
-    "1": "Strawberry and Cookie",
-    "2": "Overlapping Feelings",
-    "3": "What Do You Think?"
-  },
-  "mlADVInfo_Title_s20_30100200": {
-    "1": "How to Brew Delicious Black Tea",
-    "2": "Looks Cool",
-    "3": "Wrap Yourself Up, Stand Tall",
-    "4": "Warm Moment"
-  },
-  "mlADVInfo_Title_s20_30200100": {
-    "1": "Roles Distributed Equally",
-    "2": "Feel Free",
-    "3": "It's Fine to Get Excited",
-    "4": "When Moving, Let's Replenish Energy"
-  },
-  "mlADVInfo_Title_s20_30200200": {
-    "1": "4↑6*36←*9↑",
-    "2": "Talk Theme: 'Choosing Today's Parfait'",
-    "3": "Talk Theme: 'Tasty Things I've Had Recently'",
-    "4": "Talk Theme: 'Imagine a Shop to Inquire About!'"
-  },
-  "mlADVInfo_Title_s20_30200300": {
-    "1": "Various Shades of Blue",
-    "2": "Scent of Blue",
-    "3": "Moment of Blue",
-    "4": "Name of Blue"
-  },
-  "mlADVInfo_Title_s20_30300100": {
-    "1": "Lots of Threes",
-    "2": "Matching Threes",
-    "3": "One Person Dozing Off",
-    "4": "Two People Sleeping Soundly"
-  },
-  "mlADVInfo_Title_s20_30400100": {
-    "1": "Outline of Winter",
-    "2": "Steam Rising",
-    "3": "Warm Place",
-    "4": "Together"
-  },
-  "mlADVInfo_Title_s20_30400200": {
-    "1": "Exciting☆VR Experience",
-    "2": "Nervous☆Scream Machine",
-    "3": "Thrilling☆Skating Rink",
-    "4": "Exciting☆Schedule"
-  },
-  "mlADVInfo_Title_s20_30500100": {
-    "1": "Drawn Along",
-    "2": "Occasional Window View",
-    "3": "Let's Try",
-    "4": "With Maple Leaves"
-  },
+    "mlADVInfo_Title_s09_01010100": {
+        "1": "Mano Sakuragi Slowly",
+        "2": "Mano Sakuragi Without Haste",
+        "3": "Mano Sakuragi Gazing into the Distance"
+    },
+    "mlADVInfo_Title_s09_01010200": {
+        "1": "Hiori Kazano As High as I Look Up",
+        "2": "Hiori Kazano What I See Is Far Ahead",
+        "3": "Hiori Kazano More Important Than Looking Back"
+    },
+    "mlADVInfo_Title_s09_01010300": {
+        "1": "Meguru Hachimiya Bursting Light",
+        "2": "Meguru Hachimiya Light and Shadow in the Morning Mist",
+        "3": "Meguru Hachimiya Melting into Coffee Color"
+    },
+    "mlADVInfo_Title_s09_01010400": {
+        "1": "Kogane Tsukioka Aim for the World~!",
+        "2": "Kogane Tsukioka Full-Speed Sprint~!",
+        "3": "Kogane Tsukioka Straddling the World~!"
+    },
+    "mlADVInfo_Title_s09_01010500": {
+        "1": "Mamimi Tanaka Still Sleepy",
+        "2": "Mamimi Tanaka Just on Time Bed",
+        "3": "Mamimi Tanaka Its Potential"
+    },
+    "mlADVInfo_Title_s09_01010600": {
+        "1": "Sakuya Shirase From This Distant Place",
+        "2": "Sakuya Shirase To Those Waiting to Return",
+        "3": "Sakuya Shirase The Best Gift"
+    },
+    "mlADVInfo_Title_s09_01010700": {
+        "1": "Yuika Mitsumine Lack of Sleuthing Skills",
+        "2": "Yuika Mitsumine Attempted, Cultivated Dramatics",
+        "3": "Yuika Mitsumine 'Yoseyai'"
+    },
+    "mlADVInfo_Title_s09_01010800": {
+        "1": "Kiriko Yukoku Passed On",
+        "2": "Kiriko Yukoku Received",
+        "3": "Kiriko Yukoku Whispered"
+    },
+    "mlADVInfo_Title_s09_01010900": {
+        "1": "Kaho Komiya Encounter!? That Unknown Guy",
+        "2": "Kaho Komiya Study!? Where Teachers Are Students and Students Are Teachers",
+        "3": "Kaho Komiya Growth!! For the Future Someday"
+    },
+    "mlADVInfo_Title_s09_01011000": {
+        "1": "Chiyoko Sonoda Plenty Sweet",
+        "2": "Chiyoko Sonoda Cocoa of Fight",
+        "3": "Chiyoko Sonoda Firmly, Chiyo Right"
+    },
+    "mlADVInfo_Title_s09_01011100": {
+        "1": "Juri Saijo Sweet Offering",
+        "2": "Juri Saijo Surprise Cool Down",
+        "3": "Juri Saijo Cheers!"
+    },
+    "mlADVInfo_Title_s09_01011200": {
+        "1": "Rinzei Morino Quietly Feel",
+        "2": "Rinzei Morino Call",
+        "3": "Rinzei Morino Shine Light"
+    },
+    "mlADVInfo_Title_s09_01011300": {
+        "1": "Natsuha Arisugawa One Lap Roadwork",
+        "2": "Natsuha Arisugawa Line Extending to the Horizon",
+        "3": "Natsuha Arisugawa Step by Step"
+    },
+    "mlADVInfo_Title_s09_01011400": {
+        "1": "Amana Osaki Shiny Shoes☆",
+        "2": "Amana Osaki The Power of Shoes?",
+        "3": "Amana Osaki Until They're Worn Out"
+    },
+    "mlADVInfo_Title_s09_01011500": {
+        "1": "Tenka Osaki Challenge Start",
+        "2": "Tenka Osaki Emergency",
+        "3": "Tenka Osaki Complete!"
+    },
+    "mlADVInfo_Title_s09_01011600": {
+        "1": "Chiyuki Kuwayama Inconvenient Guest",
+        "2": "Chiyuki Kuwayama Empty Stroll",
+        "3": "Chiyuki Kuwayama Surprise Gift"
+    },
+    "mlADVInfo_Title_s09_01011700": {
+        "1": "Asahi Serizawa Electricity Goes Anywhere",
+        "2": "Asahi Serizawa Want to Confirm!",
+        "3": "Asahi Serizawa Always Exploration!"
+    },
+    "mlADVInfo_Title_s09_01011800": {
+        "1": "Fuyuko Mayuzumi Momentarily Away",
+        "2": "Fuyuko Mayuzumi Admire the Handiwork",
+        "3": "Fuyuko Mayuzumi Time to Return"
+    },
+    "mlADVInfo_Title_s09_01011900": {
+        "1": "Izumi Mei Oh No~!",
+        "2": "Izumi Mei I Dunno~!!",
+        "3": "Izumi Mei It's Alright!!"
+    },
+    "mlADVInfo_Title_s09_01012000": {
+        "1": "Toru Asakura Adding Alarms",
+        "2": "Toru Asakura It's Time",
+        "3": "Toru Asakura Repeating"
+    },
+    "mlADVInfo_Title_s09_01012100": {
+        "1": "Madoka Higuchi Break Time",
+        "2": "Madoka Higuchi Free Time",
+        "3": "Madoka Higuchi Evacuation Preparation"
+    },
+    "mlADVInfo_Title_s09_01012200": {
+        "1": "Koito Fukumaru Keeping Records",
+        "2": "Koito Fukumaru Beyond the Open Page",
+        "3": "Koito Fukumaru Write Everything Down"
+    },
+    "mlADVInfo_Title_s09_01012300": {
+        "1": "Hinana Ichikawa FeelDown↓",
+        "2": "Hinana Ichikawa Quest/ion",
+        "3": "Hinana Ichikawa Cheer!"
+    },
+    "mlADVInfo_Title_s09_01012400": {
+        "1": "Nichika Nanakusa Maintain Appearance Please",
+        "2": "Nichika Nanakusa Don't Say Careless Things",
+        "3": "Nichika Nanakusa If Worried, Please Speak Up"
+    },
+    "mlADVInfo_Title_s09_01012500": {
+        "1": "Mikoto Aketa Dry",
+        "2": "Mikoto Aketa Repair",
+        "3": "Mikoto Aketa Refresh"
+    },
+    "mlADVInfo_Title_s09_01012600": {
+        "1": "Luca Ikaruga Waste of Time",
+        "2": "Luca Ikaruga To a Stroll",
+        "3": "Luca Ikaruga Effects of Training Camp"
+    },
+    "mlADVInfo_Title_s09_01012700": {
+        "1": "Hana Suzuki Start",
+        "2": "Hana Suzuki on the Morning",
+        "3": "Hana Suzuki End"
+    },
+    "mlADVInfo_Title_s09_01012800": {
+        "1": "Ikuta Haruki Lesson Notes: Assignments",
+        "2": "Ikuta Haruki Lesson Notes: Review",
+        "3": "Ikuta Haruki Lesson Notes: Extra Edition"
+    },
+    "mlADVInfo_Title_s09_02010100": {
+        "1": "Mano Sakuragi First Time Place",
+        "2": "Mano Sakuragi Wanted to Ask",
+        "3": "Mano Sakuragi Courage to Decide"
+    },
+    "mlADVInfo_Title_s09_02010200": {
+        "1": "Hiori Kazano Acclaim Taste",
+        "2": "Hiori Kazano Might Be Heavy Load",
+        "3": "Hiori Kazano Method to Convey"
+    },
+    "mlADVInfo_Title_s09_02010300": {
+        "1": "Meguru Hachimiya Want to Plan!",
+        "2": "Meguru Hachimiya Want to Make Memories!",
+        "3": "Meguru Hachimiya Let's Go, Fireworks!"
+    },
+    "mlADVInfo_Title_s09_02010400": {
+        "1": "Kogane Tsukioka Emergency?",
+        "2": "Kogane Tsukioka Love Bell Diner, Temporarily Open",
+        "3": "Kogane Tsukioka Plates Full of Dreams"
+    },
+    "mlADVInfo_Title_s09_02010500": {
+        "1": "Mamimi Tanaka What Kind of Stimulus?",
+        "2": "Mamimi Tanaka Not This Kind",
+        "3": "Mamimi Tanaka But, Still"
+    },
+    "mlADVInfo_Title_s09_02010600": {
+        "1": "Sakuya Shirase You're Just Like",
+        "2": "Sakuya Shirase Lively Break",
+        "3": "Sakuya Shirase Endless Journey"
+    },
+    "mlADVInfo_Title_s09_02010700": {
+        "1": "Yuika Mitsumine Type to Earn with Feet",
+        "2": "Yuika Mitsumine Rarely Happens",
+        "3": "Yuika Mitsumine Due to Excess Supply"
+    },
+    "mlADVInfo_Title_s09_02010800": {
+        "1": "Kiriko Yukoku Hello",
+        "2": "Kiriko Yukoku Goodbye",
+        "3": "Kiriko Yukoku Where?"
+    },
+    "mlADVInfo_Title_s09_02010900": {
+        "1": "Kaho Komiya Adventure! Unknown City",
+        "2": "Kaho Komiya Discovery! Amazing Mechanism",
+        "3": "Kaho Komiya Gratitude! To Those Always Protecting"
+    },
+    "mlADVInfo_Title_s09_02011000": {
+        "1": "Chiyoko Sonoda Going to Meet You!",
+        "2": "Chiyoko Sonoda Let's Meet Again!",
+        "3": "Chiyoko Sonoda Anywhere, Anytime!"
+    },
+    "mlADVInfo_Title_s09_02011100": {
+        "1": "Juri Saijo Given Power from Everyone",
+        "2": "Juri Saijo Laundry as Usual",
+        "3": "Juri Saijo Whose Thanks?"
+    },
+    "mlADVInfo_Title_s09_02011200": {
+        "1": "Rinzei Morino Beside",
+        "2": "Rinzei Morino Together",
+        "3": "Rinzei Morino Learning"
+    },
+    "mlADVInfo_Title_s09_02011300": {
+        "1": "Natsuha Arisugawa Not Even a Second",
+        "2": "Natsuha Arisugawa Switch On!",
+        "3": "Natsuha Arisugawa Everyone Has Their Own Pace"
+    },
+    "mlADVInfo_Title_s09_02011400": {
+        "1": "Amana Osaki Share?",
+        "2": "Amana Osaki Slumber Party☆",
+        "3": "Amana Osaki Sleepy..."
+    },
+    "mlADVInfo_Title_s09_02011500": {
+        "1": "Tenka Osaki Nap Time is the Best",
+        "2": "Tenka Osaki Not Bad",
+        "3": "Tenka Osaki Last Night at Least"
+    },
+    "mlADVInfo_Title_s09_02011600": {
+        "1": "Chiyuki Kuwayama Seeking First Time Experience",
+        "2": "Chiyuki Kuwayama I've Learned♪",
+        "3": "Chiyuki Kuwayama Favorites, Take Home"
+    },
+    "mlADVInfo_Title_s09_02011700": {
+        "1": "Asahi Serizawa Practice Over Theory",
+        "2": "Asahi Serizawa Received Gratitude",
+        "3": "Asahi Serizawa Materialize"
+    },
+    "mlADVInfo_Title_s09_02011800": {
+        "1": "Fuyuko Mayuzumi Straight Concentration",
+        "2": "Fuyuko Mayuzumi Does the Sunlight Invite?",
+        "3": "Fuyuko Mayuzumi That's Also There"
+    },
+    "mlADVInfo_Title_s09_02011900": {
+        "1": "Izumi Mei Burst of Energy~!",
+        "2": "Izumi Mei Don't End It~",
+        "3": "Izumi Mei Meguru-chan♪"
+    },
+    "mlADVInfo_Title_s09_02012000": {
+        "1": "Toru Asakura Crying",
+        "2": "Toru Asakura Laughing",
+        "3": "Toru Asakura Won't Cry"
+    },
+    "mlADVInfo_Title_s09_02012100": {
+        "1": "Madoka Higuchi Vending Machine",
+        "2": "Madoka Higuchi Lesson Place",
+        "3": "Madoka Higuchi Misunderstanding"
+    },
+    "mlADVInfo_Title_s09_02012200": {
+        "1": "Koito Fukumaru Almost There, But",
+        "2": "Koito Fukumaru From Now On, About This Much",
+        "3": "Koito Fukumaru First In Line"
+    },
+    "mlADVInfo_Title_s09_02012300": {
+        "1": "Hinana Ichikawa My→Way",
+        "2": "Hinana Ichikawa All R!ght",
+        "3": "Hinana Ichikawa Buzz?"
+    },
+    "mlADVInfo_Title_s10_10100100": {
+        "1": "That's Very",
+        "2": "That's Just Like",
+        "3": "With the Sky"
+    },
+    "mlADVInfo_Title_s10_10100200": {
+        "1": "One, Again",
+        "2": "Running with Feelings",
+        "3": "Melting with Lights"
+    },
+    "mlADVInfo_Title_s10_10200100": {
+        "1": "Things I Can't Do",
+        "2": "Things I Might Do",
+        "3": "Things I've Done"
+    },
+    "mlADVInfo_Title_s10_10200200": {
+        "1": "Reflecting,",
+        "2": "With Determination,",
+        "3": "Sharing, White"
+    },
+    "mlADVInfo_Title_s10_10300100": {
+        "1": "Wearing the Sky, Towards the Sky",
+        "2": "When Hearts Click Shutters Together",
+        "3": "Let's Watch Together Someday"
+    },
+    "mlADVInfo_Title_s10_10300200": {
+        "1": "Leave it to Meguru",
+        "2": "Let's Watch Out for Each Other",
+        "3": "Together, We're Perfect!"
+    },
+    "mlADVInfo_Title_s10_10400100": {
+        "1": "Hurry Up!!",
+        "2": "Try Wearing It!!",
+        "3": "Deliver!!"
+    },
+    "mlADVInfo_Title_s10_10400200": {
+        "1": "Dream → Reality",
+        "2": "Reality → Rest",
+        "3": "Home → Idol"
+    },
+    "mlADVInfo_Title_s10_10500100": {
+        "1": "Swallow",
+        "2": "Attempt",
+        "3": "Feeding"
+    },
+    "mlADVInfo_Title_s10_10500200": {
+        "1": "Casually",
+        "2": "Maybe Casual",
+        "3": "Might Be Casual"
+    },
+    "mlADVInfo_Title_s10_10600100": {
+        "1": "A Little Gloom",
+        "2": "With a Straight Gaze",
+        "3": "Anxiety Dissolves"
+    },
+    "mlADVInfo_Title_s10_10600200": {
+        "1": "Tell Me, I'll Respond to Everything",
+        "2": "A Gentle Wish",
+        "3": "Connected in Many Ways, Me"
+    },
+    "mlADVInfo_Title_s10_10700100": {
+        "1": "For the Sake of Flying",
+        "2": "Those Eyes That Stare",
+        "3": "The View Through the Lens, Again"
+    },
+    "mlADVInfo_Title_s10_10700200": {
+        "1": "Joke (1)",
+        "2": "Joke (2)",
+        "3": "Serious"
+    },
+    "mlADVInfo_Title_s10_10800100": {
+        "1": "What I Envisioned in My Heart",
+        "2": "Taking Shape",
+        "3": "From Here"
+    },
+    "mlADVInfo_Title_s10_10800200": {
+        "1": "Imagination",
+        "2": "Reality",
+        "3": "Everyone"
+    },
+    "mlADVInfo_Title_s10_10900100": {
+        "1": "The Chick Dreams of the Sky",
+        "2": "The Chick Aims for the Sky",
+        "3": "Fly, Towards the Sky"
+    },
+    "mlADVInfo_Title_s10_10900200": {
+        "1": "Matching Power",
+        "2": "Fluttering Power",
+        "3": "Butterfly Power"
+    },
+    "mlADVInfo_Title_s10_11000100": {
+        "1": "To Be Chosen by Me",
+        "2": "To Someone (You)!",
+        "3": "Today is Hanamaru"
+    },
+    "mlADVInfo_Title_s10_11000200": {
+        "1": "Focused on One Point",
+        "2": "So We Don't Get Buried",
+        "3": "Running Up Together"
+    },
+    "mlADVInfo_Title_s10_11100100": {
+        "1": "Wait a Moment",
+        "2": "What's Needed to Fly",
+        "3": "Fun Premonition"
+    },
+    "mlADVInfo_Title_s10_11100200": {
+        "1": "Casually Serious",
+        "2": "Towards You",
+        "3": "Seemingly Difficult, Yet Easy"
+    },
+    "mlADVInfo_Title_s10_11200100": {
+        "1": "Matching Outfits",
+        "2": "Are They Beautiful?",
+        "3": "Next Time for Sure"
+    },
+    "mlADVInfo_Title_s10_11200200": {
+        "1": "Lovely Outfits",
+        "2": "Beautiful Indeed",
+        "3": "Reveal"
+    },
+    "mlADVInfo_Title_s10_11300100": {
+        "1": "My Ideal",
+        "2": "Stoic",
+        "3": "Soaring High"
+    },
+    "mlADVInfo_Title_s10_11300200": {
+        "1": "Positive",
+        "2": "Don't Overlook",
+        "3": "Something That Makes Me Shine"
+    },
+    "mlADVInfo_Title_s10_11400100": {
+        "1": "What do I see?",
+        "2": "Look up at the sky",
+        "3": "believe in myself"
+    },
+    "mlADVInfo_Title_s10_11400200": {
+        "1": "Anna's Routine Part 1☆",
+        "2": "Anna's Routine Part 2☆",
+        "3": "Anna's Routine Part 3☆"
+    },
+    "mlADVInfo_Title_s10_11500100": {
+        "1": "Fit",
+        "2": "Fitting?",
+        "3": "Swallow"
+    },
+    "mlADVInfo_Title_s10_11500200": {
+        "1": "Deep...!",
+        "2": "Getting Restless Soon",
+        "3": "Fluttering and Glittering"
+    },
+    "mlADVInfo_Title_s10_11600100": {
+        "1": "Admiration",
+        "2": "Someday",
+        "3": "Beyond That"
+    },
+    "mlADVInfo_Title_s10_11600200": {
+        "1": "Lovely Job",
+        "2": "Casting a Spell",
+        "3": "Idling Now"
+    },
+    "mlADVInfo_Title_s10_11700100": {
+        "1": "Focused Steps",
+        "2": "Like Being Above the Clouds",
+        "3": "Jumping Like a Spring"
+    },
+    "mlADVInfo_Title_s10_11700200": {
+        "1": "Fun Preview",
+        "2": "Nap Dress",
+        "3": "Scenery Only on Stage"
+    },
+    "mlADVInfo_Title_s10_11800100": {
+        "1": "That Day, Still",
+        "2": "Making it Seem Like a Beautiful Swan",
+        "3": "Seems Like a Foolish Question"
+    },
+    "mlADVInfo_Title_s10_11800200": {
+        "1": "Model Answer Isn't Correct",
+        "2": "Pass, and More",
+        "3": "From That Day Until Now"
+    },
+    "mlADVInfo_Title_s10_11900100": {
+        "1": "This is It!",
+        "2": "Wow!",
+        "3": "Looking Good~♪"
+    },
+    "mlADVInfo_Title_s10_11900200": {
+        "1": "Brand New♪",
+        "2": "Pose!",
+        "3": "Even More Yay!"
+    },
+    "mlADVInfo_Title_s10_12000100": {
+        "1": "Commemoration",
+        "2": "Getting Used to",
+        "3": "Important"
+    },
+    "mlADVInfo_Title_s10_12000200": {
+        "1": "There Are Many",
+        "2": "Write the Names",
+        "3": "Starting to Forget"
+    },
+    "mlADVInfo_Title_s10_12100100": {
+        "1": "Zapping",
+        "2": "Fitting",
+        "3": "Smiling"
+    },
+    "mlADVInfo_Title_s10_12100200": {
+        "1": "Magazine",
+        "2": "Costume",
+        "3": "※Mark"
+    },
+    "mlADVInfo_Title_s10_12200100": {
+        "1": "Nervous About Trying On",
+        "2": "Mental Preparation",
+        "3": "One of 283 Pro"
+    },
+    "mlADVInfo_Title_s10_12200200": {
+        "1": "Leave it to Me",
+        "2": "It's Totally Easy",
+        "3": "Perfectly Done"
+    },
+    "mlADVInfo_Title_s10_12300100": {
+        "1": "Whose?",
+        "2": "When Will it Be Revealed?",
+        "3": "Looks Good!"
+    },
+    "mlADVInfo_Title_s10_12300200": {
+        "1": "Sticky",
+        "2": "No Need to Hurry",
+        "3": "Perfect"
+    },
+    "mlADVInfo_Title_s10_12400100": {
+        "1": "Bad Face",
+        "2": "Good Face",
+        "3": "Just the Outfit"
+    },
+    "mlADVInfo_Title_s10_12400200": {
+        "1": "I'll Wear It Though",
+        "2": "I Really Don't Understand",
+        "3": "Because I'm an Idol"
+    },
+    "mlADVInfo_Title_s10_12500100": {
+        "1": "Preparation",
+        "2": "Fresh",
+        "3": "Realization"
+    },
+    "mlADVInfo_Title_s10_12500200": {
+        "1": "Adjustment",
+        "2": "What's Wrong?",
+        "3": "Got Too Much"
+    },
+    "mlADVInfo_Title_s10_12600100": {
+        "1": "Becoming Friends",
+        "2": "On the Scene",
+        "3": "On the Web"
+    },
+    "mlADVInfo_Title_s10_12600200": {
+        "1": "Old Fireworks",
+        "2": "Someone's",
+        "3": "Mine is Even More"
+    },
+    "mlADVInfo_Title_s10_12700100": {
+        "1": "Anything Else?",
+        "2": "Weak Point?",
+        "3": "Strength?"
+    },
+    "mlADVInfo_Title_s10_12700200": {
+        "1": "Video",
+        "2": "Meal",
+        "3": "Everyone"
+    },
+    "mlADVInfo_Title_s10_12800100": {
+        "1": "Lots to Learn from Now On",
+        "2": "Pure",
+        "3": "Because You're There"
+    },
+    "mlADVInfo_Title_s10_12800200": {
+        "1": "Aurora Sky",
+        "2": "Hello, Hello",
+        "3": "Warm Feathers"
+    },
+    "mlADVInfo_Title_s10_20100100": {
+        "1": "When Nervous",
+        "2": "Effect of Kindness",
+        "3": "As a Member of the Unit"
+    },
+    "mlADVInfo_Title_s10_20100200": {
+        "1": "What's Important",
+        "2": "Just as it is",
+        "3": "A Smile in the Heart"
+    },
+    "mlADVInfo_Title_s10_20100300": {
+        "1": "Let's Do Our Best",
+        "2": "Early Morning Location Shoot",
+        "3": "I'll Do My Best"
+    },
+    "mlADVInfo_Title_s10_20200100": {
+        "1": "Because it's Unfamiliar",
+        "2": "Because I'm Serious",
+        "3": "Because I'm a Pro"
+    },
+    "mlADVInfo_Title_s10_20200200": {
+        "1": "A Kind of Rite of Passage",
+        "2": "It'll Take a While to Get Used to",
+        "3": "An Idol Up to the Costume"
+    },
+    "mlADVInfo_Title_s10_20200300": {
+        "1": "Lost Things",
+        "2": "Unknown Feelings",
+        "3": "Just Didn't Realize"
+    },
+    "mlADVInfo_Title_s10_20300100": {
+        "1": "Feelings, Sparkle",
+        "2": "Better, Right?",
+        "3": "Do Your Best!"
+    },
+    "mlADVInfo_Title_s10_20300200": {
+        "1": "Each Person",
+        "2": "First Time Excitement",
+        "3": "Talent for Enjoyment"
+    },
+    "mlADVInfo_Title_s10_20300300": {
+        "1": "If We Attended the Same School",
+        "2": "I Hope We're in the Same Club!",
+        "3": "Encounters Upon Encounters Upon Encounters"
+    },
+    "mlADVInfo_Title_s10_20400100": {
+        "1": "Cool?",
+        "2": "Cool~~~!!",
+        "3": "Smile!!"
+    },
+    "mlADVInfo_Title_s10_20400200": {
+        "1": "To Make it Shine",
+        "2": "Because it Happens",
+        "3": "Hide and Seek"
+    },
+    "mlADVInfo_Title_s10_20500100": {
+        "1": "Putting on Sleeves, and",
+        "2": "Like Magic",
+        "3": "Temperature and Such Things"
+    },
+    "mlADVInfo_Title_s10_20500200": {
+        "1": "At That Time, At That Time",
+        "2": "Killing Time",
+        "3": "As it Is"
+    },
+    "mlADVInfo_Title_s10_20600100": {
+        "1": "Gears",
+        "2": "What Awaits",
+        "3": "Turn Beautifully"
+    },
+    "mlADVInfo_Title_s10_20600200": {
+        "1": "Smart",
+        "2": "Cool/Cute",
+        "3": "Thief"
+    },
+    "mlADVInfo_Title_s10_20700100": {
+        "1": "Because Not Everything Visible is Everything",
+        "2": "Weave in Expectations",
+        "3": "Refusal of Receipt is Not Allowed"
+    },
+    "mlADVInfo_Title_s10_20700200": {
+        "1": "Like a Dream",
+        "2": "Whose Dream is it?",
+        "3": "The Person Who Made a Dream Not a Dream"
+    },
+    "mlADVInfo_Title_s10_20800100": {
+        "1": "Speaking, Words",
+        "2": "Conveying, Words",
+        "3": "Laughter"
+    },
+    "mlADVInfo_Title_s10_20800200": {
+        "1": "Red Color",
+        "2": "Everyone",
+        "3": "Sound of Hitting"
+    },
+    "mlADVInfo_Title_s10_20900100": {
+        "1": "The Discovered Hero...?",
+        "2": "Transforming into a Hero Idol!",
+        "3": "First, Let's Gather Comrades!"
+    },
+    "mlADVInfo_Title_s10_20900200": {
+        "1": "Komiya Kasumi, 1st Year High School Student!",
+        "2": "Being a High School Student!",
+        "3": "What Do High School Students Do?"
+    },
+    "mlADVInfo_Title_s10_20900300": {
+        "1": "New Equipment Has Arrived",
+        "2": "Just Getting Wet is Fun",
+        "3": "Fun is Meant to be Shared with Others"
+    },
+    "mlADVInfo_Title_s10_21000100": {
+        "1": "First Pink",
+        "2": "Peach-Colored Charm",
+        "3": "Light Orange"
+    },
+    "mlADVInfo_Title_s10_21000200": {
+        "1": "Fight!",
+        "2": "Pre-Show Hunger Situation",
+        "3": "Fight!!"
+    },
+    "mlADVInfo_Title_s10_21000300": {
+        "1": "Exciting Tension",
+        "2": "Can't Leave 'myo'",
+        "3": "Extended Work Drive"
+    },
+    "mlADVInfo_Title_s10_21100100": {
+        "1": "Perfect Blouson",
+        "2": "Warm-Up Before Appearance",
+        "3": "Power Charge Suit!"
+    },
+    "mlADVInfo_Title_s10_21100200": {
+        "1": "Please Don't Mind",
+        "2": "Feels Like I've Seen Somewhere Before",
+        "3": "Even if You're Not Used to It"
+    },
+    "mlADVInfo_Title_s10_21100300": {
+        "1": "Testing the Water Gun",
+        "2": "Beyond the Splash",
+        "3": "The Other Side of the Door is Untouchable"
+    },
+    "mlADVInfo_Title_s10_21200100": {
+        "1": "Reasons to Look Forward",
+        "2": "It's Okay to Take It Slow",
+        "3": "From Now On"
+    },
+    "mlADVInfo_Title_s10_21200200": {
+        "1": "Exciting",
+        "2": "Looking Forward",
+        "3": "After School"
+    },
+    "mlADVInfo_Title_s10_21200300": {
+        "1": "Until It's Full",
+        "2": "Childhood Heart",
+        "3": "Even if I Don't Return"
+    },
+    "mlADVInfo_Title_s10_21300100": {
+        "1": "In My Own Words",
+        "2": "Everyone",
+        "3": "True Beginning"
+    },
+    "mlADVInfo_Title_s10_21300200": {
+        "1": "If I Had Been Going to the Same School",
+        "2": "Perfect Me",
+        "3": "Perfect from the Beginning"
+    },
+    "mlADVInfo_Title_s10_21300300": {
+        "1": "Polishing Every Day",
+        "2": "Today's Report",
+        "3": "Super Lovely"
+    },
+    "mlADVInfo_Title_s10_21400100": {
+        "1": "Like the Flower",
+        "2": "Effort Flower",
+        "3": "Beautiful Flower"
+    },
+    "mlADVInfo_Title_s10_21400200": {
+        "1": "Bang☆",
+        "2": "Side ...?",
+        "3": "Sweet Dreams"
+    },
+    "mlADVInfo_Title_s10_21400300": {
+        "1": "Rare Fashion",
+        "2": "Select Point ☆",
+        "3": "Teacher A"
+    },
+    "mlADVInfo_Title_s10_21500100": {
+        "1": "Step 1",
+        "2": "Step 2",
+        "3": "Step 3"
+    },
+    "mlADVInfo_Title_s10_21500200": {
+        "1": "Matching Cakes",
+        "2": "More Matching",
+        "3": "Producer is Also Matching"
+    },
+    "mlADVInfo_Title_s10_21500300": {
+        "1": "Becoming a Fairy",
+        "2": "With Three People",
+        "3": "Tenka's Clothes"
+    },
+    "mlADVInfo_Title_s10_21600100": {
+        "1": "Because I Want to Try My Best",
+        "2": "Because I'll Try My Best",
+        "3": "Because I Tried My Best"
+    },
+    "mlADVInfo_Title_s10_21600200": {
+        "1": "Custom Made",
+        "2": "Miracle",
+        "3": "From On Stage"
+    },
+    "mlADVInfo_Title_s10_21600300": {
+        "1": "Wrapped in Sweetness",
+        "2": "Relay of Happiness",
+        "3": "Three, Plus One"
+    },
+    "mlADVInfo_Title_s10_21700100": {
+        "1": "Jingle-Jangle, Tangled",
+        "2": "Can't Take Eyes Off",
+        "3": "Whirling and Stirring"
+    },
+    "mlADVInfo_Title_s10_21700200": {
+        "1": "Already at the Limit",
+        "2": "Important Piece",
+        "3": "A Piece That Needs Nothing Else"
+    },
+    "mlADVInfo_Title_s10_21800100": {
+        "1": "Cat Tune-Up",
+        "2": "Challenge",
+        "3": "All Green"
+    },
+    "mlADVInfo_Title_s10_21800200": {
+        "1": "Insufficient Research",
+        "2": "Which Do You Prefer?",
+        "3": "The Chosen Answer is..."
+    },
+    "mlADVInfo_Title_s10_21900100": {
+        "1": "Are You Ready?",
+        "2": "Cocoa, Nice",
+        "3": "Working Hard for That"
+    },
+    "mlADVInfo_Title_s10_21900200": {
+        "1": "Mask~!",
+        "2": "The Person with a Fierce Look...",
+        "3": "Together with the Person with a Fierce Look"
+    },
+    "mlADVInfo_Title_s10_22000100": {
+        "1": "Unboxing",
+        "2": "Don't Chill",
+        "3": "Hot"
+    },
+    "mlADVInfo_Title_s10_22000200": {
+        "1": "Pushed Aside",
+        "2": "Thrown at",
+        "3": "Can Get Used to It"
+    },
+    "mlADVInfo_Title_s10_22000300": {
+        "1": "Cute",
+        "2": "Little",
+        "3": "Up"
+    },
+    "mlADVInfo_Title_s10_22100100": {
+        "1": "If It Becomes",
+        "2": "When It Becomes",
+        "3": "If It Doesn't Become"
+    },
+    "mlADVInfo_Title_s10_22100200": {
+        "1": "Eye Contact, 1",
+        "2": "Eye Contact, 2",
+        "3": "Eye Contact, 3"
+    },
+    "mlADVInfo_Title_s10_22100300": {
+        "1": "Adorning the Idol",
+        "2": "Diver",
+        "3": "Partner"
+    },
+    "mlADVInfo_Title_s10_22200100": {
+        "1": "Ribbons",
+        "2": "Can't Tie Nicely",
+        "3": "Just for Us"
+    },
+    "mlADVInfo_Title_s10_22200200": {
+        "1": "A Little Mistake",
+        "2": "Something Approaching",
+        "3": "Even Higher"
+    },
+    "mlADVInfo_Title_s10_22200300": {
+        "1": "My Normal",
+        "2": "Until I Can",
+        "3": "Surely, I Can"
+    },
+    "mlADVInfo_Title_s10_22300100": {
+        "1": "Unit Costume",
+        "2": "Design",
+        "3": "Noctchill's Costume"
+    },
+    "mlADVInfo_Title_s10_22300200": {
+        "1": "Chill♡Out",
+        "2": "Yum!",
+        "3": "Fun☆"
+    },
+    "mlADVInfo_Title_s10_22300300": {
+        "1": "Dark Sea",
+        "2": "Bright Sea",
+        "3": "Unending Sound"
+    },
+    "mlADVInfo_Title_s10_22400100": {
+        "1": "Longing, or Rather",
+        "2": "This is Totally Fine",
+        "3": "Please Do It Later"
+    },
+    "mlADVInfo_Title_s10_22400200": {
+        "1": "Clothing",
+        "2": "Peach",
+        "3": "Peach (Fruit)"
+    },
+    "mlADVInfo_Title_s10_22500100": {
+        "1": "First Costume",
+        "2": "First Song",
+        "3": "First Stage"
+    },
+    "mlADVInfo_Title_s10_22500200": {
+        "1": "Study of the Moment",
+        "2": "Stimulus is Inspiration",
+        "3": "Current Stage"
+    },
+    "mlADVInfo_Title_s10_22600100": {
+        "1": "Worrywart and ①",
+        "2": "Worrywart and ②",
+        "3": "Worrywart and ③"
+    },
+    "mlADVInfo_Title_s10_22600200": {
+        "1": "Passing Each Other",
+        "2": "On One's Own",
+        "3": "Recorded Together with Everyone"
+    },
+    "mlADVInfo_Title_s10_22700100": {
+        "1": "Fantastic",
+        "2": "Romantic",
+        "3": "Automatic"
+    },
+    "mlADVInfo_Title_s10_22700200": {
+        "1": "Friend Talk",
+        "2": "Rest Talk",
+        "3": "Recording Talk"
+    },
+    "mlADVInfo_Title_s10_22800100": {
+        "1": "Fluffy Ingredient",
+        "2": "Very Strong Item",
+        "3": "My Ally"
+    },
+    "mlADVInfo_Title_s10_22800200": {
+        "1": "Wanting to Face",
+        "2": "Unsettled Heart",
+        "3": "Resonance"
+    },
+    "mlADVInfo_Title_s10_30100100": {
+        "1": "Tightly",
+        "2": "Dryness and Splashing",
+        "3": "Sprinkling, Floating"
+    },
+    "mlADVInfo_Title_s10_30200100": {
+        "1": "Made-to-Order",
+        "2": "'Usual'",
+        "3": "Not the Usual"
+    },
+    "mlADVInfo_Title_s10_30300100": {
+        "1": "My Usual Self",
+        "2": "Suitable Self",
+        "3": "Myself on Stage"
+    },
+    "mlADVInfo_Title_s10_30400100": {
+        "1": "Favorite!",
+        "2": "Boing~!",
+        "3": "After the Live"
+    },
+    "mlADVInfo_Title_s10_30500100": {
+        "1": "Mamimi's Recommendation",
+        "2": "Okay Even if Not a Hobby",
+        "3": "Expecting a Return Gift"
+    },
+    "mlADVInfo_Title_s10_30600100": {
+        "1": "Whispering, Laughing",
+        "2": "I'll Escort You",
+        "3": "Lady as Desired"
+    },
+    "mlADVInfo_Title_s10_30700100": {
+        "1": "Killing Time Rude!",
+        "2": "Fussiness",
+        "3": "Pretending to be an Artistic Teacher"
+    },
+    "mlADVInfo_Title_s10_30700200": {
+        "1": "THE",
+        "2": "Subtle",
+        "3": "Isn't It Too Much to See with Clear Eyes?"
+    },
+    "mlADVInfo_Title_s10_30800200": {
+        "1": "Blossom・Blossom",
+        "2": "Flower・Smile",
+        "3": "Spring・Connection"
+    },
+    "mlADVInfo_Title_s10_30900100": {
+        "1": "Special Reward!",
+        "2": "Clairvoyance!",
+        "3": "Battle Outfit!?"
+    },
+    "mlADVInfo_Title_s10_30900200": {
+        "1": "Being Straightforward is Important",
+        "2": "Honesty is Important",
+        "3": "Communication is Important"
+    },
+    "mlADVInfo_Title_s10_31000100": {
+        "1": "What is a Winter Fairy?",
+        "2": "Fluffy Fairy",
+        "3": "In Charge of Warming Hearts"
+    },
+    "mlADVInfo_Title_s10_31100100": {
+        "1": "Pass Ball",
+        "2": "Cute・Cool",
+        "3": "Clear・Heart"
+    },
+    "mlADVInfo_Title_s10_31100200": {
+        "1": "Who Walks Behind?",
+        "2": "Being Cuddled by You",
+        "3": "Let's Go Home...?"
+    },
+    "mlADVInfo_Title_s10_31200100": {
+        "1": "Sound of Silence",
+        "2": "Reflecting Time",
+        "3": "Unending"
+    },
+    "mlADVInfo_Title_s10_31300100": {
+        "1": "Unexpected...",
+        "2": "Partner",
+        "3": "In the Middle of the Party Hall"
+    },
+    "mlADVInfo_Title_s10_31400100": {
+        "1": "Refresh Time ☆",
+        "2": "Be Relaxed",
+        "3": "Angel ?"
+    },
+    "mlADVInfo_Title_s10_31400200": {
+        "1": "Don't Just Be Sweet",
+        "2": "Sweet + ?",
+        "3": "A Little Bitter"
+    },
+    "mlADVInfo_Title_s10_31500200": {
+        "1": "Relaxing, Sakura",
+        "2": "Dreaming of Round Pink",
+        "3": "Even the Lord Comes"
+    },
+    "mlADVInfo_Title_s10_31600100": {
+        "1": "Purely, Righteously, Beautifully",
+        "2": "Sometimes, Bad Girl",
+        "3": "Multifaceted Me"
+    },
+    "mlADVInfo_Title_s10_31700100": {
+        "1": "Everything and Anything",
+        "2": "COPY STEP",
+        "3": "Reason for Being Late"
+    },
+    "mlADVInfo_Title_s10_31800100": {
+        "1": "What to Admire",
+        "2": "Different Expression",
+        "3": "Not Just Being Understood"
+    },
+    "mlADVInfo_Title_s10_31900100": {
+        "1": "Where Are the Good Kids~?",
+        "2": "Is it Decided~?",
+        "3": "Cheers♪"
+    },
+    "mlADVInfo_Title_s10_32000100": {
+        "1": "Growth",
+        "2": "Stretching",
+        "3": "Becoming Big"
+    },
+    "mlADVInfo_Title_s10_32100100": {
+        "1": "Intruder",
+        "2": "Proposal",
+        "3": "Digression"
+    },
+    "mlADVInfo_Title_s10_32100200": {
+        "1": "Powder Pink",
+        "2": "I/Make-believe",
+        "3": "Non-conformity"
+    },
+    "mlADVInfo_Title_s10_32200100": {
+        "1": "Wrapped in Warmth",
+        "2": "Distant Dozing",
+        "3": "In Warm Hands"
+    },
+    "mlADVInfo_Title_s10_32300100": {
+        "1": "Click☆",
+        "2": "Search♡",
+        "3": "Looks Good"
+    },
+    "mlADVInfo_Title_s10_32400100": {
+        "1": "Doing Idol Stuff",
+        "2": "Nothing in Particular",
+        "3": "Have to Go"
+    },
+    "mlADVInfo_Title_s10_32400200": {
+        "1": "Not Showing",
+        "2": "As Usual",
+        "3": "For a Single Grain"
+    },
+    "mlADVInfo_Title_s10_32500100": {
+        "1": "Cloud-like Wall",
+        "2": "Enchanted Flash",
+        "3": "Creating the Stage"
+    },
+    "mlADVInfo_Title_s10_32500200": {
+        "1": "Nostalgic Sound",
+        "2": "Monotone Memories",
+        "3": "Once Was, Still Breathing"
+    },
+    "mlADVInfo_Title_s10_32600100": {
+        "1": "Whose Property",
+        "2": "Intention",
+        "3": "Live"
+    },
+    "mlADVInfo_Title_s10_32600200": {
+        "1": "Troublesome",
+        "2": "Sudden",
+        "3": "Talent"
+    },
+    "mlADVInfo_Title_s10_32700100": {
+        "1": "St. Christmas",
+        "2": "St. Dress",
+        "3": "St. Snow"
+    },
+    "mlADVInfo_Title_s10_32800100": {
+        "1": "Praised Sheep Jump Well",
+        "2": "Fluffy Sheep Sleep Well",
+        "3": "Colorful Sheep Have Their Own Preferences"
+    },
+    "mlADVInfo_Title_s20_10100100": {
+        "1": "Restless Rustling",
+        "2": "Just, Enjoyably",
+        "11": "Restless Rustling",
+        "12": "Just, Enjoyably"
+    },
+    "mlADVInfo_Title_s20_10200100": {
+        "1": "Still Don't Know (But Someday)",
+        "2": "Thinking the Same Thing Now",
+        "11": "Still Don't Know (But Someday)",
+        "12": "Thinking the Same Thing Now"
+    },
+    "mlADVInfo_Title_s20_10300100": {
+        "1": "Just a Little More",
+        "2": "Further Ahead"
+    },
+    "mlADVInfo_Title_s20_10400100": {
+        "1": "Pshu~",
+        "2": "Popo~"
+    },
+    "mlADVInfo_Title_s20_10500100": {
+        "1": "Exaggerated",
+        "2": "Reacting Back"
+    },
+    "mlADVInfo_Title_s20_10600100": {
+        "1": "Inviting",
+        "2": "Conveyed"
+    },
+    "mlADVInfo_Title_s20_10700100": {
+        "1": "Gap (1)",
+        "2": "Gap (2)"
+    },
+    "mlADVInfo_Title_s20_10800100": {
+        "1": "See You Later",
+        "2": "Dream"
+    },
+    "mlADVInfo_Title_s20_10900100": {
+        "1": "Let's Do Homework Right Away",
+        "2": "Cycling Go! Go!"
+    },
+    "mlADVInfo_Title_s20_11000100": {
+        "1": "Just an Ordinary High School Girl??",
+        "2": "About Me, from Everyone"
+    },
+    "mlADVInfo_Title_s20_11100100": {
+        "1": "Hundred Times the Power!",
+        "2": "Off-Field Match!"
+    },
+    "mlADVInfo_Title_s20_11200100": {
+        "1": "Expression",
+        "2": "Same Interests"
+    },
+    "mlADVInfo_Title_s20_11300100": {
+        "1": "The Other Side of the Sky",
+        "2": "Why Are You"
+    },
+    "mlADVInfo_Title_s20_11400100": {
+        "1": "Sisters' Self-Study",
+        "2": "Sleeping Face"
+    },
+    "mlADVInfo_Title_s20_11500100": {
+        "1": "Like a Demon",
+        "2": "Like You"
+    },
+    "mlADVInfo_Title_s20_11600100": {
+        "1": "Nice to Meet You, Me",
+        "2": "Skipping on the Way Home"
+    },
+    "mlADVInfo_Title_s20_11700100": {
+        "1": "Pushing Through the Darkness",
+        "2": "Come Over Here"
+    },
+    "mlADVInfo_Title_s20_11800100": {
+        "1": "Sharp",
+        "2": "Abnormal? Exception?"
+    },
+    "mlADVInfo_Title_s20_11900100": {
+        "1": "What Could It Be~...",
+        "2": "Let's Do It~!"
+    },
+    "mlADVInfo_Title_s20_12000100": {
+        "1": "Speed",
+        "2": "Need a Ball"
+    },
+    "mlADVInfo_Title_s20_12100100": {
+        "1": "Just a Little",
+        "2": "Forever"
+    },
+    "mlADVInfo_Title_s20_12200100": {
+        "1": "If You Don't Say It Quickly",
+        "2": "First Act of Rebellion"
+    },
+    "mlADVInfo_Title_s20_12300100": {
+        "1": "Could It Be...",
+        "2": "Actually That Kind of Thing"
+    },
+    "mlADVInfo_Title_s20_12400100": {
+        "1": "About Ten Levels",
+        "2": "10th Floor"
+    },
+    "mlADVInfo_Title_s20_12500100": {
+        "1": "Shaved Ice",
+        "2": "Cicada"
+    },
+    "mlADVInfo_Title_s20_12600100": {
+        "1": "Let's Go See It!",
+        "2": "That Sweetness"
+    },
+    "mlADVInfo_Title_s20_12700100": {
+        "1": "Pure White Area (1)",
+        "2": "Pure White Area (2)"
+    },
+    "mlADVInfo_Title_s20_12800100": {
+        "1": "Everything I Have",
+        "2": "Can't Go Back Like This"
+    },
+    "mlADVInfo_Title_s20_20100100": {
+        "1": "Morning Curl",
+        "2": "Blush of Dawn",
+        "3": "Evening Curl",
+        "11": "Morning Curl"
+    },
+    "mlADVInfo_Title_s20_20200100": {
+        "1": "Rehearsal",
+        "2": "Now the Real Thing",
+        "3": "Finished, Take a Breath",
+        "11": "Rehearsal"
+    },
+    "mlADVInfo_Title_s20_20300100": {
+        "1": "French Toast",
+        "2": "With Jam and Scone",
+        "3": "Sweet Present"
+    },
+    "mlADVInfo_Title_s20_20400100": {
+        "1": "Next Day Off...",
+        "2": "Welcome!",
+        "3": "Heartfelt Hand-Rolled Sushi"
+    },
+    "mlADVInfo_Title_s20_20500100": {
+        "1": "Sleepiness",
+        "2": "Sleepiness x2",
+        "3": "Sleepiness x3"
+    },
+    "mlADVInfo_Title_s20_20600100": {
+        "1": "That's Right, Just Like",
+        "2": "Everything Visible",
+        "3": "Important Person"
+    },
+    "mlADVInfo_Title_s20_20700100": {
+        "1": "Cat",
+        "2": "Cat and Dog",
+        "3": "Cat, Dog, and Blushing Older Brother"
+    },
+    "mlADVInfo_Title_s20_20800100": {
+        "1": "Looking at a Plant Guidebook",
+        "2": "Blooming",
+        "3": "Hello Kiriko"
+    },
+    "mlADVInfo_Title_s20_20900100": {
+        "1": "Covered in Catteleya, Covered in Mamemaru",
+        "2": "Playing a Lot, Resting a Lot",
+        "3": "Two and Two Isn't Always Four"
+    },
+    "mlADVInfo_Title_s20_21000100": {
+        "1": "Names of Sweets You'd Be Happy to Have for Snacks at Home",
+        "2": "(Good) Chocolate",
+        "3": "Donuts or Dorayaki"
+    },
+    "mlADVInfo_Title_s20_21100100": {
+        "1": "Invitation to the Sauna",
+        "2": "To Get Ready",
+        "3": "Of Course Once You're Warmed Up?"
+    },
+    "mlADVInfo_Title_s20_21200100": {
+        "1": "Dear",
+        "2": "Everyone",
+        "3": "Sincerely"
+    },
+    "mlADVInfo_Title_s20_21300100": {
+        "1": "Shall We Chat Together?",
+        "2": "Brand",
+        "3": "Together Again"
+    },
+    "mlADVInfo_Title_s20_21400100": {
+        "1": "Shall We Talk?",
+        "2": "Touch... and See...!",
+        "3": "Because I Want to Eat"
+    },
+    "mlADVInfo_Title_s20_21500100": {
+        "1": "OH Rest",
+        "2": "OH Laundry",
+        "3": "OH Weather"
+    },
+    "mlADVInfo_Title_s20_21600100": {
+        "1": "Beauty Concealed Reveals Itself as a Flower",
+        "2": "Cute and Fluffy",
+        "3": "Listening to the Sound of Bells"
+    },
+    "mlADVInfo_Title_s20_21700100": {
+        "1": "Serious May Shower Style",
+        "2": "No Run-Up for Jumps",
+        "3": "Warm Wind"
+    },
+    "mlADVInfo_Title_s20_21800100": {
+        "1": "Fuyu-chan",
+        "2": "Straylight's Fuyu-chan",
+        "3": "Fuyu-chan (Fuyuko)"
+    },
+    "mlADVInfo_Title_s20_21900100": {
+        "1": "Fuyuko-chan's Recommendation!",
+        "2": "Oops!?",
+        "3": "Kashipa♪"
+    },
+    "mlADVInfo_Title_s20_22000100": {
+        "1": "Going for Lunchtime Shopping",
+        "2": "On the Way for Lunchtime Shopping",
+        "3": "Back from Lunchtime Shopping"
+    },
+    "mlADVInfo_Title_s20_22100100": {
+        "1": "Report",
+        "2": "Vague",
+        "3": "Night Road"
+    },
+    "mlADVInfo_Title_s20_22200100": {
+        "1": "You Can Make It If You Run",
+        "2": "Until the Next Train",
+        "3": "If Only I Had 10 More Yen"
+    },
+    "mlADVInfo_Title_s20_22300100": {
+        "1": "So Your Stomach Doesn't Growl",
+        "2": "Mental Preparation?",
+        "3": "I'm Glad"
+    },
+    "mlADVInfo_Title_s20_22400100": {
+        "1": "Practice!",
+        "2": "As Many Times as Needed",
+        "3": "Beautiful"
+    },
+    "mlADVInfo_Title_s20_22500100": {
+        "1": "Unit Photoshoot",
+        "2": "Athletics",
+        "3": "Unusual Photoshoot"
+    },
+    "mlADVInfo_Title_s20_22600100": {
+        "1": "Waste",
+        "2": "Throat",
+        "3": "Reasons or Something"
+    },
+    "mlADVInfo_Title_s20_22700100": {
+        "1": "Lesson [Before]",
+        "2": "Lesson [After]",
+        "3": "Lesson [After] Family Restaurant Edition"
+    },
+    "mlADVInfo_Title_s20_22800100": {
+        "1": "We Matched",
+        "2": "Understood Each Other",
+        "3": "We Totally Understood Each Other"
+    },
+    "mlADVInfo_Title_s20_30100100": {
+        "1": "Strawberry and Cookie",
+        "2": "Overlapping Feelings",
+        "3": "What Do You Think?",
+        "4": "ぶきようたち"
+    },
+    "mlADVInfo_Title_s20_30100200": {
+        "1": "How to Brew Delicious Black Tea",
+        "2": "Looks Cool",
+        "3": "Wrap Yourself Up, Stand Tall",
+        "4": "Warm Moment"
+    },
+    "mlADVInfo_Title_s20_30200100": {
+        "1": "Roles Distributed Equally",
+        "2": "Feel Free",
+        "3": "It's Fine to Get Excited",
+        "4": "When Moving, Let's Replenish Energy"
+    },
+    "mlADVInfo_Title_s20_30200200": {
+        "1": "4↑6*36←*9↑",
+        "2": "Talk Theme: 'Choosing Today's Parfait'",
+        "3": "Talk Theme: 'Tasty Things I've Had Recently'",
+        "4": "Talk Theme: 'Imagine a Shop to Inquire About!'"
+    },
+    "mlADVInfo_Title_s20_30200300": {
+        "1": "Various Shades of Blue",
+        "2": "Scent of Blue",
+        "3": "Moment of Blue",
+        "4": "Name of Blue"
+    },
+    "mlADVInfo_Title_s20_30300100": {
+        "1": "Lots of Threes",
+        "2": "Matching Threes",
+        "3": "One Person Dozing Off",
+        "4": "Two People Sleeping Soundly"
+    },
+    "mlADVInfo_Title_s20_30400100": {
+        "1": "Outline of Winter",
+        "2": "Steam Rising",
+        "3": "Warm Place",
+        "4": "Together"
+    },
+    "mlADVInfo_Title_s20_30400200": {
+        "1": "Exciting☆VR Experience",
+        "2": "Nervous☆Scream Machine",
+        "3": "Thrilling☆Skating Rink",
+        "4": "Exciting☆Schedule"
+    },
+    "mlADVInfo_Title_s20_30500100": {
+        "1": "Drawn Along",
+        "2": "Occasional Window View",
+        "3": "Let's Try",
+        "4": "With Maple Leaves"
+    },
     "mlADVInfo_Title_s20_30600100": {
         "1": "umbrella 1",
         "2": "umbrella 2",
         "3": "umbrella 3",
         "4": "umbrella 4"
     },
-  "mlADVInfo_Title_s20_30600200": {
-    "1": "Tentatively Cute",
-    "2": "Bear Kuma KUMA",
-    "3": "Bonus Cookie",
-    "4": "Strategy for White Day"
-  },
-  "mlADVInfo_Title_s20_30700100": {
-    "1": "Special Meal",
-    "2": "Fainting in Formal Wear Incident?",
-    "3": "Bad Timing",
-    "4": "What Month Is It Now?"
-  },
+    "mlADVInfo_Title_s20_30600200": {
+        "1": "Tentatively Cute",
+        "2": "Bear Kuma KUMA",
+        "3": "Bonus Cookie",
+        "4": "Strategy for White Day"
+    },
+    "mlADVInfo_Title_s20_30700100": {
+        "1": "Special Meal",
+        "2": "Fainting in Formal Wear Incident?",
+        "3": "Bad Timing",
+        "4": "What Month Is It Now?"
+    },
     "mlADVInfo_Title_s20_30700200": {
         "1": "Vivid Collection",
         "2": "L'Antica Honorary Photographer",
@@ -10939,7 +10953,8 @@
     "mlADVInfo_Title_s40_06060000": {
         "1": "Soy Sauce and Butter",
         "2": "Using some eye drops",
-        "3": "Who is the last one?"
+        "3": "Who is the last one?",
+        "4": "Surf!"
     },
     "mlADVInfo_Title_s40_07070000": {
         "1": "Ignited",
@@ -11018,7 +11033,8 @@
     },
     "mlADVInfo_Title_s41_14000000": {
         "1": "Good Note ☆",
-        "2": "Black or White?"
+        "2": "Black or White?",
+        "3": "Sweet kitchen"
     },
     "mlADVInfo_Title_s41_15000000": {
         "1": "At Amana's Speed",
@@ -11264,6 +11280,9 @@
     },
     "mlADVInfo_Title_s61_10215001": {
         "0": "12/25 Tenka Osaki"
+    },
+    "mlADVInfo_Title_s61_10216001": {
+        "0": "4/18　桑山 千雪"
     },
     "mlADVInfo_Title_s61_10217001": {
         "0": "1/4 Asahi Serizawa"
@@ -12360,13 +12379,13 @@
         "213001": "Unit Costume for HO-KA-GO CLIMAX GIRLS's song\n[Yumesaki After school]\nPaint after school in five different colors.",
         "213002": "Unit Costume for HO-KA-GO CLIMAX GIRLS's song\n[Hadashi ja Irarenai]\nThoughts Packed into Shoelaces.",
         "213003": "Unit Costume for HO-KA-GO CLIMAX GIRLS's song\n[Beach Braver]\nMermaid in summer colors.",
-        "214001": "Unit Costume for ALSTROEMERIA's song\n[ALSTROEMERIA]\nWhen wrapped in a bouquet of happiness.",
+        "214001": "Unit Costume for ALSTROEMERIA's song\n [ALSTROEMERIA]\nWhen wrapped in a bouquet of happiness.",
         "214002": "Unit Costume for ALSTROEMERIA's song\n[Ashita Mo Beautiful Day]\nRelax and have a good night's sleep with the scent of flowers.",
         "214003": "Unit Costume for ALSTROEMERIA's song\n[Bloomy!]\nFlutter, the magic of petals for you.",
-        "215001": "Unit Costume for ALSTROEMERIA's song\n[ALSTROEMERIA]\nWhen wrapped in a bouquet of happiness.",
+        "215001": "Unit Costume for ALSTROEMERIA's song\n [ALSTROEMERIA]\nWhen wrapped in a bouquet of happiness.",
         "215002": "Unit Costume for ALSTROEMERIA's song\n[Ashita Mo Beautiful Day]\nRelax and have a good night's sleep with the scent of flowers.",
         "215003": "Unit Costume for ALSTROEMERIA's song\n[Bloomy!]\nFlutter, the magic of petals for you.",
-        "216001": "Unit Costume for ALSTROEMERIA's song\n[ALSTROEMERIA]\nWhen wrapped in a bouquet of happiness.",
+        "216001": "Unit Costume for ALSTROEMERIA's song\n [ALSTROEMERIA]\nWhen wrapped in a bouquet of happiness.",
         "216002": "Unit Costume for ALSTROEMERIA's song\n[Ashita Mo Beautiful Day]\nRelax and have a good night's sleep with the scent of flowers.",
         "216003": "Unit Costume for ALSTROEMERIA's song\n[Bloomy!]\nFlutter, the magic of petals for you.",
         "217001": "Unit Costume for Straylight's song\n[Wandering Dream Chaser]\nWearing a stray light, it plays with the world.",
@@ -12472,6 +12491,7 @@
         "702007": "Worn by 283PRO idols Navy Blue Jersey\nClear blue, leaping into the sky",
         "703001": "Meguru Hachimiya's School Uniform\nDays in the Sun.",
         "703002": "Meguru Hachimiya's Private\nSounds coming from sneakers.",
+        "703003": "Meguru Hachimiya's Private\nDifferent lines, light crimson wind",
         "703005": "Meguru Hachimiya's Jersey",
         "703006": "Hiori Kazano's Jersey",
         "703007": "Worn by 283PRO idols Navy Blue Jersey\nClear blue, leaping into the sky",
@@ -12535,6 +12555,7 @@
         "713007": "Worn by 283PRO idols Navy Blue Jersey\nClear blue, leaping into the sky",
         "714001": "Amana Osaki's School Uniform\nToday is another perfect day☆",
         "714002": "Amana Osaki's Private\nFluffy and comfortable.",
+        "714003": "Amana Osaki's Private\nPleats add ease of movement☆",
         "714005": "Amana Osaki's Jersey",
         "714006": "Amana Osaki's Jersey",
         "714007": "Worn by 283PRO idols Navy Blue Jersey\nClear blue, leaping into the sky",
@@ -12939,6 +12960,7 @@
         "702007": "【Navy Blue Jersey】 Hiori Kazano",
         "703001": "【Default Costume】 Meguru Hachimiya",
         "703002": "【Costume 01】 Meguru Hachimiya",
+        "703003": "【Costume 02】 Meguru Hachimiya",
         "703005": "【Jersey】 Meguru Hachimiya's Jersey",
         "703006": "【CB Jersey】 Hiori Kazano's Jersey",
         "703007": "【Navy Blue Jersey】 Meguru Hachimiya",
@@ -13002,6 +13024,7 @@
         "713007": "【Navy Blue Jersey】 Natsuha Arisugawa",
         "714001": "【Default Costume】 Amana Osaki",
         "714002": "【Costume 01】 Amana Osaki",
+        "714003": "【Costume 02】 Amana Osaki",
         "714005": "【Jersey】 Amana Osaki's Jersey",
         "714006": "【CB Jersey】 Amana Osaki's Jersey",
         "714007": "【Navy Blue Jersey】 Amana Osaki",
@@ -13406,6 +13429,7 @@
         "702007": "Obtain at the exchange",
         "703001": "None",
         "703002": "Meguru Hachimiya's bond at lv4",
+        "703003": "Buy at store",
         "703005": "None",
         "703006": "None",
         "703007": "Obtain at the exchange",
@@ -13469,6 +13493,7 @@
         "713007": "Obtain at the exchange",
         "714001": "None",
         "714002": "Amana Osaki's bond at lv4",
+        "714003": "Buy at store",
         "714005": "None",
         "714006": "None",
         "714007": "Obtain at the exchange",
@@ -13733,13 +13758,13 @@
         "213001": "Unit Costume for HO-KA-GO CLIMAX GIRLS's song\n[Yumesaki After school]\nPaint after school in five different colors.",
         "213002": "Unit Costume for HO-KA-GO CLIMAX GIRLS's song\n[Hadashi ja Irarenai]\nThoughts Packed into Shoelaces.",
         "213003": "Unit Costume for HO-KA-GO CLIMAX GIRLS's song\n[Beach Braver]\nMermaid in summer colors.",
-        "214001": "Unit Costume for ALSTROEMERIA's song\n[ALSTROEMERIA]\nWhen wrapped in a bouquet of happiness.",
+        "214001": "Unit Costume for ALSTROEMERIA's song\n [ALSTROEMERIA]\nWhen wrapped in a bouquet of happiness.",
         "214002": "Unit Costume for ALSTROEMERIA's song\n[Ashita Mo Beautiful Day]\nRelax and have a good night's sleep with the scent of flowers.",
         "214003": "Unit Costume for ALSTROEMERIA's song\n[Bloomy!]\nFlutter, the magic of petals for you.",
-        "215001": "Unit Costume for ALSTROEMERIA's song\n[ALSTROEMERIA]\nWhen wrapped in a bouquet of happiness.",
+        "215001": "Unit Costume for ALSTROEMERIA's song\n [ALSTROEMERIA]\nWhen wrapped in a bouquet of happiness.",
         "215002": "Unit Costume for ALSTROEMERIA's song\n[Ashita Mo Beautiful Day]\nRelax and have a good night's sleep with the scent of flowers.",
         "215003": "Unit Costume for ALSTROEMERIA's song\n[Bloomy!]\nFlutter, the magic of petals for you.",
-        "216001": "Unit Costume for ALSTROEMERIA's song\n[ALSTROEMERIA]\nWhen wrapped in a bouquet of happiness.",
+        "216001": "Unit Costume for ALSTROEMERIA's song\n [ALSTROEMERIA]\nWhen wrapped in a bouquet of happiness.",
         "216002": "Unit Costume for ALSTROEMERIA's song\n[Ashita Mo Beautiful Day]\nRelax and have a good night's sleep with the scent of flowers.",
         "216003": "Unit Costume for ALSTROEMERIA's song\n[Bloomy!]\nFlutter, the magic of petals for you.",
         "217001": "Unit Costume for Straylight's song\n[Wandering Dream Chaser]\nWearing a stray light, it plays with the world.",
@@ -13842,6 +13867,7 @@
         "702007": "Worn by 283PRO idols Navy Blue Jersey\nClear blue, leaping into the sky",
         "703001": "Meguru Hachimiya's School Uniform\nDays in the Sun.",
         "703002": "Meguru Hachimiya's Private\nSounds coming from sneakers.",
+        "703003": "Meguru Hachimiya's Private\nDifferent lines, light crimson wind",
         "703005": "Meguru Hachimiya's Jersey",
         "703006": "Meguru Hachimiya's Jersey",
         "703007": "Worn by 283PRO idols Navy Blue Jersey\nClear blue, leaping into the sky",
@@ -13905,6 +13931,7 @@
         "713007": "Worn by 283PRO idols Navy Blue Jersey\nClear blue, leaping into the sky",
         "714001": "Amana Osaki's School Uniform\nToday is another perfect day☆",
         "714002": "Amana Osaki's Private\nFluffy and comfortable.",
+        "714003": "Amana Osaki's Private\nPleats add ease of movement☆",
         "714005": "Amana Osaki's Jersey",
         "714006": "Amana Osaki's Jersey",
         "714007": "Worn by 283PRO idols Navy Blue Jersey\nClear blue, leaping into the sky",
@@ -14278,6 +14305,7 @@
         "702007": "【Navy Blue Jersey】 Hiori Kazano",
         "703001": "【Default Costume】 Meguru Hachimiya",
         "703002": "【Costume 01】 Meguru Hachimiya",
+        "703003": "【Costume 02】 Meguru Hachimiya",
         "703005": "【Jersey】 Meguru Hachimiya's Jersey",
         "703006": "【CB Jersey】 Meguru Hachimiya's Jersey",
         "703007": "【Navy Blue Jersey】 Meguru Hachimiya",
@@ -14341,6 +14369,7 @@
         "713007": "【Navy Blue Jersey】 Natsuha Arisugawa",
         "714001": "【Default Costume】 Amana Osaki",
         "714002": "【Costume 01】 Amana Osaki",
+        "714003": "【Costume 02】 Amana Osaki",
         "714005": "【Jersey】 Amana Osaki's Jersey",
         "714006": "【CB Jersey】 Amana Osaki's Jersey",
         "714007": "【Navy Blue Jersey】 Amana Osaki",
@@ -14714,6 +14743,7 @@
         "702007": "Obtain at the exchange",
         "703001": "None",
         "703002": "Meguru Hachimiya's bond at lv4",
+        "703003": "Buy at store",
         "703005": "None",
         "703006": "None",
         "703007": "Obtain at the exchange",
@@ -14777,6 +14807,7 @@
         "713007": "Obtain at the exchange",
         "714001": "None",
         "714002": "Amana Osaki's bond at lv4",
+        "714003": "Buy at store",
         "714005": "None",
         "714006": "None",
         "714007": "Obtain at the exchange",
@@ -16358,7 +16389,8 @@
         "102": "Gacha discount period ends",
         "103": "The discount period for the gacha has passed.\nReturn to the title to update the data.",
         "104": "Some redemption points have expired.\nExpired redemption points will be converted to Star Shards when the Gacha screen is displayed.",
-        "105": "The expiration date of the following exchange points has expired.\nExpired exchange points will be converted to Star Shards at the time of the Gacha screen."
+        "105": "The expiration date of the following exchange points has expired.\nExpired exchange points will be converted to Star Shards at the time of the Gacha screen.",
+        "106": "{0}\nを引き直しますか？\nガシャ結果を確定するまではプリズムジュエルは消費されません。"
     },
     "mlGasha_CostumesInfo": {
         "1": "Try-on confirmation",
@@ -16862,6 +16894,7 @@
         "712003": "　",
         "713002": " ",
         "713003": " ",
+        "714003": "　",
         "715002": " ",
         "716001": " ",
         "716003": " ",
@@ -17229,6 +17262,7 @@
         "712003": "【Costume 02】 Rinze Morino's Hairstyle",
         "713002": "【Costume 01】 Natsuha Arisugawa's Hairstyle",
         "713003": "【Costume 02】 Natsuha Arisugawa's Hairstyle",
+        "714003": "【Costume 02】 Amana Osakiの髪型",
         "715002": "【Costume 01】 Tenka Osaki's Hairstyle",
         "716001": "【Default Costume】 Chiyuki Kuwayama's Hairstyle",
         "716003": "【Costume 02】 Chiyuki Kuwayama's Hairstyle",
@@ -17596,6 +17630,7 @@
         "712003": "Buy at store",
         "713002": "Natsuha Arisugawa's bond at lv4",
         "713003": "Buy at store",
+        "714003": "Buy at store",
         "715002": "Tenka Osaki's bond at lv4",
         "716001": "None",
         "716003": "Buy at store",
@@ -19540,13 +19575,13 @@
         "213001": "Unit Costume for HO-KA-GO CLIMAX GIRLS's song\n[Yumesaki After school]\nPaint after school in five different colors.",
         "213002": "Unit Costume for HO-KA-GO CLIMAX GIRLS's song\n[Hadashi ja Irarenai]\nThoughts Packed into Shoelaces.",
         "213003": "Unit Costume for HO-KA-GO CLIMAX GIRLS's song\n[Beach Braver]\nMermaid in summer colors.",
-        "214001": "Unit Costume for ALSTROEMERIA's song\n[ALSTROEMERIA]\nWhen wrapped in a bouquet of happiness.",
+        "214001": "Unit Costume for ALSTROEMERIA's song\n [ALSTROEMERIA]\nWhen wrapped in a bouquet of happiness.",
         "214002": "Unit Costume for ALSTROEMERIA's song\n[Ashita Mo Beautiful Day]\nRelax and have a good night's sleep with the scent of flowers.",
         "214003": "Unit Costume for ALSTROEMERIA's song\n[Bloomy!]\nFlutter, the magic of petals for you.",
-        "215001": "Unit Costume for ALSTROEMERIA's song\n[ALSTROEMERIA]\nWhen wrapped in a bouquet of happiness.",
+        "215001": "Unit Costume for ALSTROEMERIA's song\n [ALSTROEMERIA]\nWhen wrapped in a bouquet of happiness.",
         "215002": "Unit Costume for ALSTROEMERIA's song\n[Ashita Mo Beautiful Day]\nRelax and have a good night's sleep with the scent of flowers.",
         "215003": "Unit Costume for ALSTROEMERIA's song\n[Bloomy!]\nFlutter, the magic of petals for you.",
-        "216001": "Unit Costume for ALSTROEMERIA's song\n[ALSTROEMERIA]\nWhen wrapped in a bouquet of happiness.",
+        "216001": "Unit Costume for ALSTROEMERIA's song\n [ALSTROEMERIA]\nWhen wrapped in a bouquet of happiness.",
         "216002": "Unit Costume for ALSTROEMERIA's song\n[Ashita Mo Beautiful Day]\nRelax and have a good night's sleep with the scent of flowers.",
         "216003": "Unit Costume for ALSTROEMERIA's song\n[Bloomy!]\nFlutter, the magic of petals for you.",
         "217001": "Unit Costume for Straylight's song\n[Wandering Dream Chaser]\nWearing a stray light, it plays with the world.",
@@ -19652,6 +19687,7 @@
         "702007": "Worn by 283PRO idols Navy Blue Jersey\nClear blue, leaping into the sky",
         "703001": "Meguru Hachimiya's School Uniform\nDays in the Sun.",
         "703002": "Meguru Hachimiya's Private\nSounds coming from sneakers.",
+        "703003": "Meguru Hachimiya's Private\nDifferent lines, light crimson wind",
         "703005": "Meguru Hachimiya's Jersey",
         "703006": "Hiori Kazano's Jersey",
         "703007": "Worn by 283PRO idols Navy Blue Jersey\nClear blue, leaping into the sky",
@@ -19715,6 +19751,7 @@
         "713007": "Worn by 283PRO idols Navy Blue Jersey\nClear blue, leaping into the sky",
         "714001": "Amana Osaki's School Uniform\nToday is another perfect day☆",
         "714002": "Amana Osaki's Private\nFluffy and comfortable.",
+        "714003": "Amana Osaki's Private\nPleats add ease of movement☆",
         "714005": "Amana Osaki's Jersey",
         "714006": "Amana Osaki's Jersey",
         "714007": "Worn by 283PRO idols Navy Blue Jersey\nClear blue, leaping into the sky",
@@ -20151,6 +20188,7 @@
         "712003": "　",
         "713002": " ",
         "713003": " ",
+        "714003": "　",
         "715002": " ",
         "716001": " ",
         "716003": " ",
@@ -20239,6 +20277,7 @@
         "707002": " ",
         "711003": " ",
         "713002": " ",
+        "714003": "　",
         "716002": " ",
         "716003": " ",
         "717003": " ",
@@ -21707,6 +21746,7 @@
         "702007": "【Navy Blue Jersey】 Hiori Kazano",
         "703001": "【Default Costume】 Meguru Hachimiya",
         "703002": "【Costume 01】 Meguru Hachimiya",
+        "703003": "【Costume 02】 Meguru Hachimiya",
         "703005": "【Jersey】 Meguru Hachimiya's Jersey",
         "703006": "【CB Jersey】 Hiori Kazano's Jersey",
         "703007": "【Navy Blue Jersey】 Meguru Hachimiya",
@@ -21770,6 +21810,7 @@
         "713007": "【Navy Blue Jersey】 Natsuha Arisugawa",
         "714001": "【Default Costume】 Amana Osaki",
         "714002": "【Costume 01】 Amana Osaki",
+        "714003": "【Costume 02】 Amana Osaki",
         "714005": "【Jersey】 Amana Osaki's Jersey",
         "714006": "【CB Jersey】 Amana Osaki's Jersey",
         "714007": "【Navy Blue Jersey】 Amana Osaki",
@@ -22206,6 +22247,7 @@
         "712003": "【Costume 02】 Rinze Morino's Hairstyle",
         "713002": "【Costume 01】 Natsuha Arisugawa's Hairstyle",
         "713003": "【Costume 02】 Natsuha Arisugawa's Hairstyle",
+        "714003": "【Costume 02】 Amana Osakiの髪型",
         "715002": "【Costume 01】 Tenka Osaki's Hairstyle",
         "716001": "【Default Costume】 Chiyuki Kuwayama's Hairstyle",
         "716003": "【Costume 02】 Chiyuki Kuwayama's Hairstyle",
@@ -22294,6 +22336,7 @@
         "707002": "【Costume 01】 Yuika Mitsumine's Glasses",
         "711003": "【Costume 02】 Juri Saijo's earrings",
         "713002": "【Costume 01】 Natsuha Arisugawa's earrings",
+        "714003": "【Costume 02】 Amana Osaki's earrings",
         "716002": "【Costume 01】 Chiyuki Kuwayama's earrings",
         "716003": "【Costume 02】 Chiyuki Kuwayama's earrings",
         "717003": "【Costume 02】 Asahi Serizawa's earrings",
@@ -26481,9 +26524,9 @@
         "739": "Let's consume 800 LB in total",
         "740": "Let's consume 900 LB in total",
         "741": "Let's consume a total of 1000 LB",
-        "742": "Let's clear [ALSTROEMERIA] once live (manual play only, progress by LB consumption multiplier)",
-        "743": "Clear [ALSTROEMERIA] 10 times live (manual play only, progress by LB consumption multiplier)",
-        "744": "Clear [ALSTROEMERIA] 20 times live (manual play only, progress by LB consumption multiplier)",
+        "742": "Let's clear  [ALSTROEMERIA] once live (manual play only, progress by LB consumption multiplier)",
+        "743": "Clear  [ALSTROEMERIA] 10 times live (manual play only, progress by LB consumption multiplier)",
+        "744": "Clear  [ALSTROEMERIA] 20 times live (manual play only, progress by LB consumption multiplier)",
         "745": "Let's clear [Ashita mo Beautiful Day] once in live play (manual play only, progress by LB consumption multiplier)",
         "746": "Clear [Ashita mo Beautiful Day] 10 times live (manual play only, progress by LB consumption multiplier)",
         "747": "Clear [Ashita mo Beautiful Day] 20 times live (manual play only, progress by LB consumption multiplier)",
@@ -26507,7 +26550,7 @@
         "765": "Clear [Yumesaki After school] once in a live performance with FULL COMBO or higher (manual play only)",
         "766": "Clear [Hadashi Ja Irarenai] once in a live performance with FULL COMBO or higher (manual play only)",
         "767": "Clear [Beach Braver] once live with FULL COMBO or higher (manual play only)",
-        "768": "Clear [ALSTROEMERIA] live once with FULL COMBO or higher (manual play only)",
+        "768": "Clear  [ALSTROEMERIA] live once with FULL COMBO or higher (manual play only)",
         "769": "Clear [Ashita mo Beautiful Day] once with FULL COMBO or higher in a live performance (manual play only)",
         "770": "Clear [Bloomy!] live once with FULL COMBO or higher (manual play only)",
         "771": "Clear [Hanamaru badge] once live with FULL COMBO or higher (manual play only)",
@@ -29234,9 +29277,9 @@
         "739": "Let's consume 800 LB in total",
         "740": "Let's consume 900 LB in total",
         "741": "Let's consume a total of 1000 LB",
-        "742": "Let's clear [ALSTROEMERIA] once live (manual play only, progress by LB consumption multiplier)",
-        "743": "Clear [ALSTROEMERIA] 10 times live (manual play only, progress by LB consumption multiplier)",
-        "744": "Clear [ALSTROEMERIA] 20 times live (manual play only, progress by LB consumption multiplier)",
+        "742": "Let's clear  [ALSTROEMERIA] once live (manual play only, progress by LB consumption multiplier)",
+        "743": "Clear  [ALSTROEMERIA] 10 times live (manual play only, progress by LB consumption multiplier)",
+        "744": "Clear  [ALSTROEMERIA] 20 times live (manual play only, progress by LB consumption multiplier)",
         "745": "Let's clear [Ashita mo Beautiful Day] once in live play (manual play only, progress by LB consumption multiplier)",
         "746": "Clear [Ashita mo Beautiful Day] 10 times live (manual play only, progress by LB consumption multiplier)",
         "747": "Clear [Ashita mo Beautiful Day] 20 times live (manual play only, progress by LB consumption multiplier)",
@@ -29260,7 +29303,7 @@
         "765": "Clear [Yumesaki After school] once in a live performance with FULL COMBO or higher (manual play only)",
         "766": "Clear [Hadashi Ja Irarenai] once in a live performance with FULL COMBO or higher (manual play only)",
         "767": "Clear [Beach Braver] once live with FULL COMBO or higher (manual play only)",
-        "768": "Clear [ALSTROEMERIA] live once with FULL COMBO or higher (manual play only)",
+        "768": "Clear  [ALSTROEMERIA] live once with FULL COMBO or higher (manual play only)",
         "769": "Clear [Ashita mo Beautiful Day] once with FULL COMBO or higher in a live performance (manual play only)",
         "770": "Clear [Bloomy!] live once with FULL COMBO or higher (manual play only)",
         "771": "Clear [Hanamaru badge] once live with FULL COMBO or higher (manual play only)",
@@ -34155,70 +34198,70 @@
         "1": "No",
         "2": "Close"
     },
-"mlProduce_TutorialText": {
-    "0": "How to Play",
-    "1": "You can conduct lessons while displaying tutorials. Would you like to display the tutorial?",
-    "2": "Swipe up to use Producer Cards.",
-    "3": "PP accumulates over time.",
-    "4": "Operate until the game is cleared.",
-    "5": "Swipe left to use Idol Skills.",
-    "6": "Use Refresh to restore Mental.",
-    "7": "Use Sparkle Sunshine to reduce the required PP for the next card.",
-    "8": "Use Twinkle☆Harmony to gain PP.",
-    "9": "Use consecutively the cards whose required PP has decreased.",
-    "10": "Use Visual Appeal Preparation to enhance the next card.",
-    "11": "Use Smile of Magical.",
-    "12": "When Me is below 30%, enter a pinch state.",
-    "13": "Use Melody of Burning Life to decrease Me.",
-    "14": "Use Resounding Melody of Immortality in a pinch state.",
-    "15": "Tutorial",
-    "16": "End tutorial display?",
-    "17": "Use Hidden in the Sea to increase evasion rate.",
-    "18": "Evasion probability is displayed at the top of the Mental Gauge.",
-    "19": "Use Singing Voice Harmonizing with the Sea, coordinated with evasion.",
-    "20": "Use Dancing with the Ripples, coordinated with evasion.",
-    "21": "Evasion buffs are activated in coordination with evasion.",
-    "22": "At 80% or more Me, enter a safe state and increase acquired Appeal Points.",
-    "23": "In a safe state, take 20% damage when acquiring Appeal Points.",
-    "24": "Use Sound of Tranquility in a safe state.",
-    "25": "At 100% Me, maintain a safe state once despite receiving demerits.",
-    "26": "Use Dancing with Happiness in a safe state.",
-    "27": "Recover Me after demerits to transition back to a safe state.",
-    "28": "Currently in Nichika Phase. Use Change to Sky to change to Mikoto Phase.",
-    "29": "Since it's now Mikoto Phase, the Double Cards have been changed to Mikoto.",
-    "30": "Use Change Rank-Up Boost with Straddle Go Up.",
-    "31": "Use Change to Sky to perform a phase change.",
-    "32": "Use double radiance after ranking up.",
-    "33": "Use Dilemma's Lie to exclude cards from your hand.",
-    "34": "The effect will activate when the last song is sung.",
-    "35": "Try excluding cards with Dilemma's Lie.",
-    "36": "The effect of the last song has been activated after exclusion.",
-    "37": "Excluding cards will increase the number of excluded cards.",
-    "38": "The number of excluded cards increases when cards are removed.",
-    "39": "Using cards and skills, acquire corresponding system counters.",
-    "40": "Using Vocal Preparation of the Vo system increased the Vo counter by 1.",
-    "41": "There are cards that grant effects to acquire system counters.",
-    "42": "Use Illusion VOICE with an additional effect of 'liberation'.",
-    "43": "Use 'liberated (consumed)' Vo counter to increase additional Appeal Points.",
-    "44": "Use Happiness Rhythm with a yellow effect indicating that the conditions are met.",
-    "45": "Use Combination Rhythm to search for cards.",
-    "46": "Use Enhanced Powerful Rhythm.",
-    "47": "Use the Searched Powerful Rhythm to increase the maximum hand size.",
-    "48": "Maximum hand size increased.",
-    "49": "Use Begin at the End to return excluded cards to the deck.",
-    "50": "Since cards have been returned to the deck, the number of excluded cards has decreased.",
-    "51": "Tap the Producer Card to confirm its effect.",
-    "52": "Producer Cards glowing green can be used.",
-    "53": "Current status of the displayed effect can be checked. Tap to display the effect explanation.",
-    "54": "Tap anywhere other than the icon to make the display disappear.",
-    "55": "Tap anywhere other than the icon to make the display disappear.",
-    "56": "End Tutorial",
-    "57": "End of Tutorial",
-    "58": "Start Tutorial",
-    "59": "First Time Producing",
-    "60": "Cancel",
-    "61": "Would you like to proceed with the production tutorial?"
-},
+    "mlProduce_TutorialText": {
+        "0": "How to Play",
+        "1": "You can conduct lessons while displaying tutorials. Would you like to display the tutorial?",
+        "2": "Swipe up to use Producer Cards.",
+        "3": "PP accumulates over time.",
+        "4": "Operate until the game is cleared.",
+        "5": "Swipe left to use Idol Skills.",
+        "6": "Use Refresh to restore Mental.",
+        "7": "Use Sparkle Sunshine to reduce the required PP for the next card.",
+        "8": "Use Twinkle☆Harmony to gain PP.",
+        "9": "Use consecutively the cards whose required PP has decreased.",
+        "10": "Use Visual Appeal Preparation to enhance the next card.",
+        "11": "Use Smile of Magical.",
+        "12": "When Me is below 30%, enter a pinch state.",
+        "13": "Use Melody of Burning Life to decrease Me.",
+        "14": "Use Resounding Melody of Immortality in a pinch state.",
+        "15": "Tutorial",
+        "16": "End tutorial display?",
+        "17": "Use Hidden in the Sea to increase evasion rate.",
+        "18": "Evasion probability is displayed at the top of the Mental Gauge.",
+        "19": "Use Singing Voice Harmonizing with the Sea, coordinated with evasion.",
+        "20": "Use Dancing with the Ripples, coordinated with evasion.",
+        "21": "Evasion buffs are activated in coordination with evasion.",
+        "22": "At 80% or more Me, enter a safe state and increase acquired Appeal Points.",
+        "23": "In a safe state, take 20% damage when acquiring Appeal Points.",
+        "24": "Use Sound of Tranquility in a safe state.",
+        "25": "At 100% Me, maintain a safe state once despite receiving demerits.",
+        "26": "Use Dancing with Happiness in a safe state.",
+        "27": "Recover Me after demerits to transition back to a safe state.",
+        "28": "Currently in Nichika Phase. Use Change to Sky to change to Mikoto Phase.",
+        "29": "Since it's now Mikoto Phase, the Double Cards have been changed to Mikoto.",
+        "30": "Use Change Rank-Up Boost with Straddle Go Up.",
+        "31": "Use Change to Sky to perform a phase change.",
+        "32": "Use double radiance after ranking up.",
+        "33": "Use Dilemma's Lie to exclude cards from your hand.",
+        "34": "The effect will activate when the last song is sung.",
+        "35": "Try excluding cards with Dilemma's Lie.",
+        "36": "The effect of the last song has been activated after exclusion.",
+        "37": "Excluding cards will increase the number of excluded cards.",
+        "38": "The number of excluded cards increases when cards are removed.",
+        "39": "Using cards and skills, acquire corresponding system counters.",
+        "40": "Using Vocal Preparation of the Vo system increased the Vo counter by 1.",
+        "41": "There are cards that grant effects to acquire system counters.",
+        "42": "Use Illusion VOICE with an additional effect of 'liberation'.",
+        "43": "Use 'liberated (consumed)' Vo counter to increase additional Appeal Points.",
+        "44": "Use Happiness Rhythm with a yellow effect indicating that the conditions are met.",
+        "45": "Use Combination Rhythm to search for cards.",
+        "46": "Use Enhanced Powerful Rhythm.",
+        "47": "Use the Searched Powerful Rhythm to increase the maximum hand size.",
+        "48": "Maximum hand size increased.",
+        "49": "Use Begin at the End to return excluded cards to the deck.",
+        "50": "Since cards have been returned to the deck, the number of excluded cards has decreased.",
+        "51": "Tap the Producer Card to confirm its effect.",
+        "52": "Producer Cards glowing green can be used.",
+        "53": "Current status of the displayed effect can be checked. Tap to display the effect explanation.",
+        "54": "Tap anywhere other than the icon to make the display disappear.",
+        "55": "Tap anywhere other than the icon to make the display disappear.",
+        "56": "End Tutorial",
+        "57": "End of Tutorial",
+        "58": "Start Tutorial",
+        "59": "First Time Producing",
+        "60": "Cancel",
+        "61": "Would you like to proceed with the production tutorial?"
+    },
     "mlProduce_UnUseAutoModeDescription": {
         "0": "The auto function cannot be used because the difficulty\nlevel of the selected episode has not been cleared."
     },
@@ -43842,6 +43885,8 @@
         "30": "・This product may be purchased up to one time.\n・Private can be worn in the story and on the home screen. It cannot be set as a Stage Costume and cannot be worn in a live performance.\n・If you already own any of the costumes, hairstyles or accessories included in this product, you will not be able to acquire those costumes, hairstyles or accessories.\n・【Costume 02】 Haruki Ikuta may be obtained at a later date at a different location. Please understand this in advance.\n・Sales period and contents are subject to change without notice.",
         "31": "・本商品は1回まで購入できます。\n・私服はストーリーやホーム画面にて着用することが可能です。\n　ステージ衣装として設定することはできず、ライブで着用することはできません。\n・本商品に含まれる衣装・髪型・アクセサリーをすでに所持していた場合、\n　その衣装・髪型・アクセサリーは獲得できません。\n・【Costume 02】 Kiriko Yukokuは、後日別の箇所で獲得できる場合があります。\n　予めご了承ください。\n・販売期間および内容は予告なく変更する場合がございます。",
         "32": "・本商品は1回まで購入できます。\n・私服はストーリーやホーム画面にて着用することが可能です。\n　ステージ衣装として設定することはできず、ライブで着用することはできません。\n・本商品に含まれる衣装・髪型・アクセサリーをすでに所持していた場合、\n　その衣装・髪型・アクセサリーは獲得できません。\n・【Costume 02】 Rinze Morinoは、後日別の箇所で獲得できる場合があります。\n　予めご了承ください。\n・販売期間および内容は予告なく変更する場合がございます。",
+        "33": "・本商品は1回まで購入できます。\n・私服はストーリーやホーム画面にて着用することが可能です。\n　ステージ衣装として設定することはできず、ライブで着用することはできません。\n・本商品に含まれる衣装・髪型・アクセサリーをすでに所持していた場合、\n　その衣装・髪型・アクセサリーは獲得できません。\n・【Costume 02】 Meguru Hachimiyaは、後日別の箇所で獲得できる場合があります。\n　予めご了承ください。\n・販売期間および内容は予告なく変更する場合がございます。",
+        "34": "・本商品は1回まで購入できます。\n・私服はストーリーやホーム画面にて着用することが可能です。\n　ステージ衣装として設定することはできず、ライブで着用することはできません。\n・本商品に含まれる衣装・髪型・アクセサリーをすでに所持していた場合、\n　その衣装・髪型・アクセサリーは獲得できません。\n・【Costume 02】 Amana Osakiは、後日別の箇所で獲得できる場合があります。\n　予めご了承ください。\n・販売期間および内容は予告なく変更する場合がございます。",
         "35": "・Even if you have purchased a Season Pass, you will not be able to receive the Premium Rewards for any Season Rank that you have not yet achieved.\n・Season Pass can be purchased until 23:59, 12/28/2023, but the Season Pass effect will last until 23:59, 12/31/2023.\n・The Season Pass effect will be inherited even if the model is changed to another OS.\n・The Season Pass effect is inherited when playing multi-session play with other devices.\n・Season Pass is not available for payment at shop from the time of purchase until the payment is completed.\n・Season Pass cannot be returned or exchanged at any time.",
         "36": "・Even if you have purchased a Season Pass, you will not be able to receive the Premium Rewards for any Season Rank that you have not yet achieved.\n・Season Pass can be purchased until 23:59, 01/28/2024, but the Season Pass effect will last until 23:59, 31/01/2024.\n・The Season Pass effect will be inherited even if the model is changed to another OS.\n・The Season Pass effect is inherited when playing multi-session play with other devices.\n・Season Pass is not available for payment at shop from the time of purchase until the payment is completed.\n・Season Pass cannot be returned or exchanged at any time.\n・Sales period and contents are subject to change without notice.",
         "37": "・This product may be purchased up to one time.\n・If you already own any of the costumes, hairstyles or accessories included in this product, you will not be able to acquire those costumes, hairstyles or accessories.\n・【Costume 02】 Fuyuko Mayuzumi may be obtained at a later date at a different location. Please understand this in advance.",
@@ -43885,6 +43930,8 @@
         "30": "Haruki Ikuta's Costume set [【Costume 02】 Haruki Ikuta],\n1 Platinum P-idol gacha ticket and 1 Platinum S Character Gacha ticket product.",
         "31": "Kiriko Yukoku's Costume set [【Costume 02】 Kiriko Yukoku]と、\nプラチナP-idol ガシャチケット1枚、プラチナSキャラガシャチケット1枚が入った\n商品です。",
         "32": "Rinze Morino's Costume set [【Costume 02】 Rinze Morino]と、\nプラチナP-idol ガシャチケット1枚、プラチナSキャラガシャチケット1枚が入った\n商品です。",
+        "33": "Meguru Hachimiyaの衣装セット「【Costume 02】 Meguru Hachimiya」と、\nプラチナPアイドルガシャチケット1枚、プラチナSキャラガシャチケット1枚が入った\n商品です。",
+        "34": "Amana Osakiの衣装セット「【Costume 02】 Amana Osaki」と、\nプラチナPアイドルガシャチケット1枚、プラチナSキャラガシャチケット1枚が入った\n商品です。",
         "35": "Season 2[An ordinary winter afternoon] Premium rewards will be released for the rewards of playing the game.\nSeason 2 premium rewards for levels already achieved can be purchased at any time during the Season Mission playable period.",
         "36": "Season 3[On the Mystery to Unravel] Premium rewards will be released for the rewards of playing the game.\nSeason 3 premium rewards for levels already achieved can be purchased at any time during the Season Mission playable period.",
         "37": "Fuyuko Mayuzumi's Costume set [【Costume 02】 Fuyuko Mayuzumi],\n1 Platinum P-idol gacha ticket and 1 Platinum S Character Gacha ticket product.",
@@ -43928,6 +43975,8 @@
         "30": "【Costume 02】 Haruki Ikuta",
         "31": "【Costume 02】 Kiriko Yukoku",
         "32": "【Costume 02】 Rinze Morino",
+        "33": "【Costume 02】 Meguru Hachimiya",
+        "34": "【Costume 02】 Amana Osaki",
         "35": "Season Pass：Season 2[An ordinary winter afternoon]",
         "36": "Season Pass：Season 3[On the Mystery to Unravel]",
         "37": "【Costume 02】 Fuyuko Mayuzumi",
@@ -44120,6 +44169,7 @@
         "13": "0",
         "14": "0",
         "15": "-1",
+        "16": "-1",
         "32": "1",
         "33": "1",
         "34": "2",
@@ -44150,6 +44200,7 @@
         "13": "Idol Birthday① 3/4 Hiori",
         "14": "Idol Birthday① 3/17 Hinana",
         "15": "Idol Birthday① 4/5 Haruki",
+        "16": "アイドル誕生日① 4/18 千雪",
         "32": "Producer Birthday①",
         "33": "Livestream Introduction Story①",
         "34": "Livestream Introduction Story➁",
@@ -44234,7 +44285,8 @@
         "66": "3",
         "67": "3",
         "68": "3",
-        "69": "3"
+        "69": "3",
+        "70": "3"
     },
     "mlStory_IdolStoryTitle": {
         "1": "Mano/ 1",
@@ -44305,7 +44357,8 @@
         "66": "Chiyoko/ 3",
         "67": "Juri/ 3",
         "68": "Rinze/ 3",
-        "69": "Natsuha/ 3"
+        "69": "Natsuha/ 3",
+        "70": "甘奈/3話"
     },
     "mlStory_Lock": {
         "1": "【Unlock Condition】 ",
@@ -44363,7 +44416,8 @@
         "26": "4",
         "27": "4",
         "28": "4",
-        "29": "4"
+        "29": "4",
+        "30": "4"
     },
     "mlStory_MainStoryTitle": {
         "1": "Illumine Main Story 1",
@@ -44394,7 +44448,8 @@
         "26": "L'antica Main Story 4",
         "27": "Houkura Main Story 4",
         "28": "Alstro Main Story 4",
-        "29": "Stray Main Story 4"
+        "29": "Stray Main Story 4",
+        "30": "ノクチルメインストーリー4話"
     },
     "mlStory_Novel": {
         "1": "Novel"
@@ -57719,6 +57774,7 @@
         "900548": "Producer! You're busy at the end of the year, right? I'll help with anything you need!",
         "900549": "Hehe, getting congratulations from you, Producer, makes me super happy!",
         "900550": "Today's a really happy day! Because I get to say congratulations to Tenka-chan☆",
+        "900551": "I made a cake\nwith Tenka-chan☆\nHehe, I hope she'll be happy.",
         "900552": "Happy birthday! I hope you have a wonderful day!",
         "900553": "──Ah... Good morning... Producer... ...Guess I'll... go back to sleep...",
         "900554": "Producer... If you get sleepy... let me know, okay...? I have a blanket...!",
@@ -57748,6 +57804,7 @@
         "900586": "Producer...! Once work's done, Tenka will... laze around so much...!!",
         "900587": "Tenka leveled up...! Hehe... Let's keep leveling up together from now on...!",
         "900588": "At the moment the date changed... I said 'Congratulations!' in unison with Nachi-chan...!",
+        "900589": "Hehe...\nToday, I'm going to celebrate\nChiyuki-san a lot...!",
         "900590": "Happy birthday, Producer...! Let's have some cake to celebrate...!",
         "900591": "Good morning. Let's do our best today too, okay, Producer-san♪",
         "900592": "Hehe, good work. How about a tea time once we're done with this?",
@@ -57775,6 +57832,7 @@
         "900618": "Hehe, I'm happy. It seems I was looking forward to it... Thank you for the return gift.",
         "900621": "Chirashi sushi, clam soup, and rice cakes... Hehe... The party preparations are all set♪",
         "900624": "It seems the year-end special programs will be broadcasted locally too... My family is looking forward to it♪",
+        "900625": "特別な日を、大切な人たちと\n一緒に過ごせて……\nとっても幸せです、私",
         "900626": "Naa-chan's and Tenka-chan's birthdays... are very special days for me too.",
         "900627": "I bought two kinds of cake for the celebration. Today, let's not hold back~♪",
         "900628": "Happy birthday! I'll do my best so we can continue to smile together!",
@@ -58140,6 +58198,8 @@
         "1000020": "Huh... clothes?\nIf I like something, I'll buy it.\nBrand doesn't matter.",
         "1000021": "Today, we meet again...\nRinze feels... warm...",
         "1000022": "I iron my blouses myself...\nHehe... they come out...\nall crisp...",
+        "1000023": "Producer-san!\nHow was Amana today?",
+        "1000024": "Producer, are you busy?\nIf... if you have time,\nI'd like to chat!",
         "1100001": "These feathers give me courage.",
         "1100002": "When you hear chirping... let's sing!",
         "1100003": "The design of this costume, the lace on the right arm, is so cute...",
@@ -58530,16 +58590,16 @@
         "1100388": "...Full of glitter...",
         "1100389": "...Wow, it's so beautiful...",
         "1100390": "...This stage, with everyone...",
-        "1100391": "新しい、ステージ……っ",
-        "1100392": "色とりどりの光を……っ",
-        "1100393": "一緒にやろうよ！　いいことづくめじゃない！？",
-        "1100394": "時間の確認は大事だね！",
-        "1100395": "今時間ある？　ちょっとお話しようよ！",
-        "1100396": "攻め時はちゃんと見極めないとね！",
-        "1100397": "みんなの力を合わせていくよー！",
-        "1100398": "何だか眩しいなー……！",
-        "1100399": "えへへ、夢みたい……！",
-        "1100400": "きらきらのぴかぴかだー……！",
+        "1100391": "A new stage...!",
+        "1100392": "With colorful lights...!",
+        "1100393": "Let's do it together! Isn't it wonderful!?",
+        "1100394": "Checking the time is important!",
+        "1100395": "Do you have time now? Let's chat for a bit!",
+        "1100396": "We need to assess the right time to attack!",
+        "1100397": "Let's combine everyone's power!",
+        "1100398": "It's kind of dazzling...!",
+        "1100399": "Hehe, it feels like a dream...!",
+        "1100400": "Sparkling and shining bright...!",
         "1100401": "I'll do my best too!",
         "1100402": "Nfufu~, what's up?",
         "1100403": "I'm going to become an even greater idol!",
@@ -59139,6 +59199,7 @@
         "1100997": "Did I make it Christmas-like enough?",
         "1100998": "I hope I can capture everyone's hearts",
         "1100999": "Let's make it fun together~",
+        "1101000": "みんなで楽しんでこーっ",
         "1101001": "Do I look more mature?",
         "1101002": "Hehe... Are you aware?",
         "1101003": "Please tell me what you think, Producer.",
