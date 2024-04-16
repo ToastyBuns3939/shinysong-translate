@@ -55,9 +55,12 @@ No maintainer nor contributor will be responsible for any issues encountered as 
 # Setting up / Getting started
 
 ## Requirements (get these first!)
-1.   A PC [DMM] version of *IDOLMASTER SHINY COLORS: Song For Prism*
+1.   A PC [DMM] version of *IDOLMASTER SHINY COLORS: Song For Prism*<br />
+     [Here's](https://japancodesupply.com/pages/how-to-create-a-japanese-dmm-com-account) a guide to creating a japanese DMM account.
+     
 2.   A latest copy of **version.dll** from [scsp-localify]. <br />
      [Here's an english guide made by the creator themselves if you need a more in-depth details](https://github.com/chinosk6/scsp-localify/blob/main/readme_EN.md)
+
 3.   The latest version of the **scsp_localify** folder and the **scsp-config.json** file from this github repository
 
 ## Install
