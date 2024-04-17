@@ -83,6 +83,8 @@ No maintainer nor contributor will be responsible for any issues encountered as 
 
 4. Your translation patch should be updated once it's done.
 
+**Update your translation patch periodically to keep the translation files up-to-date.**
+
 
 # Special Thanks to
 [scsp-localify]  <br />
