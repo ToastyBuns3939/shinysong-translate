@@ -72,7 +72,14 @@ No maintainer nor contributor will be responsible for any issues encountered as 
 <img align="center" src=/Images/example.png>
 
 
-3. The game should be patched now. Keep the translation files updated by periodically downloading the **scsp_localify** folder from this github repository
+3. The game should be patched now.
+
+## Update
+1. Download [update.bat](Update.bat) file into your computer and save it anywhere you want.
+
+2. Double-click the app and let the thing do it's job.
+
+3. Your translation patch should be updated once it's done.
 
 
 # Special Thanks to
