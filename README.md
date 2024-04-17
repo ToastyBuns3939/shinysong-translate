@@ -86,10 +86,12 @@ No maintainer nor contributor will be responsible for any issues encountered as 
 
 # Special Thanks to
 [scsp-localify]  <br />
+[Shiny Colors Wiki]  <br />
 [Project Imas Wiki]  <br />
 [Shiny Colors ENG Patch project] <br />
 
 [Project Imas Wiki]: https://project-imas.wiki/
+[Shiny Colors Wiki]: https://shinycolors.wiki/
 [scsp-localify]: https://github.com/chinosk6/scsp-localify/releases
 [Shiny Colors ENG Patch project]: https://github.com/snowyivu/ShinyColors
 [DMM]: https://dmg-shinycolors-song-for-prism.idolmaster-official.jp/
