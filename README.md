@@ -77,9 +77,11 @@ No maintainer nor contributor will be responsible for any issues encountered as 
 ## Update
 1. Download [update.bat](Update.bat) file into your computer and save it anywhere you want.
 
-2. Double-click the app and let the thing do it's job.
+2. Change the "target_dir=C:\Users\%USERNAME%\SONGforPRISM" line in the app if you have the game installed somewhere else. But it should be fine to leave as is if you got the game installed in the regular directory.
 
-3. Your translation patch should be updated once it's done.
+3. Double-click the app and let the thing do it's job. 
+
+4. Your translation patch should be updated once it's done.
 
 
 # Special Thanks to
