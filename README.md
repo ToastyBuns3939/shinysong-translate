@@ -52,7 +52,7 @@ No maintainer nor contributor will be responsible for any issues encountered as 
 
 ---
 
-# Setting up / Getting started
+## Setting up / Getting started
 
 ## Requirements (get these first!)
 1.   A PC [DMM] version of *IDOLMASTER SHINY COLORS: Song For Prism*<br />
