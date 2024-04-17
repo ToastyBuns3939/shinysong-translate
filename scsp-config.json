@@ -3,7 +3,7 @@
     "enableVSync": true,
     "maxFps": 60,
     "localifyBasePath": "scsp_localify",
-    "hotKey": "u",
+    "hotKey": "",
     "dumpUntransLyrics": false,
     "dumpUntransLocal2": false,
     "autoDumpAllJson": false,
