@@ -14,7 +14,7 @@ This is based on the [DMM] version of the game and *should* work on linux and ma
 
 <div align="center">
 
-# Romaji Lyrics Video Preview
+# English Lyrics Video Preview
    
 [![TEST](https://img.youtube.com/vi/ncYDIzfnt4Y/0.jpg)](https://www.youtube.com/watch?v=ncYDIzfnt4Y)
 </div>
