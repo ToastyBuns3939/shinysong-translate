@@ -28,7 +28,8 @@ Supports translating:
 - Home interactions (Office characters)
 - Special Events (ie birthdays, april fools, etc)
 
-Work in progress features:
+Persistently Work in progress features:
+- Produce Episode Stories
 - Main & Event Stories
 - Produce Card Stories
 - Support Card Stories
@@ -42,6 +43,7 @@ Assets are edited only for the purpose of translation and it is *the maintainer'
 Nonetheless such edits are of course against the relevant TOS so **proceed at your own risk**!  
 No maintainer nor contributor will be responsible for any issues encountered as a result of use.
 
+---
 
 ### Progress
 
@@ -74,6 +76,8 @@ No maintainer nor contributor will be responsible for any issues encountered as 
 
 3. The game should be patched now.
 
+---
+
 ## Update
 1. Download [**update.bat**](Update.bat) file into your computer and save it anywhere you want.
 
@@ -85,6 +89,7 @@ No maintainer nor contributor will be responsible for any issues encountered as 
 
 **Update your translation patch periodically to keep the translation files up-to-date.**
 
+---
 
 # Special Thanks to
 [scsp-localify]  <br />
