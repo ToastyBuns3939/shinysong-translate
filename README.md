@@ -28,7 +28,7 @@ Supports translating:
 - Home interactions (Office characters)
 - Special Events (ie birthdays, april fools, etc)
 
-Persistently Work in progress features:
+Perpetually Work in progress features:
 - Produce Episode Stories
 - Main & Event Stories
 - Produce Card Stories
@@ -36,6 +36,8 @@ Persistently Work in progress features:
 - Event Stories
 
 <b>Questions, Feedback, or want to Help with Translations?：[Join the Discord](https://discord.gg/qjrK3hu9Vy)</b>
+
+# Features
 
 # Disclaimer
 ShinySongTL is not affiliated with Bandai Namco and is purely a fan-community effort.  
