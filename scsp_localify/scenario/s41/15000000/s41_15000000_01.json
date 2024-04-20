@@ -1,6 +1,6 @@
 [{"key":"SCENARIO_s41_15000000_01_0000","text":"Motion"},
 {"key":"SCENARIO_s41_15000000_01_0010","text":"──A-Auu............"},
-{"key":"SCENARIO_s41_15000000_01_0020","text":"Tenka...... really is...... a failure......"},
+{"key":"SCENARIO_s41_15000000_01_0020","text":"Tenka......\nreally is...... a failure......"},
 {"key":"SCENARIO_s41_15000000_01_0030","text":"............"},
 {"key":"SCENARIO_s41_15000000_01_0040","text":"That\u0027s not true...!\nYou were really working hard at today\u0027s recording."},
 {"key":"SCENARIO_s41_15000000_01_0050","text":"B-But......\nTenka...... screwed up... her role in the drama......"},
@@ -15,7 +15,7 @@
 {"key":"SCENARIO_s41_15000000_01_0130","text":"This is the first time you\u0027ve done work in a drama.\nOf course you\u0027re going to screw up sometimes."},
 {"key":"SCENARIO_s41_15000000_01_0140","text":"Besides, you\u0027re────"},
 {"key":"SCENARIO_s41_15000000_01_0150","text":"──Oh, i\u0027m getting a call......"},
-{"key":"SCENARIO_s41_15000000_01_0160","text":"Sorry Tenka, just give me a second."},
+{"key":"SCENARIO_s41_15000000_01_0160","text":"Sorry Tenka,\njust give me a second."},
 {"key":"SCENARIO_s41_15000000_01_0170","text":"S-Sure......"},
 {"key":"SCENARIO_s41_15000000_01_0171","text":"Motion"},
 {"key":"SCENARIO_s41_15000000_01_0180","text":"──Tenka!\nGood news...! Congratulations!!"},
@@ -39,5 +39,5 @@
 {"key":"SCENARIO_s41_15000000_01_0360","text":"That\u0027s how I feel, as someone who\u0027s been keeping an\neye on you while you\u0027ve been here."},
 {"key":"SCENARIO_s41_15000000_01_0370","text":"......So, I want you to have a bit more self-confidence.\nYou\u0027ll be able to do it even better next time."},
 {"key":"SCENARIO_s41_15000000_01_0380","text":"............\n...Y-You think so.......?"},
-{"key":"SCENARIO_s41_15000000_01_0390","text":"Well... if you\u0027re going to say all of that......"},
+{"key":"SCENARIO_s41_15000000_01_0390","text":"Well...\nif you\u0027re going to say all of that......"},
 {"key":"SCENARIO_s41_15000000_01_0400","text":"Tenka\u0027s gonna... try working even harder... at the\nnext one......!"}]

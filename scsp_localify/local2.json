@@ -280,6 +280,7 @@
     "<size=32><sprite=3><color=#ff3300>使用期限が近いガシャチケットから自動で使用されます。</color>": "<size=32><sprite=3><color=#ff3300>Tickets with approaching expiration dates will be used.</color>",
     "試着確認": "Try-On",
     "チケット": "Ticket",
+    "未入力": "Not yet entered",
     "ストーリー種別": "Story Type",
     "ストーリー実装": "Story Implementation",
     "お気に入り登録": "Add a favorite",
