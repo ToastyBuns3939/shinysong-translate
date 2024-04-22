@@ -28,7 +28,7 @@ Supports translating:
 - Home interactions (Office characters)
 - Special Events (ie birthdays, april fools, etc)
 
-Perpetually Work in progress features:
+Perpetually work in progress features:
 - Produce Episode Stories
 - Main & Event Stories
 - Produce Card Stories
@@ -83,7 +83,7 @@ No maintainer nor contributor will be responsible for any issues encountered as 
 ## Update
 1. Download [**update.bat**](Update.bat) file into your computer and save it anywhere you want.
 
-2. Change the **"target_dir=C:\Users\%USERNAME%\SONGforPRISM"** line in the app if you have the game installed somewhere else. But it should be fine to leave as is if you got the game installed in the regular directory.
+2. Change the **"target_dir=C:\Users\%USERNAME%\SONGforPRISM"** line in the .bat file if you have the game installed somewhere else in your computer. But it should be fine to leave as is if you got the game installed in the regular directory.
 
 3. Double-click the app and let the thing do it's job. 
 
