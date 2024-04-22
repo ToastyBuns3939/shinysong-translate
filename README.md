@@ -52,13 +52,15 @@ No maintainer nor contributor will be responsible for any issues encountered as 
 [Translation progress can be seen here](https://docs.google.com/spreadsheets/d/1-9RUhuyvV8UxiJggC0Y_s_hqDpIk2k6ZXCI7Rc2SmIw/edit?usp=sharing)
 [![Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRC0Ive8sQsOLnDSGu1LSX_w_1q3utZiMgbW77yCB5HMohw9BiwLIahrMPhp49gdZe51-R5U5AAkUwq/pubchart?oid=847311911&format=image)](https://docs.google.com/spreadsheets/d/1-9RUhuyvV8UxiJggC0Y_s_hqDpIk2k6ZXCI7Rc2SmIw/edit?usp=sharing)
 
-## Patch Install Instructions Below  
+<p align="center"> Progress percentage will fluctuate as the game gets updated* </p><br />
+
+# Patch Install Instructions Below  
 
 ---
 
 ## Setting up / Getting started
 
-## Requirements (get these first!)
+### Requirements (get these first!)
 1.   A PC [DMM] version of *IDOLMASTER SHINY COLORS: Song For Prism*<br />
      [Here's](https://japancodesupply.com/pages/how-to-create-a-japanese-dmm-com-account) a guide to creating a japanese DMM account.
      
@@ -67,7 +69,7 @@ No maintainer nor contributor will be responsible for any issues encountered as 
 
 3.   The latest version of the **scsp_localify** folder and the **scsp-config.json** file from this github repository
 
-## Install
+### Install
 1. Copy the **version.dll** file to your song for prism instalation folder which should be at:
 **C:\Users\YOUR_NAME\SONGforPRISM**
 
@@ -80,7 +82,7 @@ No maintainer nor contributor will be responsible for any issues encountered as 
 
 ---
 
-## Update
+### Update
 1. Download [**update.bat**](Update.bat) file into your computer and save it anywhere you want.
 
 2. Change the **"target_dir=C:\Users\%USERNAME%\SONGforPRISM"** line in the .bat file if you have the game installed somewhere else in your computer. But it should be fine to leave as is if you got the game installed in the regular directory.
