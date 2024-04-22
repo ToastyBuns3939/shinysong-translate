@@ -14,8 +14,9 @@
 {"key":"SCENARIO_s41_01000000_03_0291","text":"Motion"},
 {"key":"SCENARIO_s41_01000000_03_0292","text":"Motion"},
 {"key":"SCENARIO_s41_01000000_03_0371","text":"Motion"},
+{"key":"SCENARIO_s41_01000000_03_0401","text":"Motion"},
 {"key":"SCENARIO_s41_01000000_03_0010","text":"Mano-chan, you got it right~!"},
-{"key":"SCENARIO_s41_01000000_03_0020","text":"The elusive cheesecake that\u0027s fully booked six months\nahead! It\u0027s Mano-chan\u0027s souvenir~!"},
+{"key":"SCENARIO_s41_01000000_03_0020","text":"The elusive cheesecake that\u0027s fully booked six months\nahead! It\u0027s Mano-chan\u0027s grand prize~!"},
 {"key":"SCENARIO_s41_01000000_03_0030","text":"……"},
 {"key":"SCENARIO_s41_01000000_03_0040","text":"……"},
 {"key":"SCENARIO_s41_01000000_03_0050","text":"……Hehe"},
@@ -53,5 +54,4 @@
 {"key":"SCENARIO_s41_01000000_03_0370","text":"If it\u0027s okay...\nwe were planning on having tea together, so..."},
 {"key":"SCENARIO_s41_01000000_03_0380","text":"If you\u0027re not busy with work or anything..."},
 {"key":"SCENARIO_s41_01000000_03_0390","text":"...! Haha, I see...!\nMy bad..."},
-{"key":"SCENARIO_s41_01000000_03_0400","text":"...Thank you.\nIn that case, I\u0027ll take you up on that offer and join you."},
-{"key":"SCENARIO_s41_01000000_03_0401","text":"Motion"}]
+{"key":"SCENARIO_s41_01000000_03_0400","text":"...Thank you.\nIn that case, I\u0027ll take you up on that offer and join you."}]
