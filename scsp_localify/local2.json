@@ -970,6 +970,9 @@
     "無償":"Free",
     "私服":"Private",
     "推奨系統": "Recommended",
+    "ステージ衣装が解放されました。": "Stage costumes were unlocked.",
+    "衣装セット名": "Costume Set Name",
+    "解放済み": "Unlocked",
     "アイテム所持数": "Owned",
     "交換上限": "Limit"
 }
