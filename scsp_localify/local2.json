@@ -969,5 +969,7 @@
     "有償":"Paid",
     "無償":"Free",
     "私服":"Private",
-    "推奨系統": "Recommended"
+    "推奨系統": "Recommended",
+    "アイテム所持数": "Owned",
+    "交換上限": "Limit"
 }
