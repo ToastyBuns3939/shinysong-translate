@@ -1,5 +1,6 @@
 [{"key":"SCENARIO_s10_10500200_01_0001","text":"Motion"},
 {"key":"SCENARIO_s10_10500200_01_0002","text":"Motion"},
+{"key":"SCENARIO_s10_10500200_01_0101","text":"Motion"},
 {"key":"SCENARIO_s10_10500200_01_0010","text":"When a new costume get finished, you get that \u0022Finally, it\u0027s done!\u0022\nfeeling, don\u0027t you? How about it? Are you excited?"},
 {"key":"SCENARIO_s10_10500200_01_0020","text":"Hmm\nA reasonable amount."},
 {"key":"SCENARIO_s10_10500200_01_0030","text":"A reasonable amount, huh...\n...I always wonder, do you ever get nervous, Mamimi?"},
@@ -9,5 +10,4 @@
 {"key":"SCENARIO_s10_10500200_01_0070","text":"Hmm...\nI wonder..."},
 {"key":"SCENARIO_s10_10500200_01_0080","text":"There\u0027s a pretty wide spread belief\nthat a little bit of nervousness will help you perform better."},
 {"key":"SCENARIO_s10_10500200_01_0090","text":"Ah... Now that you mention it,\nI think I do get nervous sometimes."},
-{"key":"SCENARIO_s10_10500200_01_0100","text":"R-Really now?"},
-{"key":"SCENARIO_s10_10500200_01_0101","text":"Motion"}]
+{"key":"SCENARIO_s10_10500200_01_0100","text":"R-Really now?"}]

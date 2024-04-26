@@ -1,7 +1,8 @@
-[{"key":"SCENARIO_s42_01080100_03_0010","text":"That\u0027ll do it for Ikuta-san\u0027s song recording!\nGood work today!"},
-{"key":"SCENARIO_s42_01080100_03_0020","text":"Thank you very much...!"},
-{"key":"SCENARIO_s42_01080100_03_0000","text":"Motion"},
+[{"key":"SCENARIO_s42_01080100_03_0000","text":"Motion"},
 {"key":"SCENARIO_s42_01080100_03_0001","text":"Motion"},
+{"key":"SCENARIO_s42_01080100_03_0002","text":"Motion"},
+{"key":"SCENARIO_s42_01080100_03_0010","text":"That\u0027ll do it for Ikuta-san\u0027s song recording!\nGood work today!"},
+{"key":"SCENARIO_s42_01080100_03_0020","text":"Thank you very much...!"},
 {"key":"SCENARIO_s42_01080100_03_0030","text":"Haruki-chan\u0027s singing\nis really full of emotions, isn\u0027t it──!"},
 {"key":"SCENARIO_s42_01080100_03_0040","text":"Eh...! Really～?\nI\u0027m so happy...."},
 {"key":"SCENARIO_s42_01080100_03_0050","text":"I do think about a lot a things while singing I guess."},
@@ -18,6 +19,5 @@
 {"key":"SCENARIO_s42_01080100_03_0160","text":"It\u0027s not only about our connections to people or environments \nbut also about the saying farewell to your past self..."},
 {"key":"SCENARIO_s42_01080100_03_0170","text":"But you know, it doesn\u0027t always have to be a sad thing.\nI think that there are also good things that come from separations."},
 {"key":"SCENARIO_s42_01080100_03_0180","text":"I want to collect all of those thoughts into a boquet that I send \nthrough this song... Not matter what partings may be to come."},
-{"key":"SCENARIO_s42_01080100_03_0002","text":"Motion"},
 {"key":"SCENARIO_s42_01080100_03_0190","text":"Fufu,\nI guess that\u0027s what I was thinking...!"},
 {"key":"SCENARIO_s42_01080100_03_0200","text":"...Ehh"}]
