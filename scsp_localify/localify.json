@@ -2836,7 +2836,7 @@
         "0": "(Off-Time) {0}",
         "1": "(Advice) {0}",
         "2": "({1}) Recommendation from {0}",
-        "3": "Support events {0}"
+        "3": "Support event : {0}"
     },
     "mlADV_Recommended": {
         "1": "Vo Lesson",
