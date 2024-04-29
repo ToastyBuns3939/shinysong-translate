@@ -26,14 +26,13 @@ Supports translating:
 - Most of the UI
 - Skills, names, missions, and other such "dynamic" texts.
 - Home interactions (Office characters)
-- Special Events (ie birthdays, april fools, etc)
-
-Perpetually work in progress features:
 - Produce Episode Stories
 - Main & Event Stories
 - Produce Card Stories
 - Support Card Stories
 - Event Stories
+- Special Events (ie birthdays, april fools, etc)
+
 
 # To-do
 - Finish translating remaining commus
