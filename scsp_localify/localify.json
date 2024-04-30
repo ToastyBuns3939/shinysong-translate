@@ -16520,7 +16520,7 @@
         "40004": "Release Commemoration P-idol Selection Tickets",
         "40005": "【Rock n' Gooood】 Toru Asakura",
         "40006": "【An ordinary winter afternoon】 Haruki Ikuta",
-        "40007": "【解き明かす謎について】 Hiori Kazano",
+        "40007": "【Mystery to be Unraveled】 Hiori Kazano",
         "70001": "Rainbow Rocks",
         "70002": "Platinum P-idol gacha ticket",
         "70003": "Platinum S Character Gacha Ticket",
@@ -17420,34 +17420,34 @@
         "0": "Another's costume Pickup Gasha Part2"
     },
     "mlGasha_2024-04-27-anime4-stepup-p-1": {
-        "0": "Anime4話放映記念ステップアップP-idol ガシャ ステップ1"
+        "0": "Step-up P-idol gasha commemorating the airing of Anime Episode 4: Step 1"
     },
     "mlGasha_2024-04-27-anime4-stepup-p-2": {
-        "0": "Anime4話放映記念ステップアップP-idol ガシャ ステップ2"
+        "0": "Step-up P-idol gasha commemorating the airing of Anime Episode 4: Step 2"
     },
     "mlGasha_2024-04-27-anime4-stepup-p-3": {
-        "0": "Anime4話放映記念ステップアップP-idol ガシャ ステップ3"
+        "0": "Step-up P-idol gasha commemorating the airing of Anime Episode 4: Step 3"
     },
     "mlGasha_2024-04-30-half-anniversary-celebration-s": {
         "0": "Half Anniversary Celebration! 10 free Platinum S Character Gashas per day!"
     },
     "mlGasha_2024-04-30-pickup-p": {
-        "0": "祝福の空へご招待"
+        "0": "Invitation to the Blessed Sky"
     },
     "mlGasha_2024-04-30-pickup-s": {
         "0": "for shining stage"
     },
     "mlGasha_2024-04-30-platina-p": {
-        "0": "プラチナP-idol ガシャ"
+        "0": "Platinum P-idol Gasha"
     },
     "mlGasha_2024-04-30-platina-p-rare3": {
-        "0": "★3確定プラチナP-idol ガシャ"
+        "0": "Platinum P-idol gasha with fixed 3★"
     },
     "mlGasha_2024-04-30-platina-s": {
-        "0": "プラチナSキャラガシャ"
+        "0": "Platinum S Character Gasha"
     },
     "mlGasha_2024-04-30-platina-s-rare3": {
-        "0": "SSR確定プラチナSキャラガシャ"
+        "0": "Platinum S Character Gasha with confirmed SSR"
     },
     "mlGasha_2024-05-04-anime5-stepup-p-1": {
         "0": "Step-up P-idol gasha commemorating the airing of Anime Episode 5: Step 1"
@@ -20632,7 +20632,7 @@
         "226001": "【voc-ation】 Luca Ikaruga's item used for master training.",
         "227001": "【Lesson²】 Hana Suzuki's item used for master training.",
         "228001": "【Today's Must-Buy】 Haruki Ikuta's item used for master training.",
-        "290001": "【Have A Good Day】 Hazuki Nanakusaのマスタートレーニングに使用するアイテム。",
+        "290001": "【Have A Good Day】 Hazuki Nanakusa's item used for master training.",
         "301001": "【Happiness Loop】 Mano Sakuragi's item used for master training.",
         "301002": "【As much or as little as you like】 Mano Sakuragi's item used for master training.",
         "302001": "【Smash Off】 Hiori Kazano's item used for master training.",
@@ -20676,15 +20676,15 @@
         "323001": "【Splendidly handsome】 Hinana Ichikawa's item used for master training.",
         "324001": "【Hand to hand】 Nichika Nanakusa's item used for master training.",
         "325001": "【Backstage】 Mikoto Aketa's item used for master training.",
-        "325002": "【Sound Echoing Across Wires】 Mikoto Aketaのマスタートレーニングに使用するアイテム。",
+        "325002": "【Sound Echoing Across Wires】 Mikoto Aketa's item used for master training.",
         "325003": "【Unnoticed Winter】 Mikoto Aketa's item used for master training.",
         "326001": "【In one page】 Luca Ikaruga's item used for master training.",
-        "326002": "【Don't look, baby】 Luca Ikarugaのマスタートレーニングに使用するアイテム。",
+        "326002": "【Don't look, baby】 Luca Ikaruga's item used for master training.",
         "327001": "【1st heart】 Hana Suzuki's item used for master training.",
         "328002": "【An ordinary winter afternoon】 Haruki Ikuta's item used for master training.",
         "328003": "【Peach sweetness dances in Jutte】 Haruki Ikuta's item used for master training.",
         "390001": "【Today's snack】 Hazuki Nanakusa's item used for master training.",
-        "390002": "【YOU ARE (HERO)】 Hazuki Nanakusaのマスタートレーニングに使用するアイテム。"
+        "390002": "【YOU ARE (HERO)】 Hazuki Nanakusa's item used for master training."
     },
     "mlItem_ItemDesc016": {
         "8": "An item used for Idol Skill LvUp of Produce Idol.",
