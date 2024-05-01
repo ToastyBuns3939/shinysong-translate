@@ -31,7 +31,7 @@ Supports translating:
 - Produce Card Stories
 - Support Card Stories
 - Event Stories
-- Special Events (ie birthdays, april fools, etc)
+- Special Events (ie birthdays, anniversaries, april fools, etc)
 
 
 # To-do
