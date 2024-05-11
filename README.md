@@ -40,7 +40,6 @@ Supports translating:
 
 <b>Questions, Feedback, or want to Help with Translations?：[Join the Discord](https://discord.gg/qjrK3hu9Vy)</b>
 
-# Features
 
 # Disclaimer
 ShinySongTL is not affiliated with Bandai Namco and is purely a fan-community effort.  
@@ -50,7 +49,7 @@ No maintainer nor contributor will be responsible for any issues encountered as 
 
 ---
 
-### Progress
+# Progress
 
 [A more detailed translation progress can be seen here](https://docs.google.com/spreadsheets/d/1-9RUhuyvV8UxiJggC0Y_s_hqDpIk2k6ZXCI7Rc2SmIw/edit?usp=sharing)
 [![Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRC0Ive8sQsOLnDSGu1LSX_w_1q3utZiMgbW77yCB5HMohw9BiwLIahrMPhp49gdZe51-R5U5AAkUwq/pubchart?oid=847311911&format=image)](https://docs.google.com/spreadsheets/d/1-9RUhuyvV8UxiJggC0Y_s_hqDpIk2k6ZXCI7Rc2SmIw/edit?usp=sharing)
