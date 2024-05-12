@@ -37,6 +37,7 @@ Supports translating:
 # To-do
 - Finish translating remaining commus
 - Re-do translations of produce card descriptions
+- Translate Image files
 
 <b>Questions, Feedback, or want to Help with Translations?：[Join the Discord](https://discord.gg/qjrK3hu9Vy)</b>
 
