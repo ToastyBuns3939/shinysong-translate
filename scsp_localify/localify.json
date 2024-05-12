@@ -12229,7 +12229,7 @@
         "9": "Event",
         "10": "Maintenance",
         "11": "Birthday",
-        "12": "SHHis Mission",
+        "12": "Season Mission",
         "13": "OurSTREAM"
     },
     "mlAnnounce_IdEmpty": {
@@ -46007,7 +46007,7 @@
         "9": "Event",
         "10": "Maintenance",
         "11": "Birthday",
-        "12": "SHHis Mission",
+        "12": "Season Mission",
         "13": "OurSTREAM"
     },
     "mlPublicText_announcePU": {
