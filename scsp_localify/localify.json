@@ -25561,7 +25561,7 @@
         "1": "You cannot save or apply Favorites while in try-on mode."
     },
     "mlLiveCostumeChange_SceneTitle": {
-        "0": "stage costume",
+        "0": "Stage Costume",
         "1": "Private"
     },
     "mlLiveEvent_EventBonus": {
@@ -58694,7 +58694,7 @@
     },
     "mlUICharacter_CostumePU": {
         "1": "Costumes",
-        "2": "stage costume",
+        "2": "Stage Costume",
         "3": "Private",
         "4": "Own",
         "5": "There is no corresponding costume item."
@@ -58996,7 +58996,7 @@
         "2": "Idol Skill",
         "3": "Idol Events",
         "4": "Live Skill",
-        "5": "stage costume",
+        "5": "Stage Costume",
         "6": "%",
         "7": "Effect value Lv",
         "8": "{0} clothes unlocked",
