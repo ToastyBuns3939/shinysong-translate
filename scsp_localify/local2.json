@@ -812,7 +812,7 @@
     "休憩時間設定": "Break time setting",
     "次の休憩時間 5/15 23:00 ~ 5/15 29:59 に設定されています。": "The next break is set for 5/15 23:00 ~ 5/15 29:59.",
     "休憩時間中は<color=#ff3300>観客動員数を獲得できません。</color>メダルの獲得および新曲ハイスコアの記録は可能です。": "<color=#ff3300>Audience cannot be obtained during break.</color> It is possible to earn medals and record new song high scores.",
-    "<color=#ff3300>休憩時間中の場合、時間変更はできません。</color>\nイベント初日と最終日を除く期間は毎日1回休憩時間をとる必要があります。変更した設定は翌日以降にも適用されます。": "<color=#ff3300>Time cannot be changed during break time. </color>\nYou must take one break every day except for the first and last day of the event. Changed settings will be applied from the next day onwards.",
+    "<color=#ff3300>休憩時間中の場合、時間変更はできません。</color>\nイベント初日と最終日を除く期間は毎日1回休憩時間をとる必要があります。変更した設定は翌日以降にも適用されます。": "<color=#ff3300>Time cannot be changed during break time.</color>\nYou must take one break every day except for the first and last day of the event.\nChanged settings will be applied from the next day onwards.",
     "イベントPt": "eventPt",
     "イベントPtランキング": "Event Pt Ranking",
     "お祝いアルバムはイベント期間中のみ閲覧可能です。解放された記念写真はスクショ等で保存ください。": "The Celebration album can only be viewed during the event period. Please save the released commemorative photo as a screenshot.",
