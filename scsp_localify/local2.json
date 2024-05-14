@@ -660,9 +660,9 @@
     "・<indent=1em>対象楽曲で限定歌い分けモードをONにして、<COLOR=#31b4f0>CENTER／ONSTAGE枠を楽曲オリジナルメンバーのみで編成する</COLOR>と配置に応じて歌唱パートが変化します。</indent>": "・<size=80%><indent=1em>If you turn on the limited utaiwake mode for the target song and set the <COLOR=#31b4f0>CENTER/ONSTAGE</COLOR> place with only the original members of the song, the singing parts will change according to the arrangement.</indent>",
     "・<indent=1em>CENTER／ONSTAGE枠に対象外のアイドルや同名アイドルを重複編成すると条件未達成となります。</indent>": "・<size=80%><indent=1em>The condition will not be fulfilled if an idol that is not eligible for the CENTER/ONSTAGE slot or an idol with the same name is duplicated.</indent>",
     "編成条件/曲名": "Unit conditions/title",
-    "CENTER枠を楽曲オリジナルメンバーで編成する": "<size=80%>Organize the CENTER frame with the original members of the music",
-    "ON STAGE枠を楽曲オリジナルメンバーのみで編成する": "<size=80%>STAGE slots are organized with only the original members of the song.",
-    "CENTER／ONSTAGE枠に同名アイドルを重複編成していない": "<size=80%>No duplicate idols of the same name are organized in the CENTER/ONSTAGE slots.",
+    "CENTER枠を楽曲オリジナルメンバーで編成する": "<size=80%>Set the CENTER frame with the original members of the music",
+    "ON STAGE枠を楽曲オリジナルメンバーのみで編成する": "<size=80%>STAGE slots are set with only the original members of the song.",
+    "CENTER／ONSTAGE枠に同名アイドルを重複編成していない": "<size=80%>No duplicate idols of the same name are set in the CENTER/ONSTAGE slots.",
         "重複しています": "Duplicate",
 
 
