@@ -5,7 +5,7 @@
 {"key":"SCENARIO_s43_02010000_08_0191","text":"Motion"},
 {"key":"SCENARIO_s43_02010000_08_0331","text":"Motion"},
 {"key":"SCENARIO_s43_02010000_08_0401","text":"Motion"},
-{"key":"SCENARIO_s43_02010000_08_0010","text":"Hana-chan,\nCan I go look at sweets?"},
+{"key":"SCENARIO_s43_02010000_08_0010","text":"Hana-chan,\nCan I go look for some sweets?"},
 {"key":"SCENARIO_s43_02010000_08_0020","text":"Sweets?"},
 {"key":"SCENARIO_s43_02010000_08_0030","text":"Yeah, for the next live performance,\nI\u0027m thinking of bringing something as a treat."},
 {"key":"SCENARIO_s43_02010000_08_0040","text":"Since it\u0027s a rare occasion when everyone in the\noffice is together, I want everyone to enjoy it..."},
@@ -26,7 +26,7 @@
 {"key":"SCENARIO_s43_02010000_08_0190","text":"Right."},
 {"key":"SCENARIO_s43_02010000_08_0200","text":"──Oh, by the way..."},
 {"key":"SCENARIO_s43_02010000_08_0210","text":"...?"},
-{"key":"SCENARIO_s43_02010000_08_0220","text":"Let\u0027s do our best in the live performance.\u0022\u0022"},
+{"key":"SCENARIO_s43_02010000_08_0220","text":"\u0022Let\u0027s do our best in the live performance.\u0022"},
 {"key":"SCENARIO_s43_02010000_08_0230","text":"Wow, Hana-chan...!"},
 {"key":"SCENARIO_s43_02010000_08_0240","text":"\u0022Rather than saying \u0027let\u0027s do our best.\u0022"},
 {"key":"SCENARIO_s43_02010000_08_0250","text":"\u0022I\u0027ll do my best!\u0022"},
@@ -40,8 +40,8 @@
 {"key":"SCENARIO_s43_02010000_08_0330","text":"\u0022I\u0027ll do my best too.\u0022"},
 {"key":"SCENARIO_s43_02010000_08_0340","text":"Heheh──! / Hehe~...!"},
 {"key":"SCENARIO_s43_02010000_08_0350","text":"It\u0027s marked as read twice now,"},
-{"key":"SCENARIO_s43_02010000_08_0360","text":"so all that\u0027s left──"},
+{"key":"SCENARIO_s43_02010000_08_0360","text":"So all that\u0027s left──"},
 {"key":"SCENARIO_s43_02010000_08_0370","text":"Yeah...!\nI wonder what Luca-chan is doing now?"},
 {"key":"SCENARIO_s43_02010000_08_0380","text":"Hey~"},
 {"key":"SCENARIO_s43_02010000_08_0390","text":"Ah, Hana-chan,\nlook at the screen...!"},
-{"key":"SCENARIO_s43_02010000_08_0400","text":"Ahaha, there are three read marks──!"}]
+{"key":"SCENARIO_s43_02010000_08_0400","text":"Ahaha, there are three read marks now──!"}]
