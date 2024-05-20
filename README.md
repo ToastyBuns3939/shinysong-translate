@@ -65,12 +65,13 @@ No maintainer nor contributor will be responsible for any issues encountered as 
 
 ### Requirements (get these first!)
 1.   A PC [DMM] version of *IDOLMASTER SHINY COLORS: Song For Prism*<br />
-     [Here's](https://japancodesupply.com/pages/how-to-create-a-japanese-dmm-com-account) a guide to creating a japanese DMM account.
-     
-2.   A latest copy of **version.dll** from [scsp-localify]. <br />
+     - [Here's](https://japancodesupply.com/pages/how-to-create-a-japanese-dmm-com-account) a guide to creating a japanese DMM account.
+     - And [here's](https://www.psiphon3.com/uz@Latn/download.html) a recommended free VPN to use if you're playing from a region blocked country. Other VPNs should work too as long as they could connect to japan, but from what I've tested, [**psiphon3**](https://www.psiphon3.com/uz@Latn/download.html) is probabyl the best free VPN out there right now.
+       
+3.   A latest copy of **version.dll** from [scsp-localify]. <br />
      [Here's an english guide made by the creator themselves if you need a more in-depth details](https://github.com/chinosk6/scsp-localify/blob/main/readme_EN.md)
 
-3.   The latest version of the **scsp_localify** folder and the **scsp-config.json** file from this github repository
+4.   The latest version of the **scsp_localify** folder and the **scsp-config.json** file from this github repository
 
 ### Install
 1. Copy the **version.dll** file to your song for prism instalation folder which should be at:
