@@ -1,0 +1,12 @@
+[{"key":"SCENARIO_s10_21900300_01_0000","text":"Motion"},
+{"key":"SCENARIO_s10_21900300_01_0001","text":"Motion"},
+{"key":"SCENARIO_s10_21900300_01_0010","text":"......"},
+{"key":"SCENARIO_s10_21900300_01_0020","text":"!"},
+{"key":"SCENARIO_s10_21900300_01_0030","text":"Producer\nWait a moment"},
+{"key":"SCENARIO_s10_21900300_01_0040","text":"?"},
+{"key":"SCENARIO_s10_21900300_01_0050","text":"Yes\nFor you too, Producer"},
+{"key":"SCENARIO_s10_21900300_01_0060","text":"Oh, sorry\nHow much was it?"},
+{"key":"SCENARIO_s10_21900300_01_0070","text":"I was just thirsty\nIt\u0027s fine"},
+{"key":"SCENARIO_s10_21900300_01_0080","text":"Got it, thanks\nBut next time, let me treat you"},
+{"key":"SCENARIO_s10_21900300_01_0090","text":"More importantly\nLet\u0027s do it together in the dressing room"},
+{"key":"SCENARIO_s10_21900300_01_0100","text":"Cheers for a job well done"}]
